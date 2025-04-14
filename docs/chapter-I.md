@@ -4,8 +4,12 @@ En esta sección describimos el perfil de nuestra Startup.
 
 ## 1.1. Startup Profile
 
-
 ### 1.1.1. Descripción de la Startup
+**Corebyte** es una startup tecnológica enfocada en el desarrollo de soluciones digitales para la industria vitivinícola. Nuestro principal objetivo es ofrecer herramientas innovadoras que permitan mejorar la trazabilidad en los procesos de producción de vinos, garantizando transparencia, control y eficiencia. A través de una aplicación web intuitiva, permitimos a productores, distribuidores y consumidores acceder a información detallada y verificable sobre cada etapa del proceso de elaboración del vino.
+
+-Misión: Brindar soluciones digitales inteligentes que optimicen la trazabilidad y gestión de procesos en la industria vitivinícola, promoviendo la calidad, sostenibilidad y confianza en toda la cadena de valor del vino.
+
+-Visión: Ser la plataforma líder en transformación digital para la industria vitivinícola en América Latina, reconocida por su innovación, confiabilidad y contribución al desarrollo tecnológico del sector agroindustrial.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
