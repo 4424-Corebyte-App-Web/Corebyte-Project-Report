@@ -362,6 +362,10 @@ identificados con el fin de poder conocer y empatizar con las necesidades de est
 
 
 ### 2.3.1. User Personas.
+<td>
+ <img src="/assets/img/chapter-II/Jorge Medina.png" height="" alt="JorgeMedina"><br>
+ <img src="/assets/img/chapter-II/Valeria Huaman.png" height="" alt="ValeriaHuaman"><br>
+</td>
 
 ### 2.3.2. User Task Matrix.
 
