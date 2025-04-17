@@ -19,6 +19,8 @@
   - Colores Neutrales:
     - Blanco (#FFFFFF): Sera escencial para el fondo, debido que asegura que el contenido sea legible y que la interfaz luzca amplia y despejada.
     - Gris Medio (#333333): Es lo mas recomendable para textos y elementos gráficos.
+
+![paleta de colores](/assets/img/chapter-IV/paleta_colores.jpg)
 2. Typography:
 - Fuente Principal:
   - Nombre: Winky Rough, se utilizará para encabezados y textos de cuerpo. Da la sensación de elegancia y tradición, adecuada para el tema del viñedo.
