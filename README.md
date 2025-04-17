@@ -15,7 +15,7 @@
 |--|--|
 |  |  |
 | Diaz Quispe Matías Sebastian | u202311938 |
-|  |  |
+| Llerena Delgado Renzo Miguel | u202312399 |
 |  |  |
 |  |  |
 
