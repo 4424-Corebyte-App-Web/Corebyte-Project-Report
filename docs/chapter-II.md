@@ -17,8 +17,36 @@
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
+<td>
+ <img src="/assets/img/chapter-II/Jorge Medina.png" height="" alt="JorgeMedina"><br>
+ <img src="/assets/img/chapter-II/Valeria Huaman.png" height="" alt="ValeriaHuaman"><br>
+</td>
 
 ### 2.3.2. User Task Matrix.
+En esta sección, se presentan las tareas principales que los User Personas (Jorge Medina, líder de asociación de productores, y Valeria Huamán, compradora consciente) realizan para cumplir sus objetivos dentro del sector vitivinícola en Lima, Perú. Es importante destacar que las tareas mencionadas no dependen de ninguna solución de software en particular, sino que reflejan las actividades que cada segmento realiza de manera habitual en sus procesos de producción, distribución y consumo de vinos.
+
+### Jorge Medina – Líder de asociación de productores
+
+| User Task                                    | Frecuencia | Importancia |
+|---------------------------------------------|------------|-------------|
+| Coordinar con productores asociados          | Semanal    | Alta        |
+| Buscar nuevos mercados para la asociación    | Mensual    | Alta        |
+| Organizar capacitaciones técnicas            | Mensual    | Media       |
+| Promover productos en ferias                 | Ocasional  | Media       |
+| Realizar gestiones logísticas de distribución| Semanal    | Alta        |
+| Gestionar catálogo de productos y pedidos    | Semanal    | Alta        |
+
+---
+
+### Valeria Huamán – Compradora consciente
+
+| User Task                                         | Frecuencia | Importancia |
+|--------------------------------------------------|------------|-------------|
+| Buscar y comparar vinos artesanales              | Mensual    | Alta        |
+| Leer sobre historia y trazabilidad del producto  | Ocasional  | Media       |
+| Apoyar marcas con propósito en redes sociales    | Semanal    | Media       |
+| Valorar el empaque y diseño del producto         | Siempre    | Alta        |
+| Realizar compras en línea                        | Mensual    | Alta        |
 
 ### 2.3.3. User Journey Mapping.
 
