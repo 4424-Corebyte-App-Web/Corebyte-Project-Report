@@ -115,6 +115,21 @@
 
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
+| **Nombre**               | Joaquín Enrique Carranza Tesén |
+| **Entrevistador**        | Oscar Javier Armas Sánchez |
+| **Edad**                 | 25 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | El entrevistado indicó que trabaja como asistente en una bodega ubicada en Lunahuaná, encargándose del área de inventario. Utiliza Excel para registrar los datos de su almacén y un cuaderno para anotar información que considera menos relevante. Mostró interés en una propuesta tecnológica que le ayude a almacenar y controlar sus datos de manera eficiente. |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 5:30 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923571_upc_edu_pe/Ee84qx8cO_RLuiQAY5NyaSEBlDSvwnXt1bqG67H7Ie0IlA?e=fe2JMf) |
+
+---
+
+### Entrevistado 2
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
 | **Nombre**               | Mirian Sánchez |
 | **Entrevistador**        | Oscar Javier Armas Sánchez |
 | **Edad**                 | 58 años |
@@ -126,7 +141,7 @@
 
 ---
 
-### Entrevistado 2
+### Entrevistado 3
 
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
