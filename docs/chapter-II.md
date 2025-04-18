@@ -17,10 +17,17 @@
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
-<td>
- <img src="/assets/img/chapter-II/Jorge Medina.png" height="" alt="JorgeMedina"><br>
- <img src="/assets/img/chapter-II/Valeria Huaman.png" height="" alt="ValeriaHuaman"><br>
-</td>
+
+User Person Segmento 1: Productores de vino (bodegas y viñedos)
+
+![Segmento 1](https://imgur.com/SReLM6N.jpg)
+
+<br>
+
+User Person Segmento 2: Consumidores finales interesados en el origen del vino
+
+![Segmento 2](https://imgur.com/chY5PEV.jpg)
+
 
 ### 2.3.2. User Task Matrix.
 En esta sección, se presentan las tareas principales que los User Personas (Jorge Medina, líder de asociación de productores, y Valeria Huamán, compradora consciente) realizan para cumplir sus objetivos dentro del sector vitivinícola en Lima, Perú. Es importante destacar que las tareas mencionadas no dependen de ninguna solución de software en particular, sino que reflejan las actividades que cada segmento realiza de manera habitual en sus procesos de producción, distribución y consumo de vinos.
@@ -49,8 +56,21 @@ En esta sección, se presentan las tareas principales que los User Personas (Jor
 | Realizar compras en línea                        | Mensual    | Alta        |
 
 ### 2.3.3. User Journey Mapping.
+User Journey Map Segmento 1:<br>
+Jorge Medina – Representante de pequeños productores de vino
+
+![JM Jorge Medina](https://imgur.com/ObOqPHU.jpg)
+<br>
+<br>
+
+User Journey Map Segmento 2: <br>
+Valeria Huaman - Consumidores finales interesados en el origen del vino
+![JM Valeria Huaman](https://imgur.com/JXFf62t.jpg)
+
+<br>
 
 ### 2.3.4. Empathy Mapping.
+
 
 ### 2.3.5. As-is Scenario Mapping.
 
