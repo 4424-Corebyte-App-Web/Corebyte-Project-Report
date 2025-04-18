@@ -7,7 +7,7 @@
 - Logo y Marca: El logo se mostrará en la parte superior izquierda de la pantalla de manera clara y visualmente agradable, tal como se ve en las pantallas del login.
 - Paleta de colores:
   - Colores Primarios:
-    - Vino Tinto (#8B0000): Dominante en el diseño, utilizado en los encabezados, bordes principales y títulos principales.
+    - Burdeos profundo (#7B1E3D): Dominante en el diseño, utilizado en los encabezados, bordes principales y títulos principales.
     - Verde Oliva (#556B2F): Utilizado para botones de acción (Principal, secundaria y de navegación), tales como "Agregar cliente", "Guardar", "Ver pedidos", etc.
     - Beige Suave (#F5F5DC): Color principal de fondo, brindando una apariencia clara y minimalista.
   - Colores Secundarios:
