@@ -9,16 +9,15 @@
   - Colores Primarios:
     - Burdeos profundo (#7B1E3D): Dominante en el diseño, utilizado en los encabezados, bordes principales y títulos principales.
     - Verde Oliva (#556B2F): Utilizado para botones de acción (Principal, secundaria y de navegación), tales como "Agregar cliente", "Guardar", "Ver pedidos", etc.
-    - Beige Suave (#F5F5DC): Color principal de fondo, brindando una apariencia clara y minimalista.
+    - Carbón profundo (#1A1A1A): Color principal de fondo, brindando una apariencia clara y minimalista.
   - Colores Secundarios:
-    - Marrón Bodega (#5D4037): Color utilizado en el pie de página o footer, también en bordes de botones.
+    - Carbón Oscuro (#242424): Color utilizado en el pie de página o footer, también en bordes de botones.
     - Dorado Metálico (#DAA520): Se utiliza para destacar elementos importantes o de acento, como botones de acción.
-    - Rojo (#FF6347): Color de advertencia o para resaltar elementos interactivos.
     - Gris Pizarra (#708090): Se utiliza para áreas de fondo secundarias o inactivas.
-    - Oro Antiguo (#CFAE75): Para detalles elegantes y áreas de énfasis.
+    - Gris Medio (#333333): Para detalles elegantes y áreas de énfasis.
   - Colores Neutrales:
     - Blanco (#FFFFFF): Sera escencial para el fondo, debido que asegura que el contenido sea legible y que la interfaz luzca amplia y despejada.
-    - Gris Medio (#333333): Es lo mas recomendable para textos y elementos gráficos.
+    - Gris Claro (#CCCCCC): Es lo mas recomendable para textos y elementos gráficos.
 
 ![paleta de colores](/assets/img/chapter-IV/paleta_colores.jpg)
 
