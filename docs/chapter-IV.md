@@ -21,6 +21,7 @@
     - Gris Medio (#333333): Es lo mas recomendable para textos y elementos gráficos.
 
 ![paleta de colores](/assets/img/chapter-IV/paleta_colores.jpg)
+
 2. Typography:
 - Fuente Principal:
   - Nombre: Winky Rough, se utilizará para encabezados y textos de cuerpo. Da la sensación de elegancia y tradición, adecuada para el tema del viñedo.
