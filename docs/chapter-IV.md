@@ -19,7 +19,7 @@
     - Blanco (#FFFFFF): Sera escencial para el fondo, debido que asegura que el contenido sea legible y que la interfaz luzca amplia y despejada.
     - Gris Claro (#CCCCCC): Es lo mas recomendable para textos y elementos gráficos.
 
-![paleta de colores](/assets/img/chapter-IV/paleta_colores.jpg)
+![paleta de colores](/assets/img/chapter-IV/paleta_colores.png)
 
 2. Typography:
 - Fuente Principal:
