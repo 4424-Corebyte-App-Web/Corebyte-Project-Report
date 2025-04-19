@@ -34,7 +34,7 @@ En esta sección se muestran los wireframes realizados para nuestro Web Applicat
 
 1. Inicio-Corebyte:
 
-![text](/assets/img/chapter-IV/inicio.png) 
+![text](/assets/img/chapter-IV/inicio-4.png) 
 
 2. Inicio sesión-Corebyte:
 
@@ -92,7 +92,7 @@ En esta sección se muestran los mock-ups realizados para nuestro Web Applicatio
 
 1. Inicio-Corebyte:
 
-![text](/assets/img/chapter-IV/inicio-color.png) 
+![text](/assets/img/chapter-IV/inicio-color-4.png) 
 
 2. Inicio sesión-Corebyte:
 
