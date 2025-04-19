@@ -70,8 +70,20 @@ Valeria Huaman - Consumidores finales interesados en el origen del vino
 <br>
 
 ### 2.3.4. Empathy Mapping.
+Emphaty Map Segmento 1: <br>
+Jorge Medina – Representante de pequeños productores de vino
+![EP Jorge Medina](https://imgur.com/qswhGPY.jpg)
+<br>
+<br>
 
+Emphaty Map Segmento 2: <br>
+Valeria Huaman - Consumidores finales interesados en el origen del vino
+![EP Valeria Huaman](https://imgur.com/no78P9Q.jpg)
+
+<br>
 
 ### 2.3.5. As-is Scenario Mapping.
+
+
 
 ## 2.4. Ubiquitous Language.
