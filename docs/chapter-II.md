@@ -84,6 +84,19 @@ Valeria Huaman - Consumidores finales interesados en el origen del vino
 
 ### 2.3.5. As-is Scenario Mapping.
 
+As Is Segmento 1:
+Jorge Medina – Representante de pequeños productores de vino
+![ASIS Jorge Medina](https://imgur.com/bfwRBcR.jpg)
 
+<br>
+<br>
+
+As Is Segmento 2:
+Valeria Huaman - Consumidores finales interesados en el origen del vino
+![ASIS Valeria Huaman](https://imgur.com/JFzYaS5.jpg)
+
+<br>
 
 ## 2.4. Ubiquitous Language.
+<br>
+
