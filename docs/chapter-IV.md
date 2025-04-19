@@ -165,8 +165,69 @@ En esta sección nosotros algunos metodos para facilitar la expericiencia de bus
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
+El wireframe de la página de aterrizaje es una representación visual básica que muestra la estructura y el diseño fundamental de la página. Actúa como un esquema inicial para guiar el desarrollo del diseño final, asegurando una disposición clara de los elementos principales.
+
+Este wireframe incluirá las siguientes secciones:
+
+1. **Nav y Hero:**
+
+![](/assets/img/chapter-IV/inicio.png)
+
+2. **Nosotros:**
+
+![](/assets/img/chapter-IV/nosotros.png)
+
+3. **Servicios:**
+
+![](/assets/img/chapter-IV/servicios.png)
+
+4. **Precios:**
+
+![](/assets/img/chapter-IV/precios.png)
+
+5. **Acerca:**
+
+![](/assets/img/chapter-IV/acerca.png)
+
+6. **Contacto:**
+
+![](/assets/img/chapter-IV/contacto.png)
+
+7. **Footer:**
+
+![](/assets/img/chapter-IV/footer.png)
+
+Este wireframe será el punto de partida para la creación del diseño visual y facilitará una experiencia de usuario cohesiva y efectiva.
 
 ### 4.3.2. Landing Page Mock-up.
+
+Hero de la aplicación El hero de nuestra plataforma de vinos presenta una imagen de fondo que resalta una botella de vino cuidadosamente seleccionada, junto a un botón de llamado a la acción <strong>"Empiezza ahora"</strong> que invita a los usuarios a explorar. Con un título atractivo y una breve descripción, el hero captura la esencia de nuestra propuesta, mientras que una barra de navegación permite acceder fácilmente a las diferentes secciones de la app, ofreciendo una experiencia inmersiva y fluida.
+
+![](/assets/img/chapter-IV/inicio-color.png)
+
+1. **Nosotros-Corebyte:**
+
+![](/assets/img/chapter-IV/nosotros-color.png)
+
+2. **Servicios-Corebyte:**
+
+![](/assets/img/chapter-IV/servicios-color.png)
+
+3. **Precios-Corebyte:**
+
+![](/assets/img/chapter-IV/corebyte-color.png)
+
+4. **Acerca-Corebyte:**
+
+![](/assets/img/chapter-IV/acerca-color.png)
+
+5. **Contacto-Corebyte:**
+
+![](/assets/img/chapter-IV/contacto-color.png)
+
+6. **Footer-Corebyte:**
+
+![](/assets/img/chapter-IV/footer-color.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
