@@ -591,3 +591,7 @@ A continuación se presenta el código en formato markdown con las clases, atrib
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram
+
+Despliegue total del Data Base Diagram de Corebyte
+
+![diagrama-erd](/assets/img/chapter-IV/diagrama-erd.png)
