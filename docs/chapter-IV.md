@@ -71,7 +71,7 @@ Hero de la aplicación El hero de nuestra plataforma de vinos presenta una image
 
 3. **Precios-Corebyte:**
 
-![](/assets/img/chapter-IV/precios-color.png)
+![](/assets/img/chapter-IV/corebyte-color.png)
 
 4. **Acerca-Corebyte:**
 
