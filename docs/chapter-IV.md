@@ -356,6 +356,13 @@ En esta seccion presentamos los principales recorridos que nuestro segmento obje
 ![text](/assets/img/chapter-IV/user-goal-2.png) 
 
 ## 4.5. Web Applications Prototyping.
+El prototipado de aplicaciones web es esencial porque permite visualizar y probar el diseño y la funcionalidad de una aplicación antes de su desarrollo completo. Este proceso es clave para detectar posibles problemas de usabilidad y asegurar que el producto final cumpla con las expectativas de los usuarios y clientes
+
+![prototype-corebyte-control-v1.png](/assets/img/chapter-IV/inicio-color-4-5.png)
+
+Enlace del video: 
+[Prototype Corebyte](https://youtu.be/eKO48cTRR-M)
+
 
 ## 4.6. Domain-Driven Software Architecture.
 
