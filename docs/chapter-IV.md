@@ -56,6 +56,7 @@ Los diagramas de componentes proporcionan una perspectiva sobre las interrelacio
 ![prototype-elixir-control-v1.png](/assets/img/chapter-IV/system-component.png)
 
 <p align = "center"> <em> Fuente: Elaborado con structurizr </em> </p>
+
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
