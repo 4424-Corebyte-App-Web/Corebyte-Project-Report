@@ -16,15 +16,22 @@
 
 ## 2.3. Needfinding.
 
+La exploración de necesidades en el proyecto de Corebyte se centra en comprender profundamente a dos segmentos clave: los productores de vino bodegas y viñedos ubicados en regiones vitivinícolas de Perú y Latinoamérica que necesitan un sistema eficiente para registrar, supervisar y validar cada etapa del proceso productivo, y los consumidores finales que valoran conocer el origen del vino que consumen, demandando información clara y verificada sobre su procedencia. Este proceso de needfinding permitirá identificar puntos críticos y oportunidades de mejora que guiarán el diseño de una solución digital útil, confiable y adaptada a las necesidades reales de ambos grupos.
+
+
 ### 2.3.1. User Personas.
 
-User Person Segmento 1: Productores de vino (bodegas y viñedos)
+En esta sección se presentan dos User Personas que representan los segmentos clave del proyecto Corebyte: los Productores de Vino (bodegas y viñedos) y los Consumidores Finales interesados en el origen del vino. Estos perfiles son esenciales para comprender las necesidades, motivaciones y comportamientos de los usuarios potenciales de la plataforma, que busca mejorar la trazabilidad del proceso productivo y ofrecer transparencia sobre la procedencia del vino tanto para quienes lo elaboran como para quienes lo disfrutan.
+
+User Person Segmento 1: <br>
+El User Persona Jorge Medina representa a un joven líder de una asociación de pequeños productores vitivinícolas en Ica, Perú. Jorge simboliza a un segmento emergente de productores que buscan mejorar la competitividad del vino artesanal sin perder su esencia tradicional. Enfrenta desafíos como la limitada digitalización, el uso de herramientas manuales para el control de inventarios y la dificultad para acceder a mercados urbanos. Su principal objetivo es facilitar la trazabilidad de la producción vitivinícola mediante soluciones tecnológicas accesibles y prácticas, que le permitan optimizar procesos, capacitar a su comunidad y generar confianza en los consumidores finales sobre la calidad de sus productos.
 
 ![Segmento 1](https://imgur.com/SReLM6N.jpg)
 
 <br>
 
-User Person Segmento 2: Consumidores finales interesados en el origen del vino
+User Person Segmento 2: <br>
+Por otro lado, la User Persona Valeria Huaman, consumidora final apasionada por el buen comer y beber, representa a quienes valoran el origen, la historia y la sostenibilidad de los vinos peruanos. Su objetivo principal es descubrir y adquirir vinos auténticos que no se encuentren en supermercados tradicionales, buscando siempre que su compra tenga un propósito. Aunque se siente motivada por apoyar a productores locales y compartir sus experiencias en redes sociales, enfrenta obstáculos como la falta de información clara, plataformas de compra poco optimizadas y escasa conexión con la trazabilidad del producto. Valeria valora profundamente la experiencia completa de compra y desea acceder a canales más confiables y enriquecedores para conectar con estos productos únicos
 
 ![Segmento 2](https://imgur.com/chY5PEV.jpg)
 
@@ -97,6 +104,5 @@ Valeria Huaman - Consumidores finales interesados en el origen del vino
 
 <br>
 
-## 2.4. Ubiquitous Language.
-<br>
+
 
