@@ -20,5 +20,7 @@
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 #### 1.2.2.4. Lean UX Canvas.
-asd
+<td>
+    <img src="/assets/img/chapter-I/LeanUX-Corebyte.png" height="" alt=""><br>
+</td>
 ## 1.3. Segmentos objetivo.
