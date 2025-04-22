@@ -7,8 +7,8 @@
 ### Ingeniería de Software - 5to Ciclo
 ### Profesor: Oscar Ivan Villafuerte Bazan
 ### Sección: 4424
-### Startup: 
-### Producto: 
+### Startup: Corebyte
+### Producto: TraceWine
 ### Integrantes:
 
 | Nombre | Código |
