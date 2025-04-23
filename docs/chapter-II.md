@@ -167,7 +167,7 @@
 | **Resumen**              | El entrevistado se desempeñaba como ayudante de su distribuidora familiar en Ica, se encargaba de control de inventario y mantenimiento del orden en las áreas de trabajo usando herramientas digitales básicas cómo Excel. Presento interés sobre una solución digital que fuera más eficiente al momento de organizarce de mejor manera en la gestion de vinos. |
 | **Tiempo que empieza**   | 0:01 minutos |
 | **Duración de la entrevista** | 4:07 minutos |
-| **URL de la entrevista** | https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing) |
 
 ### 2.2.3. Análisis de entrevistas.
 
