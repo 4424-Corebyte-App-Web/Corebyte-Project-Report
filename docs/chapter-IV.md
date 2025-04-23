@@ -53,6 +53,46 @@ Este wireframe incluirá las siguientes secciones:
 
 ![](/assets/img/chapter-IV/footer.png)
 
+8. **Nav y Hero-mobile:**
+
+![](/assets/img/chapter-IV/mobile-inicio.png)
+
+![](/assets/img/chapter-IV/mobile-nav.png)
+
+9. **Nosotros-mobile:**
+
+![](/assets/img/chapter-IV/acerca-mobile.png)
+
+![](/assets/img/chapter-IV/acerca-mobile-2.png)
+
+10. **Servicios-mobile:**
+
+![](/assets/img/chapter-IV/servicios-mobile.png)
+
+11. **Precios-mobile:**
+
+![](/assets/img/chapter-IV/plan-mobile.png)
+
+![](/assets/img/chapter-IV/plan-mobile-2.png)
+
+![](/assets/img/chapter-IV/plan-mobile-3.png)
+
+12. **Acerca-mobile:**
+
+![](/assets/img/chapter-IV/acercaapp-mobile.png)
+
+![](/assets/img/chapter-IV/acercaapp-mobile-2.png)
+
+13. **Contacto-mobile:**
+
+![](/assets/img/chapter-IV/contacto-mobile.png)
+
+![](/assets/img/chapter-IV/contacto-mobile-2.png)
+
+14. **Footer-mobile:**
+
+![](/assets/img/chapter-IV/footer-mobile.png)
+
 Este wireframe será el punto de partida para la creación del diseño visual y facilitará una experiencia de usuario cohesiva y efectiva.
 
 ### 4.3.2. Landing Page Mock-up.
@@ -84,6 +124,47 @@ Hero de la aplicación El hero de nuestra plataforma de vinos presenta una image
 6. **Footer-Corebyte:**
 
 ![](/assets/img/chapter-IV/footer-color.png)
+
+7. **Nav y Hero-mobile:**
+
+![](/assets/img/chapter-IV/mobile-inicio-color.png)
+
+![](/assets/img/chapter-IV/mobile-nav-color.png)
+
+8. **Nosotros-mobile:**
+
+![](/assets/img/chapter-IV/acerca-mobile-color.png)
+
+![](/assets/img/chapter-IV/acerca-mobile-2-color.png)
+
+9. **Servicios-mobile:**
+
+![](/assets/img/chapter-IV/servicios-mobile-color.png)
+
+10. **Precios-mobile:**
+
+![](/assets/img/chapter-IV/plan-mobile-color.png)
+
+![](/assets/img/chapter-IV/plan-mobile-2-color.png)
+
+![](/assets/img/chapter-IV/plan-mobile-3-color.png)
+
+11. **Acerca-mobile:**
+
+![](/assets/img/chapter-IV/acercaapp-mobile-color.png)
+
+![](/assets/img/chapter-IV/acercaapp-mobile-2-color.png)
+
+12. **Contacto-mobile:**
+
+![](/assets/img/chapter-IV/contacto-mobile-color.png)
+
+![](/assets/img/chapter-IV/contacto-mobile-2-color.png)
+
+13. **Footer-mobile:**
+
+![](/assets/img/chapter-IV/footer-mobile-color.png)
+
 
 ## 4.4. Web Applications UX/UI Design.
 
