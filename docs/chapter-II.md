@@ -178,7 +178,7 @@
 | **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
 | **Edad**                 | 21 años |
 | **Distrito**             | Chorrillos |
-| **Resumen**              |  |
+| **Resumen**              | Carlos es un emprendedor con un enfoque muy práctico en la gestión de su negocio. Es consciente de los desafíos que enfrenta, pero también está buscando maneras de innovar y mejorar sus procesos. Su disposición a adoptar nuevas tecnologías refleja un deseo constante de mantenerse competitivo y eficiente en un mercado tan dinámico como el de la distribución de vinos. |
 | **Tiempo que empieza**   | 0:01 minutos |
 | **Duración de la entrevista** | 4:07 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing) |
