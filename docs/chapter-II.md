@@ -197,6 +197,60 @@
 | **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EXlfg5CgmKdMnqyXf0VgPMMBimKFNo2YMTG4_TwISbcTiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LGLKpo) |
 
 ### 2.2.3. Análisis de entrevistas.
+# Análisis de Segmentos Objetivos
+
+## Segmento Objetivo 1: Productores de Vinos y Piscos Artesanales
+
+### Perfil General:
+Este segmento incluye a los productores que están directamente involucrados en la producción de vinos y piscos artesanales. En base a las entrevistas, se destacan las siguientes características comunes:
+
+1. **Edad y Ubicación:**
+   - Los entrevistados tienen edades jóvenes y medianas (de 25 a 58 años) y provienen de diversas regiones, principalmente de áreas rurales como Lunahuaná y Pacarán, lo que indica una fuerte conexión con la producción artesanal y el cuidado de la tradición vitivinícola.
+   
+2. **Uso de Herramientas Actuales:**
+   - La mayoría de los entrevistados (Joaquín Enrique Carranza, Mirian Sánchez y Fabricio Candela) mencionan que utilizan Excel para el control de inventarios y un cuaderno para registrar información adicional, lo que muestra una tendencia a utilizar soluciones tradicionales y manuales para la gestión de sus procesos.
+   
+3. **Desafíos y Necesidades:**
+   - **Falta de tecnología avanzada:** Todos expresaron que desean soluciones más eficientes y tecnológicas para mejorar la organización y el control de su inventario (como en el caso de Joaquín y Fabricio), lo que sugiere que este segmento está abierto a adoptar herramientas digitales que optimicen su trabajo.
+   - **Legado familiar y tradición:** Mirian, por ejemplo, está al frente de un viñedo familiar con más de 50 años de historia, lo que resalta un enfoque más tradicional pero con la disposición de innovar, dado su interés en tecnologías para facilitar la gestión.
+   
+4. **Oportunidad:**
+   - Existe una clara oportunidad de introducir soluciones digitales que ayuden a mejorar el registro de datos, el control de inventarios y la eficiencia operativa. El uso de herramientas como sistemas de gestión integrados podría aumentar significativamente la eficiencia de estos productores, quienes actualmente enfrentan limitaciones con las soluciones manuales.
+
+### Resumen de Necesidades:
+   - Soluciones digitales para el control de inventarios.
+   - Facilidad de uso para usuarios no tan familiarizados con tecnología avanzada.
+   - Herramientas que les permitan gestionar tanto las operaciones como las ventas de manera más eficiente.
+
+---
+
+## Segmento Objetivo 2: Distribuidores de Vinos y Piscos Artesanales
+
+### Perfil General:
+Este segmento está compuesto por distribuidores que operan en el ámbito de la venta y distribución de vinos artesanales. Los entrevistados muestran diversas actitudes hacia la tecnología y la eficiencia operativa.
+
+1. **Edad y Ubicación:**
+   - Los entrevistados son jóvenes (entre 19 y 25 años) y provienen de áreas urbanas como Chorrillos, lo que indica que estos distribuidores tienen un enfoque más dinámico y están más familiarizados con el uso de herramientas tecnológicas.
+
+2. **Uso de Herramientas Actuales:**
+   - Los entrevistados (JeanPiero, Carlos y Farid) utilizan herramientas básicas como Excel para el control de inventarios. Sin embargo, también muestran interés en mejorar sus procesos mediante soluciones digitales más avanzadas.
+   
+3. **Desafíos y Necesidades:**
+   - **Gestión eficiente del inventario y organización:** En particular, JeanPiero, quien trabajaba en una distribuidora familiar, expresó la necesidad de un sistema que le permitiera gestionar mejor el inventario y organizar las operaciones de distribución de manera más eficiente.
+   - **Limitación de recursos para marketing:** Farid enfrenta dificultades para implementar estrategias de marketing efectivas, lo que limita el alcance de su distribuidora. Este desafío refleja una falta de recursos y herramientas para llegar a nuevos clientes potenciales, lo que representa una barrera para el crecimiento de la empresa.
+   - **Interés en la innovación:** Carlos muestra una actitud proactiva y abierta hacia la adopción de nuevas tecnologías, lo que podría facilitar la implementación de sistemas más sofisticados que mejoren la competitividad de la distribuidora.
+
+4. **Oportunidad:**
+   - El segmento está claramente interesado en mejorar la gestión del inventario y las operaciones logísticas mediante soluciones digitales. Además, hay una necesidad latente de herramientas de marketing que les permitan llegar a más clientes.
+   - Existe una oportunidad significativa para ofrecer herramientas tecnológicas que optimicen la gestión de inventarios, mejoren la comunicación con clientes y potenciales compradores, y proporcionen soluciones para campañas de marketing más efectivas y accesibles para pequeñas distribuidoras.
+
+### Resumen de Necesidades:
+   - Soluciones tecnológicas avanzadas para la gestión de inventarios y distribución.
+   - Herramientas de marketing accesibles y efectivas para pequeños distribuidores.
+   - Soporte para la innovación y el crecimiento en un mercado competitivo.
+
+---
+
 
 ## 2.3. Needfinding.
 
