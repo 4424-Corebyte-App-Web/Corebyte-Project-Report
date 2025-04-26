@@ -169,6 +169,20 @@
 | **Duración de la entrevista** | 4:07 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing) |
 
+
+---
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               |  |
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 19 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              |  |
+| **Tiempo que empieza**   | 0:01 minutos |
+| **Duración de la entrevista** | 4:07 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing) |
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
