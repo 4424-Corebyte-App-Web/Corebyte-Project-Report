@@ -183,6 +183,19 @@
 | **Duración de la entrevista** | 4:30 minutos |
 | **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1qdzf6-vAzIZW0xydVf3CEyffBWA3MVnv/view?usp=sharing) |
 
+---
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Farid Sebastian Coronel Espinoza |
+| **Entrevistador**        | Matias  |
+| **Edad**                 | 20 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | Farid dirige una distribuidora de vinos ubicada en Villa María del Triunfo, especializada en vinos artesanales. En la actualidad, se encuentra en un proceso de adquisición de nuevos productos, pero su mayor desafío es la limitación de recursos para implementar estrategias de marketing que lleguen de manera efectiva a los clientes interesados. Además, la falta de canales adecuados de comunicación agrava esta situación. |
+| **Tiempo que empieza**   | 0:01 minutos |
+| **Duración de la entrevista** | 4:10 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EXlfg5CgmKdMnqyXf0VgPMMBimKFNo2YMTG4_TwISbcTiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LGLKpo) |
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
