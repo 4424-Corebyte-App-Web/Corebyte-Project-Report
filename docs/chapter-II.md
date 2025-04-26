@@ -175,8 +175,8 @@
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
 | **Nombre**               |  |
-| **Entrevistador**        | Renzo Miguel Llerena Delgado |
-| **Edad**                 | 19 años |
+| **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
+| **Edad**                 | 21 años |
 | **Distrito**             | Chorrillos |
 | **Resumen**              |  |
 | **Tiempo que empieza**   | 0:01 minutos |
