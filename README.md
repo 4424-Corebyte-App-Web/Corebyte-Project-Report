@@ -7,17 +7,17 @@
 ### Ingeniería de Software - 5to Ciclo
 ### Profesor: Oscar Ivan Villafuerte Bazan
 ### Sección: 4424
-### Startup: 
-### Producto: 
+### Startup: Corebyte
+### Producto: TraceWine
 ### Integrantes:
 
 | Nombre | Código |
 |--|--|
-|  |  |
+| Renzo Miguel Llerena Delagado| u202312399 |
 | Diaz Quispe Matías Sebastian | u202311938 |
-|  |  |
-|  |  |
-|  |  |
+| Renzo Alonso Villafuerte Tapia | u202310670 |
+| Oscar Javier Armas Sánchez | u20211G192 |
+| Torres Apolinario Giovany Smith | u202311601 |
 
 ###### Abril 2025
 
