@@ -442,7 +442,7 @@ El prototipado de aplicaciones web es esencial porque permite visualizar y proba
 ![prototype-corebyte-control-v1.png](/assets/img/chapter-IV/inicio-color-4-5.png)
 
 Enlace del video: 
-[Prototype Corebyte](https://youtu.be/eKO48cTRR-M)
+[Prototype Corebyte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZPkgOHqCl5Hvo2ziN__Y5EBnTvZGpB0fYy44xIE-4KK0A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WN4SNK)
 
 
 ## 4.6. Domain-Driven Software Architecture.
