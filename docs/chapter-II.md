@@ -32,10 +32,248 @@ Luego de analizar la competencia, se plantea la siguiente matriz CAME, derivada 
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
+# Preguntas para Productores de Vinos y Piscos Artesanales
+
+## 1. Introducción (30 segundos)
+- Saludo y presentación  
+- Breve introducción tuya y del propósito de la entrevista  
+- Asegurar confidencialidad y explicar el tiempo estimado  
+
+## 2. Aspectos Demográficos (1 minuto)
+
+### Datos Básicos
+- ¿Cuál es tu nombre y cuál es el nombre de tu empresa?  
+- ¿Cuál es tu rol específico en la producción de vinos/piscos?  
+
+### Ubicación
+- ¿Dónde está ubicada tu empresa o tu lugar de producción?  
+
+### Experiencia
+- ¿Cuánto tiempo llevas en la industria de la producción de vinos/piscos?  
+
+## 3. Información General sobre el Negocio (1 minuto)
+
+### Tipo de Producto
+- ¿Qué tipo de vinos/piscos produces?  
+
+### Proceso de Producción
+- ¿Cuál es la etapa más desafiante de tu proceso de producción?  
+
+## 4. Desafíos y Necesidades (1 minuto)
+
+### Desafíos
+- ¿Cuál es el mayor desafío que enfrentas en la producción?  
+
+### Necesidades
+- ¿Qué tipo de apoyo o recursos te gustaría tener para superar esos desafíos?  
+
+## 5. Uso de Tecnología (1 minuto)
+
+### Tecnología Actual
+- ¿Qué herramientas o tecnologías utilizas actualmente en tu producción?  
+
+### Interés en Nuevas Herramientas
+- ¿Estarías interesado en nuevas herramientas que te ayuden a gestionar tu producción?  
+- ¿Qué características te gustaría que tuvieran?  
+
+## 6. Cierre (30 segundos)
+- Agradecer al entrevistado por su tiempo  
+- Preguntar si están dispuestos a ser contactados para más detalles o futuras pruebas  
+
+---
+
+# Preguntas para Distribuidores de Vinos
+
+## 1. Introducción (30 segundos)
+- Saludo y presentación  
+- Breve presentación tuya y del propósito de la entrevista  
+- Explicar cómo se utilizará la información y asegurar confidencialidad  
+
+## 2. Aspectos Demográficos (1 minuto)
+
+### Datos Básicos
+- ¿Cuál es tu nombre y el nombre de tu empresa?  
+- ¿Cuál es tu rol en la empresa?  
+
+### Ubicación
+- ¿Dónde está ubicada tu empresa o tu tienda?  
+
+### Experiencia
+- ¿Cuánto tiempo llevas en el negocio de la distribución de vinos?  
+
+## 3. Información General sobre el Negocio (1 minuto)
+
+### Tipo de Vinos
+- ¿Qué tipo de vinos compras y vendes (por ejemplo, nacionales, importados, artesanales)?  
+
+### Proceso de Adquisición
+- ¿Cómo decides qué vinos comprar y vender?  
+
+## 4. Desafíos y Necesidades (1 minuto)
+
+### Desafíos
+- ¿Cuál es el mayor desafío que enfrentas en la compra y venta de vinos?  
+
+### Necesidades
+- ¿Qué tipo de apoyo o recursos te gustaría tener para mejorar tu negocio de distribución?  
+
+## 5. Uso de Tecnología (1 minuto)
+
+### Tecnología Actual
+- ¿Qué herramientas o tecnologías utilizas para gestionar la compra y venta de vinos?  
+
+### Interés en Nuevas Herramientas
+- ¿Estás interesado en nuevas tecnologías o herramientas que podrían mejorar la gestión de tu negocio?  
+- ¿Qué características buscarías?  
+
+## 6. Cierre (30 segundos)
+- Agradecer al entrevistado por su tiempo y participación  
+- Preguntar si están dispuestos a participar en futuras investigaciones o pruebas de producto  
+
 
 ### 2.2.2. Registro de entrevistas.
+# Segmento Objetivo 1: Productores de Vinos y Piscos Artesanales
+
+### Entrevistado 1
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Joaquín Enrique Carranza Tesén |
+| **Entrevistador**        | Oscar Javier Armas Sánchez |
+| **Edad**                 | 25 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | El entrevistado indicó que trabaja como asistente en una bodega ubicada en Lunahuaná, encargándose del área de inventario. Utiliza Excel para registrar los datos de su almacén y un cuaderno para anotar información que considera menos relevante. Mostró interés en una propuesta tecnológica que le ayude a almacenar y controlar sus datos de manera eficiente. |
+| **Tiempo que empieza**   | 0:00 minutos |
+| **Duración de la entrevista** | 5:30 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923571_upc_edu_pe/Ee84qx8cO_RLuiQAY5NyaSEBlDSvwnXt1bqG67H7Ie0IlA?e=fe2JMf) |
+
+---
+
+### Entrevistado 2
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Mirian Sánchez |
+| **Entrevistador**        | Oscar Javier Armas Sánchez |
+| **Edad**                 | 58 años |
+| **Distrito**             | Pacarán |
+| **Resumen**              | La entrevistada es dueña de un viñedo que lleva el nombre de su familia, con más de 50 años de trayectoria. Ella se encarga de coordinar las labores del viñedo con sus ayudantes. Usa Excel para llevar sus cuentas, y un cuaderno para anotar sus gastos y posibles ventas. Lleva aproximadamente 6 años a cargo del viñedo que heredó de sus padres y desea continuar con el legado familiar. |
+| **Tiempo que empieza**   | 0:05 minutos |
+| **Duración de la entrevista** | 8:13 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923571_upc_edu_pe/EUJRH1TnmRZIq13cyEp07RsB6ixOH6U_eU9az7MytczEXw?e=XO639h) |
+
+---
+
+### Entrevistado 3
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Fabricio Candela |
+| **Entrevistador**        | Oscar Javier Armas Sánchez |
+| **Edad**                 | 26 años |
+| **Distrito**             | San Juan de Miraflores |
+| **Resumen**              | El entrevistado se desempeña como asistente en una bodega de Lunahuaná, siendo responsable del área de inventario. Utiliza Excel para el registro de su almacén y un cuaderno para notas menos relevantes. Manifestó interés en una solución digital que le facilite el control y almacenamiento eficiente de su inventario. |
+| **Tiempo que empieza**   | 0:04 minutos |
+| **Duración de la entrevista** | 4:21 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923571_upc_edu_pe/EfZVpAdvdvxGjOuLCSm8PuIBtXUHGDLTcAcdAZowxFqyJA?e=ZV6NhE) |
+
+# Segmento Objetivo 2: Distribuidores de Vinos y Piscos Artesanales
+
+### Entrevistado 1
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | JeanPiero Landa |
+| **Entrevistador**        | Renzo Miguel Llerena Delgado |
+| **Edad**                 | 19 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | El entrevistado se desempeñaba como ayudante de su distribuidora familiar en Ica, se encargaba de control de inventario y mantenimiento del orden en las áreas de trabajo usando herramientas digitales básicas cómo Excel. Presento interés sobre una solución digital que fuera más eficiente al momento de organizarce de mejor manera en la gestion de vinos. |
+| **Tiempo que empieza**   | 0:01 minutos |
+| **Duración de la entrevista** | 4:07 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing) |
+
+
+---
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Carlos Ramirez |
+| **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
+| **Edad**                 | 25 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | Carlos es un emprendedor con un enfoque muy práctico en la gestión de su negocio. Es consciente de los desafíos que enfrenta, pero también está buscando maneras de innovar y mejorar sus procesos. Su disposición a adoptar nuevas tecnologías refleja un deseo constante de mantenerse competitivo y eficiente en un mercado tan dinámico como el de la distribución de vinos. |
+| **Tiempo que empieza**   | 0:01 minutos |
+| **Duración de la entrevista** | 4:30 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1qdzf6-vAzIZW0xydVf3CEyffBWA3MVnv/view?usp=sharing) |
+
+---
+
+| **Campo**                | **Detalle** |
+|--------------------------|-------------|
+| **Nombre**               | Farid Sebastian Coronel Espinoza |
+| **Entrevistador**        | Matias  |
+| **Edad**                 | 20 años |
+| **Distrito**             | Chorrillos |
+| **Resumen**              | Farid dirige una distribuidora de vinos ubicada en Villa María del Triunfo, especializada en vinos artesanales. En la actualidad, se encuentra en un proceso de adquisición de nuevos productos, pero su mayor desafío es la limitación de recursos para implementar estrategias de marketing que lleguen de manera efectiva a los clientes interesados. Además, la falta de canales adecuados de comunicación agrava esta situación. |
+| **Tiempo que empieza**   | 0:01 minutos |
+| **Duración de la entrevista** | 4:10 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EXlfg5CgmKdMnqyXf0VgPMMBimKFNo2YMTG4_TwISbcTiA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LGLKpo) |
 
 ### 2.2.3. Análisis de entrevistas.
+# Análisis de Segmentos Objetivos
+
+## Segmento Objetivo 1: Productores de Vinos y Piscos Artesanales
+
+### Perfil General:
+Este segmento incluye a los productores que están directamente involucrados en la producción de vinos y piscos artesanales. En base a las entrevistas, se destacan las siguientes características comunes:
+
+1. **Edad y Ubicación:**
+   - Los entrevistados tienen edades jóvenes y medianas (de 25 a 58 años) y provienen de diversas regiones, principalmente de áreas rurales como Lunahuaná y Pacarán, lo que indica una fuerte conexión con la producción artesanal y el cuidado de la tradición vitivinícola.
+   
+2. **Uso de Herramientas Actuales:**
+   - La mayoría de los entrevistados (Joaquín Enrique Carranza, Mirian Sánchez y Fabricio Candela) mencionan que utilizan Excel para el control de inventarios y un cuaderno para registrar información adicional, lo que muestra una tendencia a utilizar soluciones tradicionales y manuales para la gestión de sus procesos.
+   
+3. **Desafíos y Necesidades:**
+   - **Falta de tecnología avanzada:** Todos expresaron que desean soluciones más eficientes y tecnológicas para mejorar la organización y el control de su inventario (como en el caso de Joaquín y Fabricio), lo que sugiere que este segmento está abierto a adoptar herramientas digitales que optimicen su trabajo.
+   - **Legado familiar y tradición:** Mirian, por ejemplo, está al frente de un viñedo familiar con más de 50 años de historia, lo que resalta un enfoque más tradicional pero con la disposición de innovar, dado su interés en tecnologías para facilitar la gestión.
+   
+4. **Oportunidad:**
+   - Existe una clara oportunidad de introducir soluciones digitales que ayuden a mejorar el registro de datos, el control de inventarios y la eficiencia operativa. El uso de herramientas como sistemas de gestión integrados podría aumentar significativamente la eficiencia de estos productores, quienes actualmente enfrentan limitaciones con las soluciones manuales.
+
+### Resumen de Necesidades:
+   - Soluciones digitales para el control de inventarios.
+   - Facilidad de uso para usuarios no tan familiarizados con tecnología avanzada.
+   - Herramientas que les permitan gestionar tanto las operaciones como las ventas de manera más eficiente.
+
+---
+
+## Segmento Objetivo 2: Distribuidores de Vinos y Piscos Artesanales
+
+### Perfil General:
+Este segmento está compuesto por distribuidores que operan en el ámbito de la venta y distribución de vinos artesanales. Los entrevistados muestran diversas actitudes hacia la tecnología y la eficiencia operativa.
+
+1. **Edad y Ubicación:**
+   - Los entrevistados son jóvenes (entre 19 y 25 años) y provienen de áreas urbanas como Chorrillos, lo que indica que estos distribuidores tienen un enfoque más dinámico y están más familiarizados con el uso de herramientas tecnológicas.
+
+2. **Uso de Herramientas Actuales:**
+   - Los entrevistados (JeanPiero, Carlos y Farid) utilizan herramientas básicas como Excel para el control de inventarios. Sin embargo, también muestran interés en mejorar sus procesos mediante soluciones digitales más avanzadas.
+   
+3. **Desafíos y Necesidades:**
+   - **Gestión eficiente del inventario y organización:** En particular, JeanPiero, quien trabajaba en una distribuidora familiar, expresó la necesidad de un sistema que le permitiera gestionar mejor el inventario y organizar las operaciones de distribución de manera más eficiente.
+   - **Limitación de recursos para marketing:** Farid enfrenta dificultades para implementar estrategias de marketing efectivas, lo que limita el alcance de su distribuidora. Este desafío refleja una falta de recursos y herramientas para llegar a nuevos clientes potenciales, lo que representa una barrera para el crecimiento de la empresa.
+   - **Interés en la innovación:** Carlos muestra una actitud proactiva y abierta hacia la adopción de nuevas tecnologías, lo que podría facilitar la implementación de sistemas más sofisticados que mejoren la competitividad de la distribuidora.
+
+4. **Oportunidad:**
+   - El segmento está claramente interesado en mejorar la gestión del inventario y las operaciones logísticas mediante soluciones digitales. Además, hay una necesidad latente de herramientas de marketing que les permitan llegar a más clientes.
+   - Existe una oportunidad significativa para ofrecer herramientas tecnológicas que optimicen la gestión de inventarios, mejoren la comunicación con clientes y potenciales compradores, y proporcionen soluciones para campañas de marketing más efectivas y accesibles para pequeñas distribuidoras.
+
+### Resumen de Necesidades:
+   - Soluciones tecnológicas avanzadas para la gestión de inventarios y distribución.
+   - Herramientas de marketing accesibles y efectivas para pequeños distribuidores.
+   - Soporte para la innovación y el crecimiento en un mercado competitivo.
+
+---
+
 
 ## 2.3. Needfinding.
 
