@@ -174,14 +174,14 @@
 
 | **Campo**                | **Detalle** |
 |--------------------------|-------------|
-| **Nombre**               |  |
+| **Nombre**               | Carlos Ramirez |
 | **Entrevistador**        | Renzo Alonso Villafuerte Tapia |
-| **Edad**                 | 21 años |
+| **Edad**                 | 25 años |
 | **Distrito**             | Chorrillos |
 | **Resumen**              | Carlos es un emprendedor con un enfoque muy práctico en la gestión de su negocio. Es consciente de los desafíos que enfrenta, pero también está buscando maneras de innovar y mejorar sus procesos. Su disposición a adoptar nuevas tecnologías refleja un deseo constante de mantenerse competitivo y eficiente en un mercado tan dinámico como el de la distribución de vinos. |
 | **Tiempo que empieza**   | 0:01 minutos |
-| **Duración de la entrevista** | 4:07 minutos |
-| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1V6wNB8uxSikzt8AcjL_lJY6lZpYr2lPc/view?usp=sharing) |
+| **Duración de la entrevista** | 4:30 minutos |
+| **URL de la entrevista** | [Ver entrevista](https://drive.google.com/file/d/1qdzf6-vAzIZW0xydVf3CEyffBWA3MVnv/view?usp=sharing) |
 
 ### 2.2.3. Análisis de entrevistas.
 
