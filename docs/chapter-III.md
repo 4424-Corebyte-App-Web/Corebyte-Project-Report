@@ -773,7 +773,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
             <td>TS001</td>
             <td>Obtener Datos de los procesos de vinificación </td>
             <td>
-                Como desarrollador backend en MetaSoft, quiero obtener los datos del proceso de vinificación a través de una API para permitir al equipo de frontend utilizar los datos del proceso en la interfaz. 
+                Como desarrollador backend en CoreByte, quiero obtener los datos del proceso de vinificación a través de una API para permitir al equipo de frontend utilizar los datos del proceso en la interfaz. 
             </td>
             <td>
                 <strong>Scenario 01: Obtener Datos de Vinificación Exitosamente</strong><br>
@@ -801,7 +801,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
             <td>TS002</td>
             <td>Editar Datos de los Procesos de Vinificación  </td>
             <td>
-                Como desarrollador backend en MetaSoft, 
+                Como desarrollador backend en CoreByte, 
                 quiero editar los datos de un proceso de vinificación a través de una API 
                 para asegurar que la información del proceso esté siempre actualizada. 
             </td>
@@ -829,7 +829,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-03</td>
     <td>Eliminar Datos de los Procesos de Vinificación</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero eliminar un proceso de vinificación a través de una API 
         para mantener la base de datos limpia y actualizada.
     </td>
@@ -857,7 +857,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-04</td>
     <td>Crear Datos de los Procesos de Vinificación</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero crear un nuevo proceso de vinificación a través de una API 
         para permitir que los vinicultores registren sus procesos de manera eficiente.
     </td>
@@ -885,7 +885,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-05</td>
     <td>Crear un cliente distribuidor</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para crear un cliente distribuidor a través de una API 
         para permitir que los vinicultores registren nuevos distribuidores de manera eficiente.
     </td>
@@ -913,7 +913,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-06</td>
     <td>Editar los detalles de un cliente distribuidor</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para editar los datos de un cliente distribuidor a través de una API 
         para que el vinicultor pueda actualizar la información del cliente cuando sea necesario.
     </td>
@@ -941,7 +941,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-07</td>
     <td>Eliminar un cliente distribuidor</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para eliminar un cliente distribuidor a través de una API 
         para asegurar que los vinicultores puedan mantener su lista de clientes distribuidores limpia y actualizada.
     </td>
@@ -968,7 +968,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-08</td>
     <td>Ver los detalles de un cliente distribuidor</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para ver los detalles de un cliente distribuidor a través de una API 
         para que el vinicultor pueda acceder a la información detallada de sus clientes de manera eficiente.
     </td>
@@ -995,7 +995,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-09</td>
     <td>Registrar un pedido</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero crear un nuevo pedido a través de una API 
         para permitir que los vinicultores registren sus pedidos de manera eficiente.
     </td>
@@ -1022,7 +1022,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-10</td>
     <td>Ver detalles de un pedido</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para ver los detalles de un pedido a través de una API 
         para que el vinicultor pueda acceder a la información detallada de un pedido de manera eficiente.
     </td>
@@ -1044,7 +1044,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-11</td>
     <td>Creación y Gestión de Pedidos de Vinos</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar un endpoint de API que permita a los distribuidores crear, modificar y visualizar sus pedidos de vinos 
         para facilitar la gestión eficiente de pedidos y su seguimiento a través de la plataforma.
     </td>
@@ -1068,7 +1068,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-12</td>
     <td>Actualizar estado de un pedido</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para actualizar el estado de un pedido 
         para que el vinicultor pueda tener la información 
         actualizada y administrar mejor sus pedidos.
@@ -1091,7 +1091,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-13</td>
     <td>Seguimiento y Notificaciones del Estado del Pedido</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar un endpoint de API para que los distribuidores puedan seguir el estado de sus pedidos y recibir notificaciones 
         para que estén informados sobre cualquier cambio en el estado o fecha de entrega del pedido.
     </td>
@@ -1115,7 +1115,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-14</td>
     <td>Ver detalles de un ítem del inventario</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para ver los detalles de un ítem del inventario a través de una API, 
         para que los usuarios puedan acceder a la información detallada de cada ítem de manera eficiente.
     </td>
@@ -1142,7 +1142,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-15</td>
     <td>Eliminar un ítem del inventario</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para eliminar un ítem del inventario a través de una API, 
         para permitir que los administradores gestionen eficientemente los ítems innecesarios.
     </td>
@@ -1169,7 +1169,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-16</td>
     <td>Agregar nuevo ítem al inventario</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para agregar nuevos ítems al inventario a través de una API, 
         para permitir que los administradores registren nuevos productos eficientemente.
     </td>
@@ -1196,7 +1196,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-17</td>
     <td>Buscar y filtrar ítems en el inventario</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar una función de búsqueda y filtrado para los ítems del inventario a través de una API 
         para que los usuarios puedan encontrar fácilmente los ítems que necesitan según diferentes criterios.
     </td>
@@ -1223,7 +1223,7 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     <td>TS-18</td>
     <td>Eliminar un pedido</td>
     <td>
-        Como desarrollador backend en MetaSoft, 
+        Como desarrollador backend en CoreByte, 
         quiero implementar la función para eliminar un pedido 
         para que el vinicultor pueda eliminar un pedido mal realizado.
     </td>
