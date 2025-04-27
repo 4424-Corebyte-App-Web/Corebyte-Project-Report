@@ -553,11 +553,112 @@ Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
+Para este primer sprint no se realizaron testing.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+
+Después de completar el Sprint 1, logramos implementar todas las secciones de nuestra Landing Page para garantizar una visualización perfecta. Además, le dimos un formato atractivo que captura la atención del usuario hacia sus diferentes componentes. También agregamos métodos de navegación en la página, como botones ubicados al principio, que te permiten moverte fácilmente de una sección a otra. A continuación, te mostraremos los avances a través de imágenes del resultado obtenido.
+
+Es importante destacar que el objetivo principal de la Landing Page es convertir a los visitantes en futuros clientes o usuarios habituales de nuestro servicio. Para lograrlo, utilizamos llamados a la acción (Call To Action) que los guían hacia la aplicación web.
+
+A continuación, te presentamos capturas de pantalla del desarrollo de la Landing Page:
+
+
+**Encabezado y botones de desplazamiento:**
+
+En la parte superior, se encuentra el encabezado (Header) que incluye botones de inicio (Home), beneficios (benefits), Pricing (Pricing), sobre la aplicación (about), testimonios de usuarios (testimonials), un formulario para que nos contacten (Contact), un apartado para saber sobre el equipo (About us) y un botón para cambiar el idioma entre inglés y español. Estos elementos permiten a los visitantes desplazarse fácilmente a la sección que deseen visualizar.
+
+Imagen 01: Encabezado y botones de desplazamiento
+
+![header-landing-page.png](../assets/img/chapter-V/header-landing-page.png)
+
+**Sección Hero:**
+
+Se presenta la sección "Hero", que incluye una breve descripción y una frase representativa de TraceWine. Además, permite iniciar el uso del servicio web y proporciona una imagen relacionada con el mismo.
+
+Imagen 02: Sección Hero
+
+![hero-landing-page.png](../assets/img/chapter-V/hero-landing-page.png)
+
+
+**Sección Services:**
+
+Se presenta la sección de servicio que ofrecemos para nuestros segmentos objetivos. En esta sección, se describen los beneficios y características de TraceWine, lo que permite a los visitantes conocer más sobre el servicio.
+
+Imagen 03: Sección Services
+![services-landing-page.png](../assets/img/services-landing-page.png)
+
+
+**Sección Pricing:**
+
+En la sección de precios, se detallan los planes y precios de TraceWine. Esta información es esencial para que los visitantes conozcan las opciones disponibles y puedan elegir la que mejor se adapte a sus necesidades.
+
+Imagen 04: Sección Pricing
+![plans-landing-page.png](../assets/img/chapter-V/plans-landing-page.png)
+
+
+**Sección About the App:**
+
+En esta sección, se presenta información detallada sobre la aplicación TraceWine, sus características y funcionalidades. Esto permite a los visitantes conocer más sobre la aplicación y cómo puede ayudarles en su día a día.
+
+Imagen 05: Sección About the App
+
+![about-the-app-landing-page.png](../assets/img/sprint-1/about-the-app-landing-page.png)
+
+
+**Sección About the Team:**
+
+En la sección "About the Team", se presenta información sobre el equipo de desarrollo de TraceWine. Esto permite a los visitantes conocer a las personas detrás del servicio y generar confianza en la calidad y profesionalismo del equipo.
+
+![about-the-team-landing-page.png](../assets/img/chapter-V/about-the-team-landing-page.png)
+
+**Sección Contact:**
+
+En la sección de contacto, se presenta un formulario que permite a los visitantes enviar consultas, comentarios o solicitudes de información sobre TraceWine. Esto facilita la comunicación con los usuarios y permite responder a sus necesidades de manera eficiente.
+
+![contact-landing-page.png](../assets/img/chapter-V/contact-landing-page.png)
+
+**Footer:**
+
+En el pie de página (Footer), se incluyen enlaces a las redes sociales de TraceWine, información de contacto y un botón para volver al inicio de la página. Esto permite a los visitantes acceder a más información y mantenerse conectados con el servicio.
+
+![footer-landing-page.png](../assets/img/chapter-V/footer-landing-page.png)
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+En el primer Sprint el equipo de desarrollo de CoreByte ha diseñado, programado y puesto en funcionamiento el sitio web (Landing Page) Para presentar la aplicación Web propuesta denominada "TraceWine". En este sitio web (Landing Page), se lográ visualizar varias secciones que ilustran en que consiste "TraceWine", cada integrante del equipo de desarrollo de CoreByte estuvo a cargo de una sección en especifico.
+
+<table>
+  <thead>
+    <tr>
+      <th>End Point</th>
+      <th> Funciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/</td>
+        <td>Mostrar la Landing Page Desplegada</td>
+    </tr>
+  </tbody>
+</table>
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CoreByte:
+
+A continuación se muestra la cantidad de commits realizadas por cada integrante del equipo durante el desarrollo de la landing page.
+
+![tb1-pulse.png](../assets/img/chapter-V/tb1-pulse.png)
+
+Los siguientes gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+
+![tb1-traffic.png](../assets/img/chapter-V/tb1-traffic.png)
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
