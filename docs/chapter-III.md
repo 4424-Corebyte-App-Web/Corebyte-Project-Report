@@ -109,17 +109,13 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
             <td>EPIC-09</td>
             <td>Experiencia Integral del Visitante en la Landing Page</td>
             <td>
-                Como visitante de la landing page de Elixir Control, quiero tener una experiencia de navegación fluida, con información clara sobre la aplicación, sus beneficios, precios, y acceso a soporte, para tomar decisiones informadas y sentirme seguro al considerar la adopción de la aplicación.
+                Como visitante de la landing page de TraceWine, quiero tener una experiencia de navegación fluida, con información clara sobre la aplicación, sus beneficios, precios, y acceso a soporte, para tomar decisiones informadas y sentirme seguro al considerar la adopción de la aplicación.
             </td>
             <td>N/A</td>
             <td>N/A</td>
         </tr>
     </tbody>
 </table>
-
-
-
-
 <table>
     <thead>
         <tr>
@@ -131,7 +127,6 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
         </tr>
     </thead>
     <tbody>
-    <!--=========================== User Story 1 ===========================-->
     <tr>
         <td>US-001</td>
         <td>Hipervínculos en el encabezado</td>
@@ -155,7 +150,6 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
         </td>
         <td>EPIC-09</td>
     </tr>
-    <!--=========================== User Story 2 ===========================-->
     <tr>
         <td>US-002</td>
         <td>Información sobre beneficios de la aplicación</td>
@@ -167,7 +161,7 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
             <br>
             Given un visitante en la landing page
             When el visitante llega al sitio web
-            Then la introducción de la aplicación está visible y presenta claramente el propósito de Elixir Control.
+            Then la introducción de la aplicación está visible y presenta claramente el propósito de TraceWine.
             <br><br>
             <strong>Scenario 2: Introducción comunica el propósito de la aplicación</strong>
             <br>
@@ -177,13 +171,12 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
         </td>
         <td>EPIC-09</td>
     </tr>
-    <!--=========================== User Story 3 ===========================-->
     <tr>
         <td>US-003</td>
         <td>Información sobre beneficios de la aplicación</td>
         <td>
             Como visitante con rol de vinicultor que evalúa diferentes opciones,
-            quiero ver los beneficios específicos de usar Elixir Control,
+            quiero ver los beneficios específicos de usar TraceWine,
             para comprender cómo puede mejorar mi gestión de inventario y procesos de venta.
         </td>
         <td>
@@ -191,7 +184,7 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
             <br>
             Given un vinicultor en la landing page
             When el visitante accede a la sección de beneficios
-            Then los beneficios específicos de Elixir Control están claramente visibles.
+            Then los beneficios específicos de TraceWine están claramente visibles.
             <br><br>
             <strong>Scenario 2: Beneficios son comprensibles para el visitante</strong>
             <br>
@@ -201,12 +194,11 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
         </td>
         <td>EPIC-09</td>
     </tr>
-    <!--=========================== User Story 4 ===========================-->
     <tr>
         <td>US-004</td>
         <td>Opciones de Precios Claras para Decisiones Informadas</td>
         <td>
-            Como visitante con rol de vinicultor e interesado en adquirir Elixir Control,
+            Como visitante con rol de vinicultor e interesado en adquirir TraceWine,
             quiero ver una tabla de precios clara y detallada,
             para tomar una decisión informada sobre el plan que mejor se adapta a mis necesidades.	        
         </td>
@@ -225,14 +217,13 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
         </td>
         <td>EPIC-09</td>
     </tr>
-    <!--=========================== User Story 5 ===========================-->
     <tr>
         <td>US-005</td>
         <td>Acceso fácil a soporte y asesoramiento</td>
         <td>
             Como visitante que tiene preguntas adicionales,
             quiero encontrar fácilmente la información de contacto,
-            para poder comunicarme con el soporte o el equipo de ventas de Elixir Control.        </td>
+            para poder comunicarme con el soporte o el equipo de ventas de TraceWine.        </td>
         <td>
             <strong>Scenario 1: Información de contacto está disponible</strong>
             <br>
@@ -248,35 +239,25 @@ Para la especificación de requisitos de los usuarios, se desarrollaron las hist
         </td>
         <td>EPIC-09</td>
     </tr>
-        <!-- User Story 6 -->
-<tr>
-    <td>US-006</td>
-    <td>Opiniones de usuarios que inspiran confianza </td>
-    <td>
-        Como visitante con rol de vinicultor que está considerando usar Elixir Control, 
-quiero leer testimonios de otros usuarios, 
-para conocer sus experiencias y validar la efectividad de la aplicación. 
-    </td>
-    <td>
-       <strong> Scenario 1: Testimonios de usuarios están disponibles </strong>
-
+	<tr>
+	    <td>US-006</td>
+	    <td>Opiniones de usuarios que inspiran confianza </td>
+	    <td>
+	        Como visitante con rol de vinicultor que está considerando usar TraceWine, 
+			quiero leer testimonios de otros usuarios, 
+			para conocer sus experiencias y validar la efectividad de la aplicación. </td>
+	    <td>
+		       <strong> Scenario 1: Testimonios de usuarios están disponibles </strong>
+			<br>
+			Given un vinicultor en la landing page
+			When el visitante llega a la sección de testimonios
+			Then puede leer las opiniones de otros usuarios de TraceWine.
+			<strong> Scenario 2: Testimonios permiten validar la efectividad de la aplicación </strong>
 Given un vinicultor en la landing page
-
-When el visitante llega a la sección de testimonios
-
-Then puede leer las opiniones de otros usuarios de Elixir Control.
-
-<strong> Scenario 2: Testimonios permiten validar la efectividad de la aplicación </strong>
-
-Given un vinicultor en la landing page
-
 When el visitante revisa los testimonios
-
 Then puede validar la efectividad de la aplicación a partir de las experiencias compartidas.  </td>
 <td>EPIC-009</td>
 </tr>
-
-<!-- User Story 7 -->
 <tr>
     <td>US-007</td>
     <td>Navegación fluida en dispositivos móviles </td>
@@ -286,28 +267,18 @@ quiero que la navegación de la landing page sea fácil y fluida en mi dispositi
 para poder acceder a la información sin interrupciones o problemas de visualización.  </td>
     <td>
      <strong>  Scenario 1: Navegación sin problemas en móvil </strong>
-
 Given un usuario accede a la landing page desde un dispositivo móvil
-
 When carga el sitio web en su totalidad
-
 Then la navegación es fluida y sin problemas de desplazamiento o funcionalidad.
-
 <strong> Scenario 2: Menús adaptados a pantallas pequeñas </strong>
-
 Given un usuario accede desde un dispositivo móvil
-
 When intenta utilizar los menús de navegación
-
 Then los menús se adaptan correctamente al tamaño de pantalla y permiten una navegación eficiente.  </td>
 <td>EPIC-007</td>
 </tr>
-
-<!-- User Story 8 -->
 <tr>
     <td>US-008</td>
     <td>Adaptación de la landing page en tabletas 
-
  </td>
     <td>
         Como visitante que llega a la landing page, 
@@ -315,29 +286,18 @@ quiero que la navegación de la landing page sea fácil y fluida en mi dispositi
 para poder acceder a la información sin interrupciones o problemas de visualización.  </td>
     <td>
    <strong>    Scenario 1: Contenido adaptado a tabletas </strong>
-
 Given un usuario accede a la landing page desde una tableta
-
 When se carga el sitio web completamente
-
 Then el contenido se ajusta adecuadamente al tamaño de la pantalla de la tableta.
-
 <strong> Scenario 2: Imágenes y textos bien proporcionados </strong>
-
 Given un usuario accede desde una tableta
-
 When revisa la disposición de imágenes y textos
-
 Then estos elementos mantienen las proporciones correctas y son legibles.  </td>
 <td>EPIC-007</td>
 </tr>
-
-<!-- User Story 9 -->
-
 <tr>
     <td>US-009</td>
     <td>Compatibilidad en computadoras de escritorio 
-
  </td>
     <td>
         Como visitante que llega a la landing page, 
@@ -345,248 +305,150 @@ quiero que la landing page sea completamente funcional en una computadora de esc
 para disfrutar de una experiencia completa sin pérdida de contenido o funcionalidades.  </td>
     <td>
     <strong>    Scenario 1: Página sin problemas en pantallas grandes  </strong>
-
 Given un usuario accede a la landing page desde una computadora de escritorio
-
 When el sitio web se carga
-
 Then todo el contenido y las funcionalidades están disponibles sin distorsión o pérdida de calidad.
-
 <strong> Scenario 2: Distribución eficiente en pantallas anchas </strong>
-
 Given un usuario accede a la landing page desde una computadora de escritorio
-
 When utiliza una pantalla ancha
-
 Then la distribución del contenido se adapta correctamente, ocupando el espacio disponible de manera eficiente.   </td>
 <td>EPIC-007</td>
 </tr>
-
-<!-- User Story 10 -->
 <tr>
     <td>US-010</td>
     <td>Registro del estado de fermentación </td>
     <td>
        Como usuario con rol de vinicultor, 
-
 quiero registrar y monitorear el estado de la fermentación de mis lotes,
-
 para asegurar que las condiciones iniciales y los parámetros del proceso se controlen correctamente y queden
 documentados.  </td>
 <td>
 <strong> Scenario 1: Registro exitoso de la finalización de la fermentación </strong>
-
 Given el vinicultor está monitoreando la fase de fermentación
-
 When el proceso de fermentación llega a su tiempo final
-
 Then el sistema actualiza el estado a "Fermentación completada"
-
 And registra el tiempo y la temperatura final en el historial.
-
 <strong> Scenario 2: Fallo en el registro de tiempo de fermentación </strong>
-
 Given el vinicultor está en la fase de fermentación
-
 When el sistema no puede registrar el tiempo final por error de conexión
-
 Then el sistema muestra una alerta de error de registro
-
 And solicita la intervención manual para completar el registro.  </td>
 <td>EPIC-003</td>
 </tr>
-        <!-- User Story 11 -->
 <tr>
     <td>US-011</td>
     <td>Registro del estado de clarificación </td>
     <td>
         Como usuario con rol de vinicultor, 
-
 quiero registrar y actualizar los datos relacionados con la clarificación de mis lotes,
-
 para asegurarme de que los agentes clarificantes y las fechas del proceso se gestionen adecuadamente y queden
 registrados en el sistema.  </td>
 <td>
 <strong> Scenario 1: Registro exitoso de agentes clarificantes añadidos </strong>
-
 Given el vinicultor está en la fase de clarificación
-
 When se añaden los agentes clarificantes correctamente
-
 Then el sistema actualiza el estado a "Clarificación en proceso"
-
 And registra el tipo y cantidad de agentes en el historial de la fase.
-
 <strong> Scenario 2: Registro exitoso de finalización del proceso de clarificación </strong>
-
 Given el vinicultor ha completado el tiempo de clarificación
-
 When el proceso de clarificación finaliza
-
 Then el sistema actualiza el estado a "Clarificación completada"
-
 And registra la fecha y hora de finalización.  </td>
 <td>EPIC-003</td>
 </tr>
-
-<!-- User Story 12 -->
 <tr>
     <td>US-012</td>
     <td>Registro del estado de prensado 
-
  </td>
     <td>
         Como usuario con rol de vinicultor, 
-
 quiero registrar el inicio, progreso y finalización del prensado de mis lotes,
-
 para controlar y documentar de manera precisa la cantidad de jugo extraído y los detalles del proceso.  </td>
 <td>
 <strong> Scenario 1: Registro del inicio del prensado </strong>
-
 Given el vinicultor está comenzando la fase de prensado
-
 When registra los detalles del lote y el inicio del proceso
-
 Then el sistema actualiza el estado a "Prensado en proceso"
-
 And almacena los detalles del lote y la fecha de inicio en el registro.
-
 <strong> Scenario 2: Error en el registro de prensado </strong>
-
 Given el vinicultor intenta registrar el inicio del prensado
-
 When ocurre un fallo en la app durante el registro
-
 Then el sistema muestra una alerta de fallo y ofrece opciones para reintentar.
-
 <strong> Scenario 3: Registro de cantidad de jugo extraído </strong>
-
 Given el prensado ha sido completado
-
 When el vinicultor registra la cantidad de jugo extraído en la app
-
 Then el sistema actualiza el estado a "Prensado completado"
-
 And almacena los detalles del rendimiento en el historial del lote.  </td>
 <td>EPIC-003</td>
 </tr>
-
-<!-- User Story 13 -->
 <tr>
     <td>US-013</td>
     <td>Registro del estado de añejamiento </td>
     <td>
        Como usuario con rol de vinicultor, 
-
 quiero registrar las condiciones y fechas del añejamiento de mis vinos,
-
 para asegurar que el proceso se documente correctamente y monitorear la evolución del producto a lo largo del tiempo.
 </td>
     <td>
      <strong>  Scenario 1: Registro de inicio del añejamiento </strong>
-
 Given el vinicultor inicia el añejamiento de un lote
-
 When registra la fecha y condiciones de almacenamiento (temperatura, barrica)
-
 Then el sistema actualiza el estado a "Añejamiento en proceso"
-
 And almacena los detalles del lote y las condiciones de inicio.
-
 <strong> Scenario 2: Fallo en el registro de parámetros de añejamiento </strong>
-
 Given el vinicultor intenta registrar las condiciones del añejamiento
-
 When hay un error en la app al guardar los datos
-
 Then el sistema muestra un mensaje de error y solicita corrección.
-
 <strong> Scenario 3: Registro de la finalización del añejamiento </strong>
-
 Given el vinicultor ha completado el añejamiento
-
 When registra la fecha de finalización y las condiciones de salida
-
 Then el sistema actualiza el estado a "Añejamiento completado"
-
 And guarda los datos de calidad y fecha final en el historial del lote.  </td>
 <td>EPIC-003</td>
 </tr>
-
-<!-- User Story 14 -->
 <tr>
     <td>US-014</td>
     <td>Registro del estado de embotellado </td>
     <td>
        Como usuario con rol de vinicultor, 
-
 quiero registrar el inicio y finalización del proceso de embotellado, incluyendo la cantidad de botellas producidas,
-
 para asegurar que esta etapa esté bien documentada y se refleje correctamente en los registros del lote. </td>
 <td>
 <strong> Scenario 1: Registro de inicio del embotellado </strong>
-
 Given el vinicultor comienza el embotellado de un lote
-
 When registra el número de lote y la cantidad de botellas en la app
-
 Then el sistema actualiza el estado a "Embotellado en proceso"
-
 And almacena los detalles del lote y la cantidad embotellada.
-
 <strong> Scenario 2: Error en el registro de embotellado </strong>
-
 Given el vinicultor está embotellando el lote
-
 When ocurre un error al registrar el lote en la app
-
 Then el sistema muestra una alerta de fallo y solicita corrección manual.
-
 <strong> Scenario 3: Registro de finalización del embotellado </strong>
-
 Given el vinicultor ha finalizado el embotellado
-
 When registra la cantidad final de botellas y la fecha
-
 Then el sistema actualiza el estado a "Embotellado completado"
-
 And guarda los detalles finales en el historial del lote.  </td>
 <td>EPIC-003</td>
 </tr>
-
-<!-- User Story 15 -->
 <tr>
     <td>US-015</td>
     <td>Registro de pedido </td>
     <td>
         Como usuario con rol de vinicultor,  
-
 quiero registrar los pedidos realizados por los distribuidores
-
 para poder llevar un seguimiento de estos con mayor facilidad. </td>
 <td>
 <strong> Scenario 1: Registro de pedidos </strong>
-
 Given el vinicultor recibe un pedido
-
 When registra el pedido y los datos del que está haciendo el pedido
-
 Then el guarda el pedido con toda la información
-
 And almacena el estado del pedido para poder gestionarlo con mayor facilidad.
-
 <strong> Scenario 2: Error en el registro de pedidos </strong>
-
 Given el vinicultor recibe un pedido
-
 When registra el pedido y hay un error del sistema interno
-
 Then el sistema muestra una alerta avisando que no se guardó el pedido correctamente.  </td>
 <td>EPIC-004</td>
 </tr>
-
-<!-- User Story 16 -->
 <tr>
     <td>US-016</td>
     <td>Crear un cliente distribuidor </td>
@@ -594,28 +456,17 @@ Then el sistema muestra una alerta avisando que no se guardó el pedido correcta
        Como vinicultor, quiero poder crear un nuevo cliente distribuidor en la plataforma, para agregar nuevos socios comerciales y mantener su información actualizada.  </td>
     <td>
    <strong>    Scenario 1: Cliente distribuidor creado con éxito  </strong>
-
 Given el vinicultor accede a la sección de clientes distribuidores,
-
 When el vinicultor completa todos los campos obligatorios (nombre, contacto, ubicación) y envía el formulario,
-
 Then el cliente distribuidor se crea exitosamente
-
 And se muestra en la lista de clientes distribuidores.
-
 And el sistema muestra una notificación de éxito.
-
 <strong> Scenario 2: Error por datos faltantes </strong>
-
 Given el vinicultor accede al formulario de creación de cliente distribuidor,
-
 When el vinicultor intenta enviar el formulario con campos obligatorios incompletos,
-
 Then el sistema muestra un mensaje de error indicando que todos los campos obligatorios deben ser completados.
-
   </td>
     <td>EPIC-006</td>
-    <!--=========================== User Story 17 ===========================-->
         <tr>
         <td>US-017</td>
         <td>Editar un cliente distribuidor</td>
@@ -629,7 +480,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
             Given el vinicultor accede a la opción de editar un cliente, When ingresa información no válida (como un correo electrónico mal formateado) y envía el formulario, Then el sistema muestra un mensaje de error explicando qué campo necesita ser corregido.        </td>
         <td>EPIC-006</td>
     </tr>
-    <!--=========================== User Story 18 ===========================-->
     <tr>
         <td>US-18</td>
         <td>Eliminar un cliente distribuidor</td>
@@ -644,7 +494,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-02</td>
     </tr>
-    <!--=========================== User Story 19 ===========================-->
     <tr>
         <td>US-19</td>
         <td>Ver detalles de un cliente distribuidor</td>
@@ -661,7 +510,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-02</td>
     </tr>
-    <!--=========================== User Story 20 ===========================-->
     <tr>
         <td>US-20</td>
         <td>Buscar clientes distribuidores por nombre</td>
@@ -674,7 +522,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-02</td>
     </tr>
-    <!--=========================== User Story 21 ===========================-->
     <tr>
         <td>US-21</td>
         <td>Creación de pedidos de vinos</td>
@@ -689,7 +536,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-05</td>
     </tr>
-    <!--=========================== User Story 22 ===========================-->
     <tr>
         <td>US-22</td>
         <td>Seguimiento del estado del pedido</td>
@@ -704,7 +550,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-05</td>
     </tr>
-    <!--=========================== User Story 23 ===========================-->
     <tr>
         <td>US-23</td>
         <td>Confirmación de disponibilidad de stock</td>
@@ -719,7 +564,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-05</td>
     </tr>
-    <!--=========================== User Story 24 ===========================-->
     <tr>
         <td>US-24</td>
         <td>Programación de entregas</td>
@@ -734,7 +578,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-05</td>
     </tr>
-    <!--=========================== User Story 25 ===========================-->
     <tr>
         <td>US-25</td>
         <td>Modificación de pedidos antes del envío</td>
@@ -749,7 +592,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
         </td>
         <td>Epic-05</td>
     </tr>
-    <!--=========================== User Story 26 ===========================-->
     <tr>
         <td>US-26</td>
         <td>Recepción de notificaciones sobre el estado del pedido</td>
@@ -1254,7 +1096,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     </td>
     <td></td>
 </tr>
-
 <tr>
     <td>TS-13</td>
     <td>Seguimiento y Notificaciones del Estado del Pedido</td>
@@ -1279,7 +1120,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     </td>
     <td></td>
 </tr>
-
 <tr>
     <td>TS-14</td>
     <td>Ver detalles de un ítem del inventario</td>
@@ -1334,7 +1174,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     </td>
     <td></td>
 </tr>
-
 <tr>
     <td>TS-16</td>
     <td>Agregar nuevo ítem al inventario</td>
@@ -1389,7 +1228,6 @@ Then el sistema muestra un mensaje de error indicando que todos los campos oblig
     </td>
     <td></td>
 </tr>
-
 <tr>
     <td>TS-18</td>
     <td>Eliminar un pedido</td>
