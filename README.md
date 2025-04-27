@@ -33,10 +33,53 @@
 
 # Student OutCome
 
-| Criterio Específico | Acciones realizadas | Conclusiones |
-| -- | -- | -- |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería| <h6>Renzo Miguel Llerena Delagado</h6><br><strong>TB1:Comunique al equipo por mensajes de texto en Whatsapp sobre cómo se debería estructurar el landin page y las entrevistas del capítulo II para un mejor control de actividades para los siguientes avances</strong><br><h6>Diaz Quispe Matías Sebastian</h6><br><strong>TB1:</strong>Comunique al equipo por Whatssap con la creacion de un grupo para poder coordinar nuestras actividades, colaborar con la Landing Page y del capitulo 4 <br><h6>Renzo Alonso Villafuerte Tapia</h6><br><strong>TB1:Mediante el chat grupal de whatsapp comuniqué mi avance y buscaba apoyar a mis compañeros, haciendo el capitulo 1 y apoyando el el landing page.</strong><br><h6>Oscar Javier Armas Sánchez</h6><br><strong>TB1:</strong> <br><h6>Torres Apolinario Giovany Smith</h6><br><strong>TB1:</strong> |TB1: |
-| Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería| <h6>Renzo Miguel Llerena Delagado</h6><br><strong>TB1:Cumplí con comunicar las ideas para estructurar de manera más óptima los procesos que realizamos para la documentación del proyecto mediante las reuniones grupales</strong> <br><h6>Diaz Quispe Matías Sebastian</h6><br>Transmiti las ideas escenciales para la creación de la aplicación, a la par con mi grupo lo consideramos mejorar la comunicacion y el timepo<strong>TB1:</strong> <br><h6>Renzo Alonso Villafuerte Tapia</h6><br><strong>TB1:Durante el desarrollo del proyecto, cumplí con comunicar oralmente mis ideas y resultados de manera objetiva a todos los integrantes del equipo. Expliqué el avance y los objetivos del proyecto en las reuniones grupales que se programaban.</br></strong><br><h6>Oscar Javier Armas Sánchez</h6><br><strong>TB1:</strong> <br><h6>Torres Apolinario Giovany Smith</h6><br><strong>TB1:</strong> |TB1: |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Criterio Específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        <strong>Renzo Miguel Llerena Delgado:</strong><br>
+        Comunique al equipo por mensajes de texto en Whatsapp sobre cómo se debería estructurar el landin page y las entrevistas del capítulo II para un mejor control de actividades para los siguientes avances<br><br>
+        <strong>Díaz Quispe Matías Sebastian:</strong><br>
+        Comunique al equipo por Whatssap con la creacion de un grupo para poder coordinar nuestras actividades, colaborar con la Landing Page y del capitulo 4<br><br>
+        <strong>Renzo Alonso Villafuerte Tapia:</strong><br>
+        Mediante el chat grupal de whatsapp comuniqué mi avance y buscaba apoyar a mis compañeros, haciendo el capitulo 1 y apoyando el el landing page.<br><br>
+        <strong>Oscar Javier Armas Sánchez:</strong><br>
+        Documenté y comuniqué de manera escrita mis aportes en el Sprint 1, la sección asignada del Landing Page, la elaboración del capítulo 5 del informe y la corrección de observaciones, asegurando que toda la información fuese precisa y accesible para el equipo.<br><br>
+        <strong>Torres Apolinario Giovany Smith:</strong><br>
+        Contribuí en la redacción de partes del informe, enfocándome en transmitir resultados de forma objetiva.
+      </td>
+      <td>
+        Se logró una comunicación escrita clara y efectiva que fortaleció la colaboración y la presentación organizada del proyecto.
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        <strong>Renzo Miguel Llerena Delgado:</strong><br>
+        Cumplí con comunicar las ideas para estructurar de manera más óptima los procesos que realizamos para la documentación del proyecto mediante las reuniones grupales<br><br>
+        <strong>Díaz Quispe Matías Sebastian:</strong><br>
+        Transmiti las ideas escenciales para la creación de la aplicación, a la par con mi grupo lo consideramos mejorar la comunicacion y el timepo<br><br>
+        <strong>Renzo Alonso Villafuerte Tapia:</strong><br>
+        Durante el desarrollo del proyecto, cumplí con comunicar oralmente mis ideas y resultados de manera objetiva a todos los integrantes del equipo. Expliqué el avance y los objetivos del proyecto en las reuniones grupales que se programaban.<br><br>
+        <strong>Oscar Javier Armas Sánchez:</strong><br>
+        Expuse en las reuniones grupales el avance del Sprint 1, la sección del Landing Page, el desarrollo del capítulo 5 y los ajustes realizados tras las observaciones, contribuyendo a la comprensión global del estado del proyecto por parte de todo el equipo.<br><br>
+        <strong>Torres Apolinario Giovany Smith:</strong><br>
+        Realicé intervenciones para resolver dudas y proponer soluciones.
+      </td>
+      <td>
+        La comunicación oral objetiva permitió un mejor entendimiento de ideas, facilitando la toma de decisiones y la coordinación efectiva del equipo.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Contenido
 
