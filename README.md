@@ -7,17 +7,17 @@
 ### Ingeniería de Software - 5to Ciclo
 ### Profesor: Oscar Ivan Villafuerte Bazan
 ### Sección: 4424
-### Startup: 
-### Producto: 
+### Startup: Corebyte
+### Producto: TraceWine
 ### Integrantes:
 
 | Nombre | Código |
 |--|--|
-|  |  |
+| Renzo Miguel Llerena Delagado | u202312399 |
 | Diaz Quispe Matías Sebastian | u202311938 |
-|  |  |
-|  |  |
-|  |  |
+| Renzo Alonso Villafuerte Tapia | u202310670 |
+| Oscar Javier Armas Sánchez | u20211G192 |
+| Torres Apolinario Giovany Smith | u202311601 |
 
 ###### Abril 2025
 
@@ -25,13 +25,18 @@
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 |--|--|--|--|
+| 0.1 | 26/04/25 | Renzo Alonso | Se añadio el capitulo 1 |
+| 0.2 | 26/04/25 | Giovany | Se añadio el capitulo 3 |
+| 0.3 | 26/04/25 | Matías | Se añadio el capitulo 4 |
+| 0.4 | 26/04/25 | Renzo Miguel | Se añadio el capitulo 2 |
+| 0.5 | 26/04/25 | Oscar | Se añadio el capitulo 5 |
 
 # Student OutCome
 
 | Criterio Específico | Acciones realizadas | Conclusiones |
 | -- | -- | -- |
-| 3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia | | |
-| 3.c2 Comunica por escrito con efectividad rangos de audiencia
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco deldesarrollo de un proyecto en ingeniería| <h6>Renzo Miguel Llerena Delagado</h6><br><strong>TB1:</strong> <br><h6>Diaz Quispe Matías Sebastian</h6><br><strong>TB1:</strong>Comunique al equipo por Whatssap con la creacion de un grupo para poder coordinar nuestras actividades, colaborar con la Landing Page y del capitulo 4 <br><h6>Renzo Alonso Villafuerte Tapia</h6><br><strong>TB1:</strong><br><h6>Oscar Javier Armas Sánchez</h6><br><strong>TB1:</strong> <br><h6>Torres Apolinario Giovany Smith</h6><br><strong>TB1:</strong> |TB1: |
+| Comunica oralmente sus ideas y/oresultados con objetividad a público de diferentes especialidades y niveles jerarquicos,en el marco del desarrollo de un proyecto en ingeniería| <h6>Renzo Miguel Llerena Delagado</h6><br><strong>TB1:</strong> <br><h6>Diaz Quispe Matías Sebastian</h6><br><strong>TB1:</strong> <br><h6>Renzo Alonso Villafuerte Tapia</h6><br><strong>TB1:</strong><br><h6>Oscar Javier Armas Sánchez</h6><br><strong>TB1:</strong> <br><h6>Torres Apolinario Giovany Smith</h6><br><strong>TB1:</strong> |TB1: |
 
 # Contenido
 
