@@ -587,7 +587,7 @@ Imagen 02: Sección Hero
 Se presenta la sección de servicio que ofrecemos para nuestros segmentos objetivos. En esta sección, se describen los beneficios y características de TraceWine, lo que permite a los visitantes conocer más sobre el servicio.
 
 Imagen 03: Sección Services
-![services-landing-page.png](../assets/img/services-landing-page.png)
+![services-landing-page.png](../assets/img/chapter-V/services-landing-page.png)
 
 
 **Sección Pricing:**
@@ -604,7 +604,7 @@ En esta sección, se presenta información detallada sobre la aplicación TraceW
 
 Imagen 05: Sección About the App
 
-![about-the-app-landing-page.png](../assets/img/sprint-1/about-the-app-landing-page.png)
+![about-the-app-landing-page.png](../assets/img/chapter-V/about-the-app-landing-page.png)
 
 
 **Sección About the Team:**
