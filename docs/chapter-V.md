@@ -649,6 +649,12 @@ En el primer Sprint el equipo de desarrollo de CoreByte ha diseñado, programado
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para la implementación de nuestro sitio web, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "develop" que previamente se encontrba en la rama release-1.0.
+
+[Landing Page TraceWine](https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/) - https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
 En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CoreByte:
 
 A continuación se muestra la cantidad de commits realizadas por cada integrante del equipo durante el desarrollo de la landing page.
@@ -660,7 +666,6 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 ![tb1-traffic.png](../assets/img/chapter-V/tb1-traffic.png)
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## 6. Conclusiones, Bibliografía y Anexos.
 
