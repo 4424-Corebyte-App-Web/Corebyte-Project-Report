@@ -34,14 +34,14 @@
   - Nombre: Roboto, se utilizará para textos secundarios, botones, y etiquetas
 3. Colors:
 - Backgrounds:
-  - Principal: Blanco (#FFFFFF) para la mayoría de las páginas.
-  - Secundario: Beige Suave (#F5F5DC) para secciones diferenciadas.
+  - Principal: Carbón profundo (#1A1A1A) para la mayoría de las páginas.
+  - Secundario:  Gris Pizarra (#708090) para secciones diferenciadas.
 - Textos:
-  - Primario: Vino Tinto (#8B0000) para el contenido principal.
-  - Secundario: Negro (#000000) para subtítulos y textos complementarios.
+  - Dorado Metálico (#DAA520) para el contenido principal.
+  - Gris Claro (#CCCCCC) para subtítulos y textos complementarios.
 - Elementos Interactivos:
   - Botones: Oro Antiguo (#CFAE75) con texto en Marrón Bodega (#5D4037).
-  - Hover: Burdeos (#800020) para resaltar interacciones.
+  - Hover: Oro Antiguo (#CFAE75) y  Blanco (#FFFFFF) para resaltar interacciones.
 4. Spacing:
 - Margenes y Padding:
   - Margen general de 16px alrededor del contenido.
