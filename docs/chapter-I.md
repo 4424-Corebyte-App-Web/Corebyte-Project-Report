@@ -33,15 +33,3 @@ La solución desarrollada por *Corebyte* está dirigida a diferentes actores cla
 ### 2. Distribuidores y exportadores de vino
 - *Perfil:* Empresas encargadas de la comercialización y exportación de vinos.
 - *Necesidad:* Acceder a información confiable sobre la trazabilidad del vino para garantizar su origen y calidad.
-
-### 3. Organismos reguladores y certificadores
-- *Perfil:* Entidades que supervisan el cumplimiento de normas de calidad y certificación.
-- *Necesidad:* Validar los procesos de producción mediante datos verificables.
-
-### 4. Consumidores finales interesados en el origen del vino
-- *Perfil:* Personas que buscan conocer el proceso de elaboración del vino que consumen.
-- *Necesidad:* Obtener información clara y verificada sobre la procedencia del vino.
-
-### 5. Enólogos y técnicos vitivinícolas
-- *Perfil:* Profesionales responsables del control técnico de calidad en la producción del vino.
-- *Necesidad:* Registrar condiciones específicas y acceder a datos históricos para optimizar procesos.
