@@ -1,6 +1,15 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+To-be Segmento 1: Jorge Medina – Representante de pequeños productores de vino
+
+![Tobe Segmento 1](https://imgur.com/RDt2Enl.jpg)
+
+<br>
+
+To-be Segmento 2: Valeria Huaman – Consumidor final interesado en el origen del vino
+
+![Tobe Segmento 2](https://imgur.com/baw9oL1.jpg)
 
 ## 3.2. User Stories.
 Para la especificación de requisitos de los usuarios, se desarrollaron las historias de usuario que describen cada requisito y funcionalidad que debe estar implementado en el desarrollo del producto final para satisfacer las necesidades del público objetivo. Dicho lo siguiente se expondra las historias de usuarios relacionadasal proyecto "Corebyte".
