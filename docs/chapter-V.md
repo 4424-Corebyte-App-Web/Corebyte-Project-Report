@@ -666,14 +666,82 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 ![tb1-traffic.png](../assets/img/chapter-V/tb1-traffic.png)
 
 ### 5.2.2. Sprint 2 
+
+
+
 #### 5.2.2.1. Sprint Planning 2. 
+
+| Sprint #                                     | Sprint 2                                               |
+|----------------------------------------------|--------------------------------------------------------|
+| <b> Sprint planning Background </b>          | --                                                     |
+| Date                                         | 2025/05/08                                             |
+| Time                                         | 08:00 AM                                               |
+| Location                                     | Reunión virtual-Meet                                   |
+| Prepared By                                  | Oscar Armas                                            |
+| Attendees                                    | Renzo Miguel Llerena Delagado / Diaz Quispe Matías Sebastian / Renzo Alonso Villafuerte Tapia / Oscar Javier Armas Sánchez / Torres Apolinario Giovany Smith |
+| Sprint 1 Review Summary                      | En el sprint anterior, el equipo completó una primera vista de la página de destino, implementando las secciones y estilos básicos necesarios, como Contacto, Precios y Servicios sobre la startup. |
+| Sprint 1 Retrospective Summary               | El principal aspecto que el equipo debe mejorar es la comunicación entre los miembros para que se mantengan al tanto del progreso de cada uno. Ahora, el plan para el próximo sprint es trabajar de forma más organizada para que cada miembro sepa qué hacer.  |
+| <b> Sprint Goal & User Stories </b>          | --                                                     |
+| Sprint 2 Goals                               | Nuestro objetivo es implementar la primera version funcional de la aplicaion front-end con funciones principales como ordenes, estado, historial, solicitudes, panel de control y gestion de lotes. Como equipo pensamos ofrecer una vizualizacion amigable y detallada para una mayor adaptabilidad de la página de destino de Corebyte, ademas, creemos que ofrece una primera visión completa de las funcionalidades que la aplicación ofrece a los segmentos objetivo. Esto nos confirmará cuando nuestros segmentos objetivo se registren en la aplicación y utilicen las principales funcionalidades, como almacenes y guías de anáilisis de venta |
+| Sprint 2 Velocity                            | 130                                                    |
+| Sum of Story Points                          | 130                                                    |
+
 #### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application. Para esto, hemos definido las siguientes secciones: Login, Ordenes, Estados, Historial, Gestion de lotes, Análisis de venta y solicitud de stock
+
+| Team Member                        | GitHub Username | Login  | Ordenes y Estado | Historial | Gestion de lotes | Análisis de venta y solicitud | 
+|------------------------------------|-----------------|--------|------------------|-----------|------------------|-------------------------------|
+| Renzo Miguel Llerena Delagado      | RenzoVi21       |        |                  |           |                  |                               |
+| Diaz Quispe Matías Sebastian       | equinox-1092    |        |                  |           |                  |                               |
+| Renzo Alonso Villafuerte Tapia     | Renxoll         |        |                  |           |                  |                               |
+| Oscar Javier Armas Sánchez         | Racso24k        |        |                  |           |                  |                               |
+| Torres Apolinario Giovany Smith    | Giovany7x       |        |                  |           |                  |                               |
+
 #### 5.2.2.3. Sprint Backlog 2. 
+
+Como se mencionó previamente en el planeamiento del sprint número 2, el objetivo del mismo es (OBJETIVO).
+
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
+
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+
+| Sprint 2     | Sprint Backlog 2                                              |     |                                         |                                                                                                            |                    |                |            |
+|--------------|---------------------------------------------------------------|-----|-----------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------|----------------|------------|
+| User Stories |                                                               | Work Item/Task                                |                                                                                                            |                    |                |            |
+| Id           | Title                                                         | Id  | Title                                   | Description                                                                                                | Estimation (Hours) | Assigned to    | Status     |
+
+
 #### 5.2.2.4. Development Evidence for Sprint Review. 
+
+En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
+
+| Repository                             | Branch                           | Commit Id | Commit Message                                                   | Commited On |
+|----------------------------------------|----------------------------------|-----------|------------------------------------------------------------------|-------------|
+| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
+| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
+| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
+| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
+| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
+
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+
 
 ## 6. Conclusiones, Bibliografía y Anexos.
 
