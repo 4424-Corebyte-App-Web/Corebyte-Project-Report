@@ -692,11 +692,11 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
 
 | Team Member                        | GitHub Username | Login  | Ordenes y Estado | Historial | Gestion de lotes | Análisis de venta y solicitud | 
 |------------------------------------|-----------------|--------|------------------|-----------|------------------|-------------------------------|
-| Renzo Miguel Llerena Delagado      | RenzoVi21       |        |                  |           |                  |                               |
-| Diaz Quispe Matías Sebastian       | equinox-1092    |        |                  |           |                  |                               |
-| Renzo Alonso Villafuerte Tapia     | Renxoll         |        |                  |           |                  |                               |
-| Oscar Javier Armas Sánchez         | Racso24k        |        |                  |           |                  |                               |
-| Torres Apolinario Giovany Smith    | Giovany7x       |        |                  |           |                  |                               |
+| Renzo Miguel Llerena Delagado      | Renxoll         |        |                  |           | L                |                               |
+| Diaz Quispe Matías Sebastian       | equinox-1092    |        |                  | L         |                  |                               |
+| Renzo Alonso Villafuerte Tapia     | RenzoVi21       | L      |                  |           |                  |                               |
+| Oscar Javier Armas Sánchez         | Racso24k        |        |                  |           |                  | L                             |
+| Torres Apolinario Giovany Smith    | Giovany7x       |        | L                |           |                  |                               |
 
 #### 5.2.2.3. Sprint Backlog 2. 
 
