@@ -76,17 +76,93 @@ Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-
         <!--FILA 8-->
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>  </td>
+            <td> 23 </td>
         </tr>
         <!--FILA 9-->
         <tr>
             <td>Sum of Story Points</td>
-            <td>  </td>
+            <td> 21 </td>
         </tr>
     </tbody>
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+Esta sección presenta la matriz de liderazgo y colaboración elaborada para el primer sprint. Los aspectos clave considerados en esta etapa se enfocan en las distintas secciones del landing page y en los estilos que deben aplicarse en cada una:
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Team Member<br>(Last Name, First Name)</th>
+      <th>Github Username</th>
+      <th>Inicio</th>
+      <th>Nosotros</th>
+      <th>Servicios</th>
+      <th>Precios</th>
+      <th>Acerca</th>
+      <th>Contacto</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Llerena Delagado, Renzo Miguel</td>
+      <td>Renxoll</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Villafuerte Tapia, Renzo Alonso </td>
+      <td>RenzoVi21</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Armas Sánchez, Oscar Javier</td>
+      <td>Racso24k</td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario, Giovany Smith</td>
+      <td>Giovany7x</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Diaz Quispe, Matias Sebastian</td>
+      <td>equinox-1092</td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.1.3. Sprint Backlog 1.
+Tal como se indicó previamente en la planificación del sprint 1, su objetivo principal fue desarrollar y publicar una versión inicial del landing page del producto. Esto implicó implementar las distintas secciones que componen un landing page, con el fin de brindar a los visitantes una mejor comprensión del producto en desarrollo.
+
+Una vez establecido el objetivo del sprint, se identificaron las historias de usuario relevantes para esta etapa. Luego, cada historia fue desglosada en tareas específicas relacionadas con su implementación y cumplimiento. Para gestionar el avance del sprint, se utilizó la herramienta Trello.
+
+
 
 <table>
     <thead>
@@ -458,9 +534,12 @@ Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-
 </table>
 
 
-#### 5.2.1.3. Sprint Backlog 1.
 
 
+#### 5.2.1.4. Development Evidence for Sprint Review.
+En esta sección se detallan los principales logros alcanzados durante el primer sprint. El avance más significativo fue la creación de la versión inicial de cada sección del landing page. Cada integrante del equipo trabajó de forma progresiva en el desarrollo de dichas secciones. Posteriormente, se aplicaron estilos a través de CSS para darles formato.
+
+A continuación, se presenta una tabla que resume los commits realizados, los cuales integran partes de las funcionalidades necesarias para completar este primer sprint.
 
 <table>
     <thead>
@@ -549,11 +628,6 @@ Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-
         </tr>
     </tbody>
 </table>
-
-
-#### 5.2.1.4. Development Evidence for Sprint Review.
-
-Para este primer sprint no se realizaron testing.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
