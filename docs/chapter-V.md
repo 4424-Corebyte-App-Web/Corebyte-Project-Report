@@ -690,13 +690,13 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application. Para esto, hemos definido las siguientes secciones: Login, Ordenes, Estados, Historial, Gestion de lotes, Análisis de venta y solicitud de stock
 
-| Team Member                        | GitHub Username | Login  | Ordenes y Estado | Historial | Gestion de lotes | Análisis de venta y solicitud | 
-|------------------------------------|-----------------|--------|------------------|-----------|------------------|-------------------------------|
-| Renzo Miguel Llerena Delagado      | Renxoll         |        |                  |           | L                |                               |
-| Diaz Quispe Matías Sebastian       | equinox-1092    |        |                  | L         |                  |                               |
-| Renzo Alonso Villafuerte Tapia     | RenzoVi21       | L      |                  |           |                  |                               |
-| Oscar Javier Armas Sánchez         | Racso24k        |        |                  |           |                  | L                             |
-| Torres Apolinario Giovany Smith    | Giovany7x       |        | L                |           |                  |                               |
+| Team Member                        | GitHub Username | Login  | Ordenes          | Historial y Estado | Gestion de lotes | Reabastecimiento              | 
+|------------------------------------|-----------------|--------|------------------|--------------------|------------------|-------------------------------|
+| Renzo Miguel Llerena Delagado      | Renxoll         |        |                  |                    | L                |                               |
+| Diaz Quispe Matías Sebastian       | equinox-1092    |        |                  | L                  |                  |                               |
+| Renzo Alonso Villafuerte Tapia     | RenzoVi21       | L      |                  |                    |                  |                               |
+| Oscar Javier Armas Sánchez         | Racso24k        |        |                  |                    |                  | L                             |
+| Torres Apolinario Giovany Smith    | Giovany7x       |        | L                |                    |                  |                               |
 
 #### 5.2.2.3. Sprint Backlog 2. 
 
