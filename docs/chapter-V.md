@@ -708,11 +708,11 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 [Link de acceso al Sprint Backlog #2 en Trello](https://trello.com/invite/b/681cc645085eedc15240526c/ATTIe5d02782fd704438be9b7f155b65d2cc3DDD1D0A/corebyte-sprint-backlog-2)
 
 <p align="center">
-  <img src="../assets/img/chapter-V/Vista1" 
+  <img src="../assets/img/chapter-V/Vista1.png" 
   alt="Sprint goal y Stories del Sprint #2"/>
 
   <p align="center">
- <img src="../assets/img/chapter-V/Vista2" 
+ <img src="../assets/img/chapter-V/Vista2.png" 
   alt="Sprint Backlog 2 en desarrollo"/>
       
 A continuación, se presenta la tabla con las tareas necesarias para completar el sprint nuemero 2, tambien, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
@@ -745,15 +745,24 @@ En esta sección, se describen los principales avances de implementación realiz
 
 A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
 
-| Repository                             | Branch                           | Commit Id | Commit Message                                                   | Commited On |
-|----------------------------------------|----------------------------------|-----------|------------------------------------------------------------------|-------------|
-| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
-| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
-| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
-| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
-| Corebyte/Corebyte-Front-End-App        |                                  |           |                                                                  |             |
+| Repository                             | Branch                           | Commit Id                                         | Commit Message                                                   | Commited On |
+|----------------------------------------|----------------------------------|---------------------------------------------------|------------------------------------------------------------------|-------------|
+| Corebyte/Corebyte-Front-End-App        | develop                          | d6056d8fec0e259095dcba758200073f9e1d273a          |  chore: add alerts                                               | 14/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | develop                          | 0c2e3e17800e89b392d8f61c169c28ab012028f1          |  chore: add batch management                                     | 14/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | develop                          | 3f8ebbc7322dc877c0b961c2da2a7b9050cb3e88          |  chore: add profile management                                   | 14/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/fake-api                 | 76d549816f7968a276d714ef2bd165cbc2345807          |  feat(fake-api): add fake-api support with json server.          | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/i18n                     | 441658633db5ce77469d21d44ca1ced0ae9715bc          |  feat(i18n): add language english                                | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/i18n                     | ae3db439a86e03436a2d6f9a594af00639aba4c1          |  feat(i18n): add language spanish                                | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/history-status           | ee1318494817f374e0282a569fa76982df252c09          |  feat(services): add function get and update of record           | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/history-status           | 6d4a98066fbd38ec2bf7a745c492c60f0773b5fd          |  feat(status): add component status page                         | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/history-status           | 5c24c0181d955e8c32b9ce356605500d2bc0b299          |  feat(record): add components page record                        | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/authentication           | ca649730d4ad48a080b8db48421fc1c8be0a00fd          |  docs:update feature/authentication                              | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/batch-management         | 1e8a8b4e83f5bf2226e098d34aa4ec24e3c03458          |  batch-management ui                                             | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/profile-management       | cc510edd2035838756c16fda6eb219a0eaf6023a          |  Create benefits.component.vue                                   | 16/05/2025  |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
+
+El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del front-end application.
 
 
 
@@ -762,12 +771,36 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del front-end application
 
+- Primero se creo un repositorio para alojar el codigo del front-end application
+- Segundo, cada integrante del equipo creo una rama de cada funcion del front-end application
 
+<p align="center">
+  <img src="../assets/img/chapter-V/rama.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+- Tercero, se realizo el merge a develop para corregir errores
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
+El proyecto se realizo mediante repositorio en GitHub. Integrantes participantes:
 
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+Commits de los integrantes en el Landing Page:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/advance.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+Grafico de los push y merge realizados por el equipo:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/push-merge.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
 
 ## 6. Conclusiones, Bibliografía y Anexos.
 
