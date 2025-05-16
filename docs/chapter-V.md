@@ -1464,7 +1464,197 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 ![tb1-traffic.png](../assets/img/chapter-V/tb1-traffic.png)
 
+### 5.2.2. Sprint 2 
 
+
+
+#### 5.2.2.1. Sprint Planning 2. 
+
+| Sprint #                                     | Sprint 2                                               |
+|----------------------------------------------|--------------------------------------------------------|
+| <b> Sprint planning Background </b>          | --                                                     |
+| Date                                         | 2025/05/08                                             |
+| Time                                         | 08:00 AM                                               |
+| Location                                     | Reunión virtual-Meet                                   |
+| Prepared By                                  | Oscar Armas                                            |
+| Attendees                                    | Renzo Miguel Llerena Delagado / Diaz Quispe Matías Sebastian / Renzo Alonso Villafuerte Tapia / Oscar Javier Armas Sánchez / Torres Apolinario Giovany Smith |
+| Sprint 1 Review Summary                      | En el sprint anterior, el equipo completó una primera vista de la página de destino, implementando las secciones y estilos básicos necesarios, como Contacto, Precios y Servicios sobre la startup. |
+| Sprint 1 Retrospective Summary               | El principal aspecto que el equipo debe mejorar es la comunicación entre los miembros para que se mantengan al tanto del progreso de cada uno. Ahora, el plan para el próximo sprint es trabajar de forma más organizada para que cada miembro sepa qué hacer.  |
+| <b> Sprint Goal & User Stories </b>          | --                                                     |
+| Sprint 2 Goals                               | Nuestro objetivo es implementar la primera version funcional de la aplicaion front-end con funciones principales como ordenes, estado, historial, solicitudes, panel de control y gestion de lotes. Como equipo pensamos ofrecer una vizualizacion amigable y detallada para una mayor adaptabilidad de la página de destino de Corebyte, ademas, creemos que ofrece una primera visión completa de las funcionalidades que la aplicación ofrece a los segmentos objetivo. Esto nos confirmará cuando nuestros segmentos objetivo se registren en la aplicación y utilicen las principales funcionalidades, como almacenes y guías de anáilisis de venta |
+| Sprint 2 Velocity                            | 130                                                    |
+| Sum of Story Points                          | 130                                                    |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este segundo sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application. Para esto, hemos definido las siguientes secciones: Login, Ordenes, Estados, Historial, Gestion de lotes, Análisis de venta y solicitud de stock
+
+| Team Member                        | GitHub Username | Login  | Ordenes          | Historial y Estado | Gestion de lotes | Reabastecimiento              | 
+|------------------------------------|-----------------|--------|------------------|--------------------|------------------|-------------------------------|
+| Renzo Miguel Llerena Delagado      | Renxoll         |        |                  |                    | L                |                               |
+| Diaz Quispe Matías Sebastian       | equinox-1092    |        |                  | L                  |                  |                               |
+| Renzo Alonso Villafuerte Tapia     | RenzoVi21       | L      |                  |                    |                  |                               |
+| Oscar Javier Armas Sánchez         | Racso24k        |        |                  |                    |                  | L                             |
+| Torres Apolinario Giovany Smith    | Giovany7x       |        | L                |                    |                  |                               |
+
+#### 5.2.2.3. Sprint Backlog 2. 
+
+Como se mencionó previamente en el planeamiento del sprint número 2, el objetivo del mismo es (OBJETIVO).
+
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
+
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+[Link de acceso al Sprint Backlog #2 en Trello](https://trello.com/invite/b/681cc645085eedc15240526c/ATTIe5d02782fd704438be9b7f155b65d2cc3DDD1D0A/corebyte-sprint-backlog-2)
+
+<p align="center">
+  <img src="../assets/img/chapter-V/Vista1.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+  <p align="center">
+ <img src="../assets/img/chapter-V/Vista2.png" 
+  alt="Sprint Backlog 2 en desarrollo"/>
+      
+A continuación, se presenta la tabla con las tareas necesarias para completar el sprint nuemero 2, tambien, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+| Sprint 2     | Sprint Backlog 2                                              |             |                                                                                    |                                                                                                                                                                     |                    |                 |             |
+|--------------|---------------------------------------------------------------|-------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------------|-------------|
+| User Stories |                                                               | Work Item/Task                                                                                   |                                                                                                                                                                     |                    |                 |             |
+| Id           | Title                                                         | Id          | Title                                                                              | Description                                                                                                                                                         | Estimation (Hours) | Assigned to     | Status      |
+| US027        | Registro de nuevos insumos en el inventario               | US027T001   | Crear una seccion para el registro de insumos en el inventario                   | Crear un componente que registre em una tabla los productos.                                                                                    | 4                  | Oscar Javier  | In-Progress |
+| US014        | Registro del estado de embotellado               | US014T001   |  Crear un boton para el registro de embotellado                  | Programar un boton dirija a al apartado de registro de embotellado.                                                                                    | 3                  | Renzo Miguel  | In-Progress |
+| US016        | Crear un cliente distribuidor               | US016T001   | Crear un cliente                   | Programar una funcion que cree un nuevo usuario dependiendo si es distribuidor o productor.                                                                                    | 6                  | Renzo Alonso  | In-Progress |
+|              |                                             | US016T002   | Crear seccion de detalle de tipo de cuenta                   | Crear un apartado para visualizar el tipo de cuenta actual.                                                                                    | 4.5                  | Renzo Alonso  | In-Progress |
+|              |                                             | US016T003   | Crear seccion de detalle de plan para actualizar                   | Crear un apartado para visualizar el tipo de desea actualizar .                                                                                    | 3                  | Renzo Alonso  | In-Progress |
+| US035        | Administrar el estado de un pedido               | US035T001   | Crear una tabla con los pedidos segun su estado                   | Crear un componente que muestre en una tabla los productos que tengan los estados de pendiente o entregado.                                                                                    | 4.5                  | Matías Diaz  | In-Progress |
+| US013        | Registro del estado de añejamiento               | US013T001   | Crear un formulario para crear un registro de añejamiento                  | crear unos cuadrados para completar la informacion correspondiente para el añejamientto.                                                                                    | 7                  | Renzo Miguel  | In-Progress |
+| US029        | Reabastecimiento de insumos directamente desde la plataforma               | US029T001   | Crear una sección para reabastecer insumos en el inventario                   | Crear un componente que permita ingresar y registrar los en el inventario directamente desde la plataforma.                                                                                    | 6                  | Oscar Javier  | In-Progress |
+| US015        | Registro de pedido               | US015T001   | Crear una sección para registrar nuevos pedidos                   | Crear un componente que permita registrar un nuevo pedido con detalles de productos, cantidades, cliente y imagen de referencia.                                                                                    | 5                  | Giovany Torres  | In-Progress |
+| US034        | Obtener detalles de un pedido               | US034T001   | Crear un boton para ver detalles de un pedido                   | Crear un boton que muestre la información detallada de un pedido.                                                                                    | 3                  | Giovany Torres  | In-Progress |
+| US012        | Registro del estado de prensado               | US012T001   | Crear una sección para registrar el estado de prensado                   | Crear un componente que permita documentar el progreso del proceso de prensado con fecha, lote y tipo.                                                                                    | 8                  | Renzo Miguel  | In-Progress |
+| US022        | Seguimiento del estado del pedido               | US022T001   | Crear una sección para seguir el estado de pedidos                   | Crear una tabla con la informacion del producto, ademas de mostrar en que estado se encuentra el producto.                                                                                    | 5                  | Matías Diaz  | In-Progress |
+| US010        | Registro del estado de fermentación               | US010T001   | Crear una sección para registrar el estado de fermentación                   | Crear un componente que permita documentar el progreso del proceso de fermentacion con tipo y descripcion de la temperatura recomendado.                                                                                    | 6                  | Renzo Miguel  | In-Progress |
+| US011        | Registro del estado de clarificación               | US011T001   | Crear una sección para registrar el estado de clarificación                   | Crear un componente que permita documentar el progreso del proceso de fermentacion con tipo y cantidad de agentes clarificantes.                                                                                    | 7                  | Renzo Miguel  | In-Progress |
+|              |                                                    | US011T002   | Crear una sección para registrar el estado de clarificación                   | Crear un componente que permita registrar y actualizar el registro del estado de clarificación.                                                                                    | 5                  | Renzo Miguel  | In-Progress |
+| US031        | Informes de inventario               | US031T001   | Crear una sección para generar informes de inventario                   | Crear un componente que genere informes de stock de insumos con la extencion pdf.                                                                                    | 4.5                  | Matías Diaz  | In-Progress |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review. 
+
+En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los _commits_ hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
+
+| Repository                             | Branch                           | Commit Id                                         | Commit Message                                                   | Commited On |
+|----------------------------------------|----------------------------------|---------------------------------------------------|------------------------------------------------------------------|-------------|
+| Corebyte/Corebyte-Front-End-App        | develop                          | d6056d8fec0e259095dcba758200073f9e1d273a          |  chore: add alerts                                               | 14/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | develop                          | 0c2e3e17800e89b392d8f61c169c28ab012028f1          |  chore: add batch management                                     | 14/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | develop                          | 3f8ebbc7322dc877c0b961c2da2a7b9050cb3e88          |  chore: add profile management                                   | 14/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/fake-api                 | 76d549816f7968a276d714ef2bd165cbc2345807          |  feat(fake-api): add fake-api support with json server.          | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/i18n                     | 441658633db5ce77469d21d44ca1ced0ae9715bc          |  feat(i18n): add language english                                | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/i18n                     | ae3db439a86e03436a2d6f9a594af00639aba4c1          |  feat(i18n): add language spanish                                | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/history-status           | ee1318494817f374e0282a569fa76982df252c09          |  feat(services): add function get and update of record           | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/history-status           | 6d4a98066fbd38ec2bf7a745c492c60f0773b5fd          |  feat(status): add component status page                         | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/history-status           | 5c24c0181d955e8c32b9ce356605500d2bc0b299          |  feat(record): add components page record                        | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/authentication           | ca649730d4ad48a080b8db48421fc1c8be0a00fd          |  docs:update feature/authentication                              | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/batch-management         | 1e8a8b4e83f5bf2226e098d34aa4ec24e3c03458          |  batch-management ui                                             | 16/05/2025  |
+| Corebyte/Corebyte-Front-End-App        | feature/profile-management       | cc510edd2035838756c16fda6eb219a0eaf6023a          |  Create benefits.component.vue                                   | 16/05/2025  |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review. 
+
+El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del front-end application.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen1.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen2.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen3.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen4.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen5.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen6.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen7.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen8.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen9.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen10.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen11.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen12.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen13.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+| Endpoint                             | Acción                           | Verbo HTTP                                         | Descripción                                                   | Ejemplo de Response |
+|--------------------------------------|----------------------------------|----------------------------------------------------|---------------------------------------------------------------|---------------------|
+| /products      | almacenar los productos ingresados                          | POST           |  Mostrara los proudctos almacenados                                            | {"id": "1001","customer": "Carlos Vega","date": "2025-05-14","product": "Cabernet Sauvignon","amount": 6,"total": 1200,"status": "Pendiente"} |
+| /record      | almacenar los los informes de los productos                          | POST           |  Mostrara la lista de productos registrado para generar el informe                                            | {"id": "1001","customer": "Carlos Vega","type": "Cabernet Sauvignon","year": "2025","producer":"Cabernet Sauvignon","batch": 6,"stock": 1200}, |
+| /orders      | almacenar los productos ingresados de las ordenes generados                          | POST           |  Mostrara los proudctos en la tabla de ordenes                                            | {"id": "1001","client": "Bodega El Sol","date": "2025-06-01","product": "Vino Tinto Reserva 2020","quantity": 10,"total": 1200,"imageUrl": "https://ferrand.com.pe/cdn/shop/files/B3DC6785-9365-4C2B-A774-E75DE90C526B.png?crop=center&height=480&v=1729894924&width=480"} |
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del front-end application
+
+- Primero se creo un repositorio para alojar el codigo del front-end application
+- Segundo, cada integrante del equipo creo una rama de cada funcion del front-end application
+
+<p align="center">
+  <img src="../assets/img/chapter-V/rama.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+- Tercero, se realizo el merge a develop para corregir errores
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+El proyecto se realizo mediante repositorio en GitHub. Integrantes participantes:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+Commits de los integrantes en el Landing Page:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/advance.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+Grafico de los push y merge realizados por el equipo:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/push-merge.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
 
 ## 6. Conclusiones, Bibliografía y Anexos.
 
