@@ -1466,7 +1466,11 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 ### 5.2.2. Sprint 2 
 
+Repositorio: [https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page](https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page)
 
+Landing Page Deployed: https://corebyte-landing.web.app/
+
+Front-end application deployed: 
 
 #### 5.2.2.1. Sprint Planning 2. 
 
