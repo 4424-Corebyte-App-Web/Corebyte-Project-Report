@@ -768,7 +768,11 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
-
+| Endpoint                             | Acción                           | Verbo HTTP                                         | Descripción                                                   | Ejemplo de Response |
+|--------------------------------------|----------------------------------|----------------------------------------------------|---------------------------------------------------------------|---------------------|
+| /products      | almacenar los productos ingresados                          | POST           |  Mostrara los proudctos almacenados                                            | {"id": "1001","customer": "Carlos Vega","date": "2025-05-14","product": "Cabernet Sauvignon","amount": 6,"total": 1200,"status": "Pendiente"} |
+| /record      | almacenar los los informes de los productos                          | POST           |  Mostrara la lista de productos registrado para generar el informe                                            | {"id": "1001","customer": "Carlos Vega","type": "Cabernet Sauvignon","year": "2025","producer":"Cabernet Sauvignon","batch": 6,"stock": 1200}, |
+| /orders      | almacenar los productos ingresados de las ordenes generados                          | POST           |  Mostrara los proudctos en la tabla de ordenes                                            | {"id": "1001","client": "Bodega El Sol","date": "2025-06-01","product": "Vino Tinto Reserva 2020","quantity": 10,"total": 1200,"imageUrl": "https://ferrand.com.pe/cdn/shop/files/B3DC6785-9365-4C2B-A774-E75DE90C526B.png?crop=center&height=480&v=1729894924&width=480"} |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del front-end application
