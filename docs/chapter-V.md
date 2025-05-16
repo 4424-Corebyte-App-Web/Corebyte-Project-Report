@@ -764,6 +764,57 @@ A continuación, se muestra una tabla que contiene la información sobre los _co
 
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del front-end application.
 
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen1.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen2.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen3.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen4.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen5.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen6.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen7.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen8.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen9.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen10.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen11.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen12.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/imagen13.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
