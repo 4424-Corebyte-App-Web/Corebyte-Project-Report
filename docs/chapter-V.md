@@ -859,21 +859,273 @@ Grafico de los push y merge realizados por el equipo:
 
 ### 5.2.3. Sprint 3 
 
+Repositorio:
+
+Landing page desployed:
+
+Front-end application:
+
 #### 5.2.3.1. Spring Planning 3. 
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <tbody>
+        <tr>
+          <th align="left">Sprint #</th>
+          <td>3</td>
+        </tr>
+        <tr>
+          <th align="left">Sprint planning Background</th>
+          <td>--</td>
+        </tr>
+        <tr>
+          <th align="left">Date</th>
+          <td>2025/06/02</td>
+        </tr>
+        <tr>
+          <th align="left">Time</th>
+          <td>18: 30 PM</td>
+        </tr>
+        <tr>
+          <th align="left">Location</th>
+          <td>Reunión virtual - Meet</td>
+        </tr>
+        <tr>
+          <th align="left">Prepared By</th>
+          <td>Oscar Armas</td>
+        </tr>
+        <tr>
+          <th align="left">Attendees</th>
+          <td>
+            Renzo Miguel Llerena Delagado / Diaz Quispe Matías Sebastian / Renzo
+            Alonso Villafuerte Tapia / Oscar Javier Armas Sánchez / Torres
+            Apolinario Giovany Smith
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 2 Review Summary</th>
+          <td>
+            En el sprint anterior, el equipo completó gran parte escencial del front-end application,
+            el cual implementa la seccion del usuario, el cual contiene la información del login registrado,
+            ademas de mostrar el plan actual que usa, tambien se agrego la parte de ordenes, reportes si el cliente
+            desea generara un pdf que muestre el historial de las ultimas semanas, por otro lado tenemos reabastecimiento,
+            batch-management y profile-management
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 2 Retrospective Summary</th>
+          <td>
+            El principal aspecto que el equipo debe mejorar es la comunicación
+            entre los miembros para que se mantengan al tanto del progreso de
+            cada uno. Ahora, el plan para el próximo sprint es trabajar de forma
+            más organizada para que cada miembro sepa qué hacer, a la vez que priorizaremos
+            los puntos a avanzar, lo cuales consideremos mas relevantes para el sprint.
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint Goal &amp; User Stories</th>
+          <td>--</td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 3 Goals</th>
+          <td>
+            Nuestro objetivo es implementar endpoints para la gestión de procesos. Como
+            modificar, ver detalle, agregar y eliminar los pedidos. Además, pensamos como equipo que
+            al implementar las funciones del back end, esto propoorciona operaciones más ágiles y una mejor experiencia de usuario a los productories y                        distribuidores.
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 3 Velocity</th>
+          <td>130</td>
+        </tr>
+        <tr>
+          <th align="left">Sum of Story Points</th>
+          <td>100</td>
+        </tr>
+      </tbody>
+    </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators. 
 
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este tercer sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el back-end. Para esto, hemos definido las siguientes secciones: 
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th align="left">Team Member</th>
+          <th align="left">GitHub Username</th>
+          <th align="left"></th>
+          <th align="left"></th>
+          <th align="left"></th>
+          <th align="left"></th>
+          <th align="left"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Renzo Miguel Llerena Delagado</td>
+          <td>Renxoll</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>L</td>
+        </tr>
+        <tr>
+          <td>Diaz Quispe Matías Sebastian</td>
+          <td>equinox-1092</td>
+          <td></td>
+          <td></td>
+          <td>L</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Renzo Alonso Villafuerte Tapia</td>
+          <td>RenzoVi21</td>
+          <td>L</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Oscar Javier Armas Sánchez</td>
+          <td>Racso24k</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>L</td>
+        </tr>
+        <tr>
+          <td>Torres Apolinario Giovany Smith</td>
+          <td>Giovany7x</td>
+          <td></td>
+          <td>L</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
 #### 5.2.3.3. Sprint Backlog 3. 
+
+Como se mencionó previamente en el planeamiento del sprint número 3, el objetivo del mismo es (OBJETIVO).
+
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
+
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+[Link de acceso al Sprint Backlog #3 en Trello](https://trello.com/invite/b/683cc46878ea32ade67856f9/ATTI23b0375a9ab9a22dc3fbfa6b725d78072F320565/corebyte-sprint-backlog-3)
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th colspan="2" align="left">Sprint 3</th>
+          <th colspan="6" align="left">Sprint Backlog 3</th>
+        </tr>
+        <tr>
+          <th colspan="2" align="left">User Stories</th>
+          <th colspan="6" align="left">Work Item/Task</th>
+        </tr>
+        <tr>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Description</th>
+          <th align="left">Estimation (Hours)</th>
+          <th align="left">Assigned to</th>
+          <th align="left">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>
+            </td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 
+En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los commits hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th align="left">Repository</th>
+          <th align="left">Branch</th>
+          <th align="left">Commit Id</th>
+          <th align="left">Commit Message</th>
+          <th align="left">Commited On</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>develop</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del back-end
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th align="left"></th>
+          <th align="left"></th>
+          <th align="left"></th>
+          <th align="left"></th>
+          <th align="left"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>
+            <pre>
+            </pre>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
+
+- Primero se creo un repositorio para alojar el codigo del back-end application
+- Segundo, cada integrante del equipo creo una rama de cada funcion del back-end application
+- Tercero, se realizo el merge a develop para corregir errores
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+El proyecto se realizo mediante repositorio en GitHub. Integrantes participantes
+
+Commits de los integrantes en el Landing Page:
+
+Grafico de los push y merge realizados por el equipo:
 
 ## 5.3. Validation Interviews. 
 
