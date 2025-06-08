@@ -953,11 +953,11 @@ En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada
         <tr>
           <th align="left">Team Member</th>
           <th align="left">GitHub Username</th>
-          <th align="left"></th>
-          <th align="left"></th>
-          <th align="left"></th>
-          <th align="left"></th>
-          <th align="left"></th>
+          <th align="left">Login</th>
+          <th align="left">Ordenes</th>
+          <th align="left">Historial y Estado</th>
+          <th align="left">Gestion de lotes</th>
+          <th align="left">Reabastecimiento</th>
         </tr>
       </thead>
       <tbody>
@@ -1041,9 +1041,9 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
       </thead>
       <tbody>
         <tr>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>US-033</td>
+          <td>Buscar insumos en el inventario</td>
+          <td>US-033T001</td>
           <td>
             </td>
           <td></td>
