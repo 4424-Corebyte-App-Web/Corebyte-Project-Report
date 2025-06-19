@@ -1018,6 +1018,10 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
 A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 [Link de acceso al Sprint Backlog #3 en Trello](https://trello.com/invite/b/683cc46878ea32ade67856f9/ATTI23b0375a9ab9a22dc3fbfa6b725d78072F320565/corebyte-sprint-backlog-3)
 
+<p align="center">
+  <img src="../assets/img/chapter-V/Vista3.png" 
+  alt="Sprint 3"/>
+    
 <table border="1" cellpadding="8" cellspacing="0">
       <thead>
         <tr>
@@ -1044,13 +1048,172 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
           <td>US-033</td>
           <td>Buscar insumos en el inventario</td>
           <td>US-033T001</td>
-          <td>
-            </td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>Crear filtrado de búsqueda</td>
+          <td>Diseño e implementación del barra de búsqueda</td>
+          <td>5</td>
+          <td>Renzo Miguel</td>
+          <td>Done</td>
         </tr>
+         <tr>
+          <td>US-025</td>
+          <td>Modificación de pedidos antes del envío</td>
+          <td>US-025T001</td>
+          <td>Crear boton de modificar</td>
+          <td>Diseño e implementacion de boton para modificar un pedio</td>
+          <td>4</td>
+          <td>Matias Diaz</td>
+          <td>Done</td>
+        </tr>
+         <tr>
+          <td>US-030</td>
+          <td>Asignación de insumos a diferentes fases de producción</td>
+          <td>US-030T001</td>
+          <td>Crear boton de agregado</td>
+          <td>Diseño e implementacion de boton para productos a diferentes estados(fermentación, etc.)</td>
+          <td>5</td>
+          <td>Renzo Miguel</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+    <td>US-019</td>
+    <td>Ver detalles de un cliente distribuidor</td>
+    <td>US-019T001</td>
+    <td>Implementar vista de detalles</td>
+    <td>Diseño e implementación de la pantalla de detalle de cliente distribuidor con todos los campos</td>
+    <td>5</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-021</td>
+    <td>Creación de pedidos de vinos</td>
+    <td>US-021T001</td>
+    <td>Implementar formulario de pedido</td>
+    <td>Diseño e implementación del formulario de selección de vinos y cantidades, y botón de envío</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-017</td>
+    <td>Editar un cliente distribuidor</td>
+    <td>US-017T001</td>
+    <td>Crear formulario de edición</td>
+    <td>Diseño e implementación de formulario para editar datos de cliente distribuidor</td>
+    <td>4</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-028</td>
+    <td>Actualización del stock de insumos en tiempo real</td>
+    <td>US-028T001</td>
+    <td>Implementar actualización de stock</td>
+    <td>Diseño e implementación de lógica de descontar y sumar stock en tiempo real al interactuar con insumos</td>
+    <td>5</td>
+    <td>Oscar Javier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-023</td>
+    <td>Confirmación de disponibilidad de stock</td>
+    <td>US-023T001</td>
+    <td>Verificar stock al crear pedido</td>
+    <td>Diseño e implementación de validación de stock antes de confirmar el envío del pedido</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-032</td>
+    <td>Filtrar insumos del inventario por categoría</td>
+    <td>US-032T001</td>
+    <td>Crear filtros de categoría</td>
+    <td>Diseño e implementación de dropdowns para filtrar insumos por Tipo, Proveedor, Unidad, etc.</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-018</td>
+    <td>Eliminar un cliente distribuidor</td>
+    <td>US-018T001</td>
+    <td>Implementar botón de eliminar</td>
+    <td>Diseño e implementación de botón y confirmación modal para eliminación de cliente distribuidor</td>
+    <td>5</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-024</td>
+    <td>Programación de entregas</td>
+    <td>US-024T001</td>
+    <td>Agregar selector de fecha</td>
+    <td>Diseño e implementación de calendario para seleccionar fecha de entrega</td>
+    <td>3</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+         <tr>
+    <td>TS-007</td>
+    <td>Eliminar un cliente distribuidor (API)</td>
+    <td>TS-007T001</td>
+    <td>Implementar endpoint DELETE</td>
+    <td>Desarrollo del endpoint DELETE /distributors/{id} que responda 204, 404 y 403 según el caso</td>
+    <td>3</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-013</td>
+    <td>Seguimiento y Notificaciones del Estado del Pedido</td>
+    <td>TS-013T001</td>
+    <td>Implementar endpoint de seguimiento</td>
+    <td>Desarrollo del endpoint GET /orders/track y lógica de envío de notificaciones por cambio de estado</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-014</td>
+    <td>Ver detalles de un ítem del inventario</td>
+    <td>TS-014T001</td>
+    <td>Implementar endpoint GET</td>
+    <td>Desarrollo del endpoint GET /inventory/items/{id} que responda 200, 404 y 403 según el caso</td>
+    <td>3</td>
+    <td>Oscar Javier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-009</td>
+    <td>Registrar un pedido</td>
+    <td>TS-009T001</td>
+    <td>Implementar endpoint POST</td>
+    <td>Desarrollo del endpoint POST /orders que valide datos y responda 201, 400 y 403 según el caso</td>
+    <td>4</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-010</td>
+    <td>Ver detalles de un pedido</td>
+    <td>TS-010T001</td>
+    <td>Implementar endpoint GET</td>
+    <td>Desarrollo del endpoint GET /orders/{id} con manejo de errores 200, 400 e internos</td>
+    <td>3</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-016</td>
+    <td>Agregar nuevo ítem al inventario</td>
+    <td>TS-016T001</td>
+    <td>Implementar endpoint POST</td>
+    <td>Desarrollo del endpoint POST /inventory/items que valide campos y responda 201, 400 y 403</td>
+    <td>4</td>
+    <td>Matias Diaz</td>
+    <td>Done</td>
+  </tr>
       </tbody>
     </table>
 
@@ -1071,9 +1234,58 @@ A continuación, se muestra una tabla que contiene la información sobre los com
         </tr>
       </thead>
       <tbody>
+           <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>master</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
         <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>develop</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+           <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/authentication</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+          <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/history-status</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+          <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/batch-management</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+          <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/replenishment</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/open-api</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/orders</td>
           <td></td>
           <td></td>
           <td></td>
