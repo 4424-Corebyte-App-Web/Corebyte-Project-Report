@@ -921,7 +921,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Definir enlaces del encabezado</td>
             <td>Identificar y organizar los enlaces del encabezado.</td>
             <td>1</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 4-->
@@ -930,7 +930,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Implementar hipervínculos</td>
             <td>Añadir hipervínculos en HTML</td>
             <td>1</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 5-->
@@ -939,7 +939,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Estilizar con CSS</td>
             <td>Aplicar estilos básicos a los enlaces del encabezado</td>
             <td>2</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 6-->
@@ -948,7 +948,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionamiento</td>
             <td>Asegurarse de que los hipervínculos funcionen correctamente.</td>
             <td>1</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 7-->
@@ -959,7 +959,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Definir contenido de beneficios</td>
             <td>Identificar los beneficios clave de la aplicación.</td>
             <td>2</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 8-->
@@ -968,7 +968,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Redactar sección de beneficios</td>
             <td>Escribir los beneficios de la aplicación de forma clara.</td>
             <td>2</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 9-->
@@ -977,7 +977,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Estilizar la sección de beneficios</td>
             <td>Aplicar estilos visuales a la sección de beneficios</td>
             <td>2</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 10-->
@@ -986,7 +986,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad de beneficios</td>
             <td>Asegurarse de que la sección de beneficios sea accesible y clara.</td>
             <td>1</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 11-->
@@ -997,7 +997,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Definir beneficios específicos para vinicultores</td>
             <td>Identificar beneficios clave que impactan directamente a los vinicultores.</td>
             <td>2</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 12-->
@@ -1006,7 +1006,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Redactar contenido para vinicultores</td>
             <td>Escribir los beneficios específicos para vinicultores de forma clara.</td>
             <td>2</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 13-->
@@ -1015,7 +1015,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Estilizar la sección de beneficios para vinicultores</td>
             <td>Aplicar estilos visuales a la sección específica de vinicultores.</td>
             <td>2</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 14-->
@@ -1024,7 +1024,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad de beneficios para vinicultores</td>
             <td>Asegurarse de que la sección sea clara y útil para los vinicultores.</td>
             <td>1</td>
-            <td></td>
+            <td>Osacar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 3-->
@@ -1035,7 +1035,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Definir opciones de precios</td>
             <td>Establecer diferentes opciones de precios para los usuarios.</td>
             <td>2</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 4-->
@@ -1044,7 +1044,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Redactar descripción de precios</td>
             <td>Escribir descripciones claras y transparentes para cada opción de precio.</td>
             <td>2</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 5-->
@@ -1053,7 +1053,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Estilizar opciones de precios</td>
             <td>Aplicar diseño visual para hacer las opciones de precios fáciles de identificar.</td>
             <td>2</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 6-->
@@ -1062,7 +1062,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad de precios</td>
             <td>Verificar que todas las opciones de precios funcionen correctamente.</td>
             <td>1</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 7-->
@@ -1073,7 +1073,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Definir canales de soporte</td>
             <td>Establecer los diferentes canales a través de los cuales los usuarios pueden recibir soporte.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Villafuerte</td>
             <td>Done</td>
         </tr>
         <!--FILA 8-->
@@ -1082,7 +1082,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Redactar contenido de soporte</td>
             <td>Escribir instrucciones claras para acceder al soporte y asesoramiento.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Villafuerte</td>
             <td>Done</td>
         </tr>
         <!--FILA 9-->
@@ -1091,7 +1091,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Estilizar el acceso a soporte</td>
             <td>Asegurarse de que el acceso al soporte sea fácil de encontrar y utilizar.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Villafuerte</td>
             <td>Done</td>
         </tr>
         <!--FILA 10-->
@@ -1100,7 +1100,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad de soporte</td>
             <td>Verificar que todos los canales de soporte sean funcionales.</td>
             <td>1</td>
-            <td></td>
+            <td>Renzo Villafuerte</td>
             <td>Done</td>
         </tr>
         <!--FILA 11-->
@@ -1111,7 +1111,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Recopilar opiniones de usuarios</td>
             <td>Solicitar y recopilar opiniones de usuarios sobre la aplicación.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 12-->
@@ -1120,7 +1120,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Redactar opiniones destacadas</td>
             <td>Seleccionar y escribir las opiniones más destacadas de los usuarios.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 13-->
@@ -1129,7 +1129,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Estilizar opiniones de usuarios</td>
             <td>Aplicar un diseño visual atractivo para mostrar las opiniones de los usuarios.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 14-->
@@ -1138,7 +1138,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad de opiniones</td>
             <td>Asegurarse de que las opiniones se muestren correctamente.</td>
             <td>1</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 15-->
@@ -1149,7 +1149,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Optimizar navegación para dispositivos móviles</td>
             <td>Asegurarse de que la navegación sea fluida en dispositivos móviles.</td>
             <td>3</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 16-->
@@ -1158,7 +1158,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Rediseñar menús para móviles</td>
             <td>Ajustar los menús de navegación para mejorar la experiencia móvil.</td>
             <td>3</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 17-->
@@ -1167,7 +1167,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad móvil</td>
             <td>Verificar que la navegación móvil funcione correctamente.</td>
             <td>2</td>
-            <td></td>
+            <td>Giovany Torres</td>
             <td>Done</td>
         </tr>
         <!--FILA 18-->
@@ -1176,7 +1176,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Realizar pruebas de rendimiento móvil</td>
             <td>Asegurarse de que la experiencia de navegación sea rápida en dispositivos móviles.</td>
             <td>2</td>
-            <td></td>
+            <td>Giovany Torres</td>
             <td>Done</td>
         </tr>
         <!--FILA 19-->
@@ -1187,7 +1187,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Rediseñar layout para tabletas</td>
             <td>Adaptar la landing page para una visualización optimizada en tabletas.</td>
             <td>3</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 20-->
@@ -1196,7 +1196,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Rediseñar elementos interactivos</td>
             <td>Ajustar botones y enlaces para mejorar la experiencia en tabletas.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 21-->
@@ -1205,7 +1205,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad en tabletas</td>
             <td>Verificar que la landing page funcione correctamente en tabletas.</td>
             <td>2</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 22-->
@@ -1214,7 +1214,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Realizar pruebas de rendimiento en tabletas</td>
             <td>Asegurarse de que la experiencia sea rápida y fluida en tabletas.</td>
             <td>2</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 23-->
@@ -1225,7 +1225,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Optimizar layout para computadoras de escritorio</td>
             <td>Asegurarse de que la landing page sea completamente funcional en escritorios.</td>
             <td>3</td>
-            <td></td>
+            <td>Matias Diaz</td>
             <td>Done</td>
         </tr>
         <!--FILA 24-->
@@ -1234,7 +1234,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Rediseñar elementos para escritorio</td>
             <td>Ajustar el diseño de botones y menús para computadoras de escritorio.</td>
             <td>2</td>
-            <td></td>
+            <td>Oscar Javier</td>
             <td>Done</td>
         </tr>
         <!--FILA 25-->
@@ -1243,7 +1243,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Pruebas de funcionalidad en escritorio</td>
             <td>Verificar que todos los elementos funcionen correctamente en computadoras de escritorio.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Miguel</td>
             <td>Done</td>
         </tr>
         <!--FILA 26-->
@@ -1252,7 +1252,7 @@ Una vez establecido el objetivo del sprint, se identificaron las historias de us
             <td>Realizar pruebas de rendimiento en escritorio</td>
             <td>Asegurarse de que la página cargue rápidamente y sin errores en computadoras de escritorio.</td>
             <td>2</td>
-            <td></td>
+            <td>Renzo Villafuerte</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -1273,7 +1273,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <th>Branch</th>
             <th>Commit Id</th>
             <th>Commit Message</th>
-            <th>Commit Message Body</th>
             <th>Commited on (Date)</th>
         </tr>
     </thead>
@@ -1284,7 +1283,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>master</td>
             <td>989c513aff9000ef61b828540ba489a75c4cc05d</td>
             <td>Initial commit</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 2 -->
@@ -1292,7 +1290,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>develop</td>
             <td>c77773e32554125a0c306c9fe2fd24fe79bd46c6</td>
             <td>feat(start): add start section and styles</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 3 -->
@@ -1300,7 +1297,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>feature/about</td>
             <td>989c513aff9000ef61b828540ba489a75c4cc05d</td>
             <td>Initial commit</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 4 -->
@@ -1308,7 +1304,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>feature/about-app</td>
             <td>44b743ac8c78ae066b0e07ab8b55ebec37b3956b</td>
             <td>feat(prices): add prices section and styles</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 5 -->
@@ -1316,7 +1311,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>feature/contact</td>
             <td>2e1735e81ffa8d485708e38e52caefe681a3a3ee</td>
             <td>docs:update index.html</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 6 -->
@@ -1324,7 +1318,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>feature/prices</td>
             <td>44b743ac8c78ae066b0e07ab8b55ebec37b3956b</td>
             <td>feat(prices): add prices section and styles</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 7 -->
@@ -1332,7 +1325,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>feature/services</td>
             <td>ed0ba970539a24d09c25d94c221effaf4ee77b7e</td>
             <td>commit: update services section</td>
-            <td></td>
             <td>26/24/2025</td>
         </tr>
         <!--FILA 8 -->
@@ -1340,7 +1332,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>feature/start</td>
             <td>c77773e32554125a0c306c9fe2fd24fe79bd46c6</td>
             <td>feat(start): add start section and styles</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
         <!--FILA 9 -->
@@ -1348,7 +1339,6 @@ A continuación, se presenta una tabla que resume los commits realizados, los cu
             <td>release</td>
             <td>989c513aff9000ef61b828540ba489a75c4cc05d</td>
             <td>Initial commit</td>
-            <td></td>
             <td>24/24/2025</td>
         </tr>
     </tbody>
