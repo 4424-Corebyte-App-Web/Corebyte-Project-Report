@@ -156,7 +156,12 @@ La industria vitivinícola, especialmente en Latinoamérica, ha experimentado un
 
 ### 1.2.2 Lean UX Process.
 
-#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.1. Lean UX Problem Statements
+- *Plantilla Business Opportunity Statement:*  
+  Nuestro cliente es un productor de vino que necesita digitalizar y asegurar la trazabilidad de sus procesos de producción, porque actualmente usa métodos manuales que son ineficientes y poco confiables. El éxito se medirá por la cantidad de productores que implementen nuestra solución y logren certificarse o mejorar sus ventas.
+
+- *ReStyle Lean UX Problem Statements:*  
+  Creemos que los productores de vino necesitan una plataforma digital para registrar y validar sus procesos porque actualmente operan con herramientas limitadas o analógicas.
 
 - *Plantilla Business Opportunity Statement:*  
   Nuestro cliente es un productor de vino que necesita digitalizar y asegurar la trazabilidad de sus procesos de producción, porque actualmente usa métodos manuales que son ineficientes y poco confiables. El éxito se medirá por la cantidad de productores que implementen nuestra solución y logren certificarse o mejorar sus ventas.
