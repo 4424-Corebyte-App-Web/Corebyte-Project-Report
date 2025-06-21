@@ -1788,6 +1788,14 @@ Para mejorar la navegación en los features, se sugiere optimizar el menú agrup
 
 ## 5.4. Video About-the-Product. 
 
+En esta sección presentamos el video sobre nuestro producto, TraceWine. Este video ofrece una perspectiva promocional, resumida en el modelo de nuestro negocio, que abarca las funcionalidades y beneficios de la plataforma. También incluye escenas de interacción con el sistema
+
+![Sistema](../assets/img/chapter-V/VistaVideo.png)
+
+Link: [About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EYQmbu7U1KlFvSBYgfwbvWQB90KFfjBH24BjOisFt9XX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dHcaKB)
+
+Link: [About the product-Youtube](https://youtu.be/gWQWmZM0gGk)
+
 ## 6. Conclusiones, Bibliografía y Anexos.
 
 ### Conclusiones 
