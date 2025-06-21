@@ -740,7 +740,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 ### 5.2.1. Sprint 1
 En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas. A continuación, adjuntamos imágenes que ilustran cómo gestionamos las tareas en Jira Software.
 
-Repositorio: [https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page](https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page)
+Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
 Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
 
@@ -1456,11 +1456,11 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 ### 5.2.2. Sprint 2 
 
-Repositorio: [https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page](https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page)
+Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
 Landing Page Deployed: https://corebyte-landing.web.app/
 
-Front-end application deployed: 
+Front-end application deployed: [Front-end application](https://vuetb2.web.app)
 
 #### 5.2.2.1. Sprint Planning 2. 
 
