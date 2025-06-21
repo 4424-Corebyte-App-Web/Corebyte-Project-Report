@@ -861,11 +861,11 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed:
+Landing page desployed: [Front-end application](https://vuetb2.web.app)
 
 Front-end application:
 
-Back-end application: 
+Back-end application: [Back-end application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
 
 #### 5.2.3.1. Spring Planning 3. 
 
@@ -1326,36 +1326,638 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
     
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
-<table border="1" cellpadding="8" cellspacing="0">
-      <thead>
-        <tr>
-          <th align="left"></th>
-          <th align="left"></th>
-          <th align="left"></th>
-          <th align="left"></th>
-          <th align="left"></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td>
-            <pre>
-            </pre>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+# Replenishment Endpoint
 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/replenishment/{ReplenishmentId}</td>
+      <td>Get Replenishment by ID</td>
+      <td>GET</td>
+      <td>Obtener un registro de replenishment por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 1,
+    "orderNumber": "12",
+    "name": "Vino",
+    "type": "Tinto",
+    "date": "2025-12-10",
+    "stockActual": 12,
+    "stockMinimo": 2,
+    "price": 120
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment</td>
+      <td>Create a Replenishment</td>
+      <td>POST</td>
+      <td>Crear un nuevo registro de replenishment</td>
+      <td>
+        <pre>
+{
+    "id": 4,
+    "orderNumber": "16",
+    "name": "Whisky",
+    "type": "Escocés",
+    "date": "2025-07-01",
+    "stockActual": 30,
+    "stockMinimo": 5,
+    "price": 200
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment</td>
+      <td>Get all Replenishments</td>
+      <td>GET</td>
+      <td>Listar todos los registros de replenishment</td>
+      <td>
+        <pre>
+    {
+        "id": 2,
+        "orderNumber": "14",
+        "name": "Vino",
+        "type": "Destilado",
+        "date": "2025-10-11",
+        "stockActual": 10,
+        "stockMinimo": 9,
+        "price": 100
+    },
+    {
+        "id": 3,
+        "orderNumber": "15",
+        "name": "Cerveza",
+        "type": "Rubia",
+        "date": "2025-11-05",
+        "stockActual": 50,
+        "stockMinimo": 20,
+        "price": 50
+    }
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment/{id}</td>
+      <td>Delete Replenishment</td>
+      <td>DELETE</td>
+      <td>Eliminar un registro de replenishment por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Replenishment with id 4 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment/{id}</td>
+      <td>Update Replenishment</td>
+      <td>PUT</td>
+      <td>Actualizar un registro de replenishment existente</td>
+      <td>
+        <pre>
+{
+    "id": 4,
+    "orderNumber": "16",
+    "name": "Whisky",
+    "type": "Escocés",
+    "date": "2025-07-01",
+    "stockActual": 40,
+    "stockMinimo": 5,
+    "price": 200
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Batch Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/batch-management</td>
+      <td>List all batches</td>
+      <td>GET</td>
+      <td>Obtener la lista completa de batches</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "name": "Lote A",
+        "createdDate": "2025-06-01",
+        "status": "OPEN"
+    },
+    {
+        "id": 2,
+        "name": "Lote B",
+        "createdDate": "2025-06-10",
+        "status": "CLOSED"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management</td>
+      <td>Create a new batch</td>
+      <td>POST</td>
+      <td>Crear un nuevo batch</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "name": "Lote C",
+    "createdDate": "2025-06-21",
+    "status": "OPEN"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management/{id}</td>
+      <td>Get batch by id</td>
+      <td>GET</td>
+      <td>Obtener un batch específico por ID</td>
+      <td>
+        <pre>
+{
+    "id": 2,
+    "name": "Lote B",
+    "createdDate": "2025-06-10",
+    "status": "CLOSED"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management/{id}</td>
+      <td>Update an existing batch</td>
+      <td>PUT</td>
+      <td>Actualizar datos de un batch existente</td>
+      <td>
+        <pre>
+{
+    "id": 2,
+    "name": "Lote B Modificado",
+    "createdDate": "2025-06-10",
+    "status": "OPEN"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management/{id}</td>
+      <td>Delete a batch</td>
+      <td>DELETE</td>
+      <td>Eliminar un batch por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Batch with id 2 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+    
+# Orders Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/order</td>
+      <td>Gets all orders</td>
+      <td>GET</td>
+      <td>Listar todas las órdenes</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customer": "Cliente A",
+        "items": 5,
+        "total": 250,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 2,
+        "customer": "Cliente B",
+        "items": 3,
+        "total": 120,
+        "date": "2025-06-20"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/order</td>
+      <td>Creates an order</td>
+      <td>POST</td>
+      <td>Crear una nueva orden</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "customer": "Cliente C",
+    "items": 2,
+    "total": 80,
+    "date": "2025-06-21"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/order/{id}</td>
+      <td>Deletes an order by ID</td>
+      <td>DELETE</td>
+      <td>Eliminar una orden por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Order with id 2 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/order/{id}</td>
+      <td>Gets an order by ID</td>
+      <td>GET</td>
+      <td>Obtener una orden específica por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 2,
+    "customer": "Cliente B",
+    "items": 3,
+    "total": 120,
+    "date": "2025-06-20"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+    
+# Records Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/record</td>
+      <td>Gets all records</td>
+      <td>GET</td>
+      <td>Listar todos los registros</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customerId": "12345",
+        "type": "Tinto",
+        "product": "Vino",
+        "stock": 12,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 2,
+        "customerId": "67890",
+        "type": "Rubia",
+        "product": "Cerveza",
+        "stock": 50,
+        "date": "2025-06-20"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record</td>
+      <td>Creates a record</td>
+      <td>POST</td>
+      <td>Crear un nuevo registro</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "customerId": "54321",
+    "type": "Escocés",
+    "product": "Whisky",
+    "stock": 30,
+    "date": "2025-06-21"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/customerid/{customerId}</td>
+      <td>Gets records by customer</td>
+      <td>GET</td>
+      <td>Obtener registros filtrados por ID de cliente</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customerId": "12345",
+        "type": "Tinto",
+        "product": "Vino",
+        "stock": 12,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 4,
+        "customerId": "12345",
+        "type": "Rubia",
+        "product": "Cerveza",
+        "stock": 20,
+        "date": "2025-06-18"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/{id}</td>
+      <td>Deletes a record by ID</td>
+      <td>DELETE</td>
+      <td>Eliminar un registro por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Record with id 2 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/{id}</td>
+      <td>Updates a record by ID</td>
+      <td>PUT</td>
+      <td>Actualizar un registro existente por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "customerId": "54321",
+    "type": "Escocés",
+    "product": "Whisky",
+    "stock": 35,
+    "date": "2025-06-21"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/{id}</td>
+      <td>Gets a record by id</td>
+      <td>GET</td>
+      <td>Obtener un registro específico por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 1,
+    "customerId": "12345",
+    "type": "Tinto",
+    "product": "Vino",
+    "stock": 12,
+    "date": "2025-06-15"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/stock/{stock}</td>
+      <td>Gets a record by stock</td>
+      <td>GET</td>
+      <td>Obtener registros con un nivel de stock específico</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 2,
+        "customerId": "67890",
+        "type": "Rubia",
+        "product": "Cerveza",
+        "stock": 50,
+        "date": "2025-06-20"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/type/{type}/product/{product}</td>
+      <td>Gets a record by type and product</td>
+      <td>GET</td>
+      <td>Obtener registros filtrados por tipo y producto</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customerId": "12345",
+        "type": "Tinto",
+        "product": "Vino",
+        "stock": 12,
+        "date": "2025-06-15"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Report History Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/history</td>
+      <td>Gets all history records</td>
+      <td>GET</td>
+      <td>Listar todos los registros de historial</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 5,
+        "customer": "12345",
+        "action": "Replenished stock",
+        "date": "2025-06-20",
+        "details": "Stock increased from 5 to 15"
+    },
+    {
+        "id": 6,
+        "customer": "67890",
+        "action": "Order created",
+        "date": "2025-06-21",
+        "details": "Order #3 for Cliente C"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history</td>
+      <td>Creates a report history</td>
+      <td>POST</td>
+      <td>Crear un nuevo registro de historial</td>
+      <td>
+        <pre>
+{
+    "id": 7,
+    "customer": "54321",
+    "action": "Batch created",
+    "date": "2025-06-21",
+    "details": "Batch C opened"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/customer/{customer}</td>
+      <td>Gets histories by customer</td>
+      <td>GET</td>
+      <td>Obtener todos los registros de historial de un cliente</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 5,
+        "customer": "12345",
+        "action": "Replenished stock",
+        "date": "2025-06-20",
+        "details": "Stock increased from 5 to 15"
+    },
+    {
+        "id": 8,
+        "customer": "12345",
+        "action": "Order created",
+        "date": "2025-06-21",
+        "details": "Order #3 for Cliente C"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/{id}</td>
+      <td>Deletes history for a id</td>
+      <td>DELETE</td>
+      <td>Eliminar un registro de historial por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "History record with id 6 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/{id}</td>
+      <td>Updates an existing history record by ID</td>
+      <td>PUT</td>
+      <td>Actualizar un registro de historial existente</td>
+      <td>
+        <pre>
+{
+    "id": 5,
+    "customer": "12345",
+    "action": "Replenished stock",
+    "date": "2025-06-20",
+    "details": "Stock increased from 5 to 20"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/{id}</td>
+      <td>Gets a history by id</td>
+      <td>GET</td>
+      <td>Obtener un registro de historial específico por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 5,
+    "customer": "12345",
+    "action": "Replenished stock",
+    "date": "2025-06-20",
+    "details": "Stock increased from 5 to 15"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+    
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
 
 - Primero se creo un repositorio para alojar el codigo del back-end application
 - Segundo, cada integrante del equipo creo una rama de cada funcion del back-end application
+
+<p align="center">
+  <img src="../assets/img/chapter-V/back.png" 
+  alt="ramas back end"/>
+
 - Tercero, se realizo el merge a develop para corregir errores
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
@@ -1370,6 +1972,10 @@ Commits de los integrantes en el Back end application:
 
 Grafico de los push y merge realizados por el equipo:
 
+<p align="center">
+  <img src="../assets/img/chapter-V/grafica.png" 
+  alt="grafica back end"/>
+    
 ## 5.3. Validation Interviews. 
 
 En esta sección se realizarán entrevistas mediante las cuales buscamos recoger opiniones y recomendaciones. Esto asegura que la aplicación web no solo cumpla con los requisitos técnicos, sino también con las expectativas de nuestros segmentos objetivos.
