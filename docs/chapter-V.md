@@ -859,11 +859,13 @@ Grafico de los push y merge realizados por el equipo:
 
 ### 5.2.3. Sprint 3 
 
-Repositorio:
+Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
 Landing page desployed:
 
 Front-end application:
+
+Back-end application: 
 
 #### 5.2.3.1. Spring Planning 3. 
 
@@ -1341,9 +1343,160 @@ Grafico de los push y merge realizados por el equipo:
 
 ## 5.3. Validation Interviews. 
 
+En esta sección se realizarán entrevistas mediante las cuales buscamos recoger opiniones y recomendaciones. Esto asegura que la aplicación web no solo cumpla con los requisitos técnicos, sino también con las expectativas de nuestros segmentos objetivos.
+
 ### 5.3.1. Diseño de Entrevistas. 
 
+1. **User goal**: Landing Page
+
+- **User persona**: Vinicultores y Distribuidores
+
+- **User flow**: El usuario deberá ingresar a la landing page de la aplicación web. Una vez dentro, podrá desplazarse y visualizar información general sobre los servicios ofrecidos, así como los beneficios de utilizar la aplicación. Además, podrá cambiar el idioma a inglés o español a través de un botón. También, tendrá acceso directo a la aplicación web a través de un Call To Action situado en la vista principal de la landing page.
+
+2. **User goal**: Productores
+
+- Gestionar ordenes de pedido
+
+  - **User Goal**: Como productor, necesito poder registrar pedido y ver los detalles del pedido para controlar el stock
+  - **User Flow**: Los productores deberan ingresar a la sección de ordenes, esta puede realizar pedidos acorde a las necesidades del productor y permite un filtrado según la eleccion del mismo.
+
+- Gestionar reabastecimiento
+
+  - **User Goal**: Como productor, necesito poder reabastecer todos los productor de mi stock para tener un control sobre la cantidad de cada venta
+  - **User Flow**: Los productores deberan ingresar a la sección de replenishment, esta puede registrar los pedido a reabastecer y actualizar los pedidos según como este el estado .
+
+- Gestionar los lotes
+
+  - **User Goal**: Como productor, , necesito poder llevar un registro detallado de cada lote de vino en producción, incluyendo las fases de fermentación, clarificación, prensado, añejamiento y embotellado.
+  - **User Flow**: Desde la vista de batch management, deben crear y gestionar lotes en la aplicación, conforme el lote avanza, actualizan el estado de cada fase y pueden ingresar observaciones o ajustar los tiempos de cada una según el avance del lote.
+
+3. **User goal**: Distribuidores
+
+- Gestionar cliente de productores
+
+    - **User Goal**: Como distribuidor, quiero tener control sobre los usuarios productores guardados, para eliminar los contactos guardados
+    - **User Flow**: Desde la sección de cuenta, dependiendo del rol, en este caso como distribuidor podra eliminar y agregar contacto de productor
+
+- Gestionar el estado del producto
+
+    - **User Goal**: Como distribuidor, quiero ver el estado de entrega de cada pedido para tener mejor control sobre la fecha de entrega de los pedidos en estado pendiente
+    - **User Flow**: Desde la sección status, el distribuidor ingresa y podra visualizar cada producto con un estado pendiente y podra modificar los productos dentro de la tabla
+
 ### 5.3.2. Registro de Entrevistas. 
+
+<table>
+<thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+</thead>        
+<tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto 1"></td>
+                <td>[Link de la entrevista]()</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Duración</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Resumen</td>
+                <td></td>
+            </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+</thead>        
+<tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto 1"></td>
+                <td>[Link de la entrevista]()</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Duración</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Resumen</td>
+                <td></td>
+            </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+</thead>        
+<tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto 1"></td>
+                <td>[Link de la entrevista]()</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Duración</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Resumen</td>
+                <td></td>
+            </tr>
+</tbody>
+</table>
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
