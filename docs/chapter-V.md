@@ -828,14 +828,21 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del front-end application
 
-- Primero se creo un repositorio para alojar el codigo del front-end application
-- Segundo, cada integrante del equipo creo una rama de cada funcion del front-end application
+- Primero, se creó un repositorio en GitHub para alojar el código fuente del Frontend, permitiendo así una gestión centralizada y control de versiones
+- Segundo, cada miembro del equipo creó una rama individual para desarrollar una función específica del Frontend, lo que permitió trabajar en paralelo de manera organizada.
 
 <p align="center">
   <img src="../assets/img/chapter-V/rama.png" 
   alt="Sprint goal y Stories del Sprint #2"/>
 
-- Tercero, se realizo el merge a develop para corregir errores
+- Tercero, se creó un proyecto en WebStorm y se conectó al repositorio remoto, facilitando la integración del código con el control de versiones desde el entorno de desarrollo.
+- Cuarto, se implementaron las diferentes funcionalidades asignadas y se realizaron los commits respectivos, siguiendo buenas prácticas para mantener un historial de cambios claro.
+- Quinto, una vez completado el desarrollo, se hizo merge de las ramas individuales a develop, donde se resolvieron conflictos y se corrigieron errores detectados en la integración.
+- Sexto, tras verificar el correcto funcionamiento en develop, se realizó el merge final hacia la rama master, consolidando una versión estable del proyecto.
+- Septimo, se configuró Firebase como herramienta de despliegue, preparando los archivos necesarios y definiendo el entorno adecuado.
+- Octavo, se realizó el despliegue del Frontend a través de Firebase. A continuación, se muestra la evidencia del despliegue:
+
+Link Front end: [Front-end application](https://vuetb2.web.app)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
@@ -1951,14 +1958,17 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
 
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
 
-- Primero se creo un repositorio para alojar el codigo del back-end application
-- Segundo, cada integrante del equipo creo una rama de cada funcion del back-end application
+- Primero, se creó un repositorio en GitHub para alojar el código fuente del Backend, permitiendo así una gestión centralizada y control de versiones
+- Segundo, cada miembro del equipo creó una rama individual para desarrollar una función específica del Backend, lo que permitió trabajar en paralelo de manera organizada.
 
 <p align="center">
   <img src="../assets/img/chapter-V/back.png" 
   alt="ramas back end"/>
 
-- Tercero, se realizo el merge a develop para corregir errores
+- Tercero, se creó un proyecto en Visual Studio Community 2022 y se conectó al repositorio remoto, facilitando la integración del código con el control de versiones desde el entorno de desarrollo.
+- Cuarto, se implementaron las diferentes funcionalidades asignadas y se realizaron los commits respectivos, siguiendo buenas prácticas para mantener un historial de cambios claro.
+- Quinto, una vez completado el desarrollo, se hizo merge de las ramas individuales a develop, donde se resolvieron conflictos y se corrigieron errores detectados en la integración.
+- Sexto, tras verificar el correcto funcionamiento en develop, se realizó el merge final hacia la rama master, consolidando una versión estable del proyecto.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
