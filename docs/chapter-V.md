@@ -1236,61 +1236,54 @@ A continuación, se muestra una tabla que contiene la información sobre los com
         </tr>
       </thead>
       <tbody>
-           <tr>
-          <td>Corebyte/Corebyte-back-end-app</td>
-          <td>master</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
         <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>develop</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>90384d2c31027cb915299c2161c965f4133d820c</td>
+          <td>fix: configuration AppDbContext</td>
+          <td>22/06/2025</td>
         </tr>
            <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/authentication</td>
           <td></td>
           <td></td>
-          <td></td>
+          <td>22/06/2025</td>
         </tr>
           <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/history-status</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>f74ff15c21826775c4482afef1eedcd108bda337</td>
+          <td>fix(program): solution bug in db</td>
+          <td>22/06/2025</td>
         </tr>
           <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/batch-management</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>24e0d11ea5ff7160e0c0bec259e1b8b3ed2f8467</td>
+          <td>Initial import of Corebyte back-end application</td>
+          <td>22/06/2025</td>
         </tr>
           <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/replenishment</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>dc1eef36e0cadd7eaf1e6b994760d156f4bc255c</td>
+          <td>feat(replenishment): Created , update, delete , show all.</td>
+          <td>22/06/2025</td>
         </tr>
         <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/open-api</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>02a42a75d672a05ea2a057ba497b0cdd182038dc</td>
+          <td>feat(package): update package reference</td>
+          <td>22/06/2025</td>
         </tr>
         <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/orders</td>
-          <td></td>
-          <td></td>
-          <td></td>
+          <td>6b8ed13340ecb1aba0bc1bd063f726663cc7bbd7</td>
+          <td>feat(create): Create OrderResourceFromEntityAssembler</td>
+          <td>22/06/2025</td>
         </tr>
       </tbody>
     </table>
@@ -1299,6 +1292,38 @@ A continuación, se muestra una tabla que contiene la información sobre los com
 
 El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del back-end
 
+**Update for web application**
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update1.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update2.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update3.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update4.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update5.png" 
+  alt="web service"/>
+
+**Web Services Execution**
+
+<p align="center">
+  <img src="../assets/img/chapter-V/service1.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/service2.png" 
+  alt="web service"/>
+    
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
 <table border="1" cellpadding="8" cellspacing="0">
