@@ -1504,6 +1504,263 @@ En esta sección se realizarán entrevistas mediante las cuales buscamos recoger
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 
+__________________________________________________________________________________________
+
+<strong> <p style="text-align: center;"> UX Heuristics & Principles Evaluation </p> </strong> 
+<strong> <p style="text-align: center;"> Usability – Inclusive Design – Information Architecture</p> </strong> 
+
+**_CARRERA:_** Ingeniería de Software
+
+**_CURSO:_** Aplicaciones Web
+
+**_SECCIÓN:_** 4424
+
+**_PROFESOR:_** Oscar Ivan Villafuerte Bazan
+
+**_AUDITOR:_** Corebyte
+
+**_CLIENTE:_** Corebyte
+
+__________________________________________________________________________________________
+
+**SITE o APP A EVALUAR:** TraceWine
+
+**TAREAS A EVALUAR:**
+
+**_Landing Page: TraceWine:_**
+
+1. Información y descripción de la landing page y sus funcionalidades
+2. Visualización de planes de precio de la aplicación
+3. Interacción de la landing page con la aplicación
+
+**_Web Application: TraceWine:_**
+
+1. Acceso a la visualizacion de datos en el ordenes
+2. Mejora de diseño en la interfaz en la seccion "Productor"
+3. Optimización de la Interfaz de cliente
+4. Implementación de Nuevas Funcionalidades (alertas y analisis de venta)
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+<thead>
+  <tr>
+    <th> Nivel </th>
+    <th> Descripción </th>
+  </tr>
+</thead>
+<tbody>
+  <!--========================================= FILA 1 ======================================-->
+  <tr>
+    <td> 1 </td>
+    <td> 
+      Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+      frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo 
+    </td>
+  </tr>
+  <!--========================================= FILA 2 ======================================-->
+  <tr>
+    <td> 2 </td>
+    <td> 
+      Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+      superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+      reléase
+    </td>
+  </tr>
+  <!--========================================= FILA 3 ======================================-->
+  <tr>
+    <td> 3 </td>
+    <td> 
+      Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+      importante que sean corregidos y se les debe asignar una prioridad alta.
+    </td>
+  </tr>
+  <!--========================================= FILA 4 ======================================-->
+  <tr>
+    <td> 4 </td>
+    <td> 
+      Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+      la herramienta. Es imperativo que sea corregido antes del lanzamiento
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+**TABLA DE RESUMEN - LANDING PAGE:**
+
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violada(o)                     |
+|----|--------------------------------------------------------------------------|---------------------|-----------------------------------------------------|
+| 1  | Falta de acción al elegir un plan en la sección de "Planes"             | 2                   | Usability: Visibilidad del estado del sistema       |
+| 2  | Dificultades en la Navegación y Comprensión de la Propuesta de Valor en la Landing Page | 2                   | Usability: Visibilidad del estado del sistema       |
+| 3  | Diseño inconsistente en la sección de "Servicios"                       | 2                   | Inclusive Design: Estética y diseño minimalista     |
+| 4  | Call-to-Action poco destacado                                            | 3                   | Usability: Visibilidad del estado del sistema       |
+
+**_DESCRIPCIÓN DE PROBLEMAS - LANDING PAGE:_**
+
+**PROBLEMA #1:** Falta de acción al elegir un plan en la sección de "Planes" 
+
+**Severidad: 2**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**Problema:**  
+En la sección de "Planes" de la landing page, al seleccionar un plan, el sistema no despliega ninguna pestaña ni redirige al usuario a otra página para completar el proceso de elección. Esto puede generar confusión en el usuario, ya que no hay una acción clara o retroalimentación al seleccionar una opción. Esta problemática tiene una severidad de nivel 2, ya que no impide completamente el acceso a la aplicación, pero sí afecta la experiencia del usuario al hacer que el proceso de selección sea poco intuitivo.
+
+![problema1.png](../assets/img/chapter-V/problema1.png)
+
+**Recomendación:**  
+Se recomienda implementar una acción que guíe al usuario después de seleccionar un plan, como abrir una pestaña emergente con más detalles del plan o redirigir a una página de registro o pago. Esto facilitaría al usuario el proceso de completar su selección y mejoraría la experiencia de navegación al hacerlo más intuitivo y directo.
+
+**PROBLEMA #2:** Dificultades en la Navegación y Comprensión de la Propuesta de Valor en la Landing Page
+
+**Severidad: 2**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**Problema:**  
+Los usuarios encuentran dificultades para navegar en la landing page debido a la falta de claridad en la estructura de información y a un diseño visual poco intuitivo. Esto puede llevar a confusión y a una experiencia de usuario negativa, dificultando que los visitantes comprendan rápidamente la propuesta de valor del producto.
+
+![problema2.png](../assets/img/chapter-V/problema2.png)
+
+**Recomendación:**  
+Se sugiere realizar una revisión completa de la arquitectura de información de la landing page, asegurando que los elementos más importantes (como beneficios, características clave y llamados a la acción) sean fácilmente accesibles y visualmente destacados. Implementar un diseño más limpio y organizado, utilizando jerarquías visuales efectivas, permitirá guiar a los usuarios a través de la página de manera más fluida. Además, incluir etiquetas y descripciones claras para cada sección ayudará a los usuarios a entender mejor el contenido presentado.
+
+**PROBLEMA #3:** Diseño inconsistente en la sección de "Servicios"
+
+**Severidad: 2**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**Problema:**  
+La sección de "Servicios" carece de una jerarquía visual clara, lo que dificulta que los usuarios identifiquen rápidamente las características ofrecidas por la aplicación. Los textos descriptivos no están suficientemente destacados, y la falta de íconos o elementos visuales de apoyo hace que la información no sea fácilmente escaneable.
+
+![problema3.png](../assets/img/chapter-V/problema3.png)
+
+**Recomendación:**  
+Se sugiere rediseñar la sección utilizando una jerarquía visual clara que destaque títulos, descripciones e íconos representativos de cada servicio. Además, se recomienda mejorar el contraste y la organización del contenido para facilitar la lectura y comprensión rápida.
+
+**PROBLEMA #4:** Diseño inconsistente en la sección de "Servicios""
+
+**Severidad: 3**
+**Heurística violada: Usability: Inclusive Design: Estética y diseño minimalista**
+
+**Problema:**  
+Los botones de llamado a la acción ("Star now", "Contact") no tienen suficiente prominencia en el diseño de la página. Esto podría llevar a que los usuarios no los perciban como elementos interactivos importantes, afectando la conversión y el flujo de navegación.
+
+![problema4.png](../assets/img/chapter-V/problema4.png)
+
+**Recomendación:**  
+Se recomienda rediseñar los botones de CTA para que sean más visibles, utilizando colores llamativos que contrasten con el fondo, tamaños más grandes y ubicaciones estratégicas en la página. Incluir microinteracciones, como cambios de color al pasar el cursor, también puede aumentar la claridad de su función y atraer la atención del usuario.
+
+
+
+**TABLA DE RESUMEN - WEB APPLICATION:**
+<table>
+<thead>
+ <tr>
+  <th> # </th>
+  <th> Problema </th>
+  <th> Escala de severidad </th>
+  <th> Heurística/Principio violada(o) </th>
+</tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td> 1 </td>
+  <td> Falta de filtrado de historial </td>
+  <td> 3 </td>
+  <td> Usability: Control y libertad del usuario  </td>
+</tr>
+<!--========================================= FILA 2 ======================================-->
+<tr>
+  <td> 2 </td>
+  <td> Mejora de diseño en la interfaz en la seccion analisis de venta </td>
+  <td> 1 </td>
+  <td> Inclusive Design: Estética y diseño minimalista </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td> 3 </td>
+  <td> Mejora de diseño en la interfaz de navbar </td>
+  <td> 1 </td>
+  <td> Inclusive Design: Estética y diseño minimalista </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td> 4 </td>
+  <td> Falta la opcion de busqueda </td>
+  <td> 4  </td>
+  <td> Usability: Visibilidad del estado del sistema </td>
+</tr>
+</tbody>
+</table>
+
+
+**_DESCRIPCIÓN DE PROBLEMAS - WEB APPLICATION:_**
+
+**_PROBLEMA #1: Falta de filtrado de historial**
+
+**_Severidad: 3_**
+**Heurística violada: Usability: Control y libertad del usuario**
+
+**_Problema:_**
+La barra de busqueda en el apartado de "Records" no captura los datos correctamente, lo cual puede generar
+confusion al usuario al momento de navegar en el dicho apartado. Esta problemática es de un nivel 3 de severidad,
+ya que impide al usuario acceder a la aplicación y puede afectar negativamente
+su experiencia.
+
+![problema](../assets/img/chapter-V/problema5.png)
+
+**_Recomendación:_**
+Se recomienda realizar un cambio en la estrcutura del codigo en la seccion de "Inventario" para que pueda captar bien los datos que
+el usuario podra ir agregando. A partir de ello, el usuario ya podra visualizar correctamente los datos sin problema alguno.
+
+**_PROBLEMA #2: Mejora de diseño en la interfaz en la seccion analisis de venta**
+
+**_Severidad: 1_**
+**Heurística violada: Inclusive Design: Estética y diseño minimalista**
+
+**_Problema:_** 
+
+En el apartado de "Sales Analysis" el usuario se le dificulta un poco en el momento de comprender la grafica y la tabla de información que estan integradas en el dicho apartado
+ya que si cada vez que se actualiza la información sea mas detallado y simple para una mejor comprensión.
+
+![problema6](../assets/img/chapter-V/problema6.png)
+
+**_Recomendación:_**
+
+Se recomienda realizar una breve mejora en la estructura del codigo en el apartado css para que tenga una mayor visualizacion para asi para lograr una apariencia más
+cohesiva y profesional. 
+
+**_PROBLEMA #3: Falta la opcion de busqueda**
+
+**_Severidad: 4_**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**_Problema:_**  
+En la sección de orders, cuando el usuario guarda un nuevo registro, no se visualiza una barra de busqueda lo que puede ser confuso para el usuario, esto debido al momento de tener varios pedidos registrado le dificultara al momento de organizar cada uno de estos.
+
+![problema7](../assets/img/chapter-V/problema7.png)
+
+**_Recomendación:_**  
+Implementar una notificación visual, como un mensaje de éxito o un icono de confirmación, que aparezca brevemente en la pantalla cada vez que se guarden los cambios en el inventario. Esto ayudará a mejorar la confianza del usuario en la funcionalidad y le permitirá continuar trabajando sin interrupciones o dudas sobre el resultado de sus acciones.
+
+**_PROBLEMA #4: Mejora de diseño en la interfaz de navbar**
+
+**_Severidad: 1_**
+**Heurística violada: Inclusive Design: Estética y diseño minimalista*
+
+**_Problema:_**
+
+En la seccion del navbar, cuando el usuario quiere navegar en los features, ocupa mucho espacio en la pantalla de navegacion lo que provoca dificultad en la nvegacion del usuario. Haciendo que constantemente tenga que ir a la ruta de "User" para seguir navegando nuevamente sin problema alguno.
+
+![problema8.png](../assets/img/chapter-V/problema8.png)
+
+**_Recomendación:_**
+
+Para mejorar la navegación en los features, se sugiere optimizar el menú agrupando los elementos en submenús o categorías desplegables, lo que reducirá el espacio ocupado en pantalla. Además, esto permitirá a los usuarios regresar fácilmente a secciones anteriores sin necesidad de volver al "Home". También se pueden ofrecer accesos directos a las secciones más utilizadas y realizar pruebas de usabilidad para identificar áreas de mejora.
+
 ## 5.4. Video About-the-Product. 
 
 ## 6. Conclusiones, Bibliografía y Anexos.
