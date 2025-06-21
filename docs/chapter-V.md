@@ -1021,7 +1021,7 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 [Link de acceso al Sprint Backlog #3 en Trello](https://trello.com/invite/b/683cc46878ea32ade67856f9/ATTI23b0375a9ab9a22dc3fbfa6b725d78072F320565/corebyte-sprint-backlog-3)
 
 <p align="center">
-  <img src="../assets/img/chapter-V/Vista3.png" 
+  <img src="../assets/img/chapter-V/Sprint3-backlog.png" 
   alt="Sprint 3"/>
     
 <table border="1" cellpadding="8" cellspacing="0">
@@ -1337,7 +1337,11 @@ La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para e
 
 El proyecto se realizo mediante repositorio en GitHub. Integrantes participantes
 
-Commits de los integrantes en el Landing Page:
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+    
+Commits de los integrantes en el Back end application:
 
 Grafico de los push y merge realizados por el equipo:
 
