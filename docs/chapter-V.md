@@ -2053,7 +2053,7 @@ En esta sección se realizarán entrevistas mediante las cuales buscamos recoger
                 <td>Chorrillos</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto1"></td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1.png" alt="foto1"></td>
                 <td> 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy2PZCq7B5-T9RCKsB50ZpE47zIdOh3YAo5MghMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vpj1ph
                 </td>
