@@ -2418,6 +2418,9 @@ En esta sección presentamos el video sobre nuestro producto, TraceWine. Este vi
 
 Link: [About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EYQmbu7U1KlFvSBYgfwbvWQB90KFfjBH24BjOisFt9XX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dHcaKB)
 
+Link-Microsoft: [About Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/ESdlM4R4iWZAh2BOAUOEmVYBH-r87i6d78ocmxXYq8nPoA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MVSCJm)
+Link-Youtube: [About Team](https://youtu.be/hjzhRPdmc8c)
+
 Link: [About the product-Youtube](https://youtu.be/gWQWmZM0gGk)
 
 ## 6. Conclusiones, Bibliografía y Anexos.
