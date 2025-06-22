@@ -13,7 +13,7 @@
 
 | Nombre | Código |
 |--|--|
-| Renzo Miguel Llerena Delagado| u202312399 |
+| Renzo Miguel Llerena Delagado | u202312399 |
 | Diaz Quispe Matías Sebastian | u202311938 |
 | Renzo Alonso Villafuerte Tapia | u202310670 |
 | Oscar Javier Armas Sánchez | u20211G192 |
@@ -25,13 +25,61 @@
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 |--|--|--|--|
+| 0.1 | 26/04/25 | Renzo Alonso | Se añadio el capitulo 1 |
+| 0.2 | 26/04/25 | Giovany | Se añadio el capitulo 3 |
+| 0.3 | 26/04/25 | Matías | Se añadio el capitulo 4 |
+| 0.4 | 26/04/25 | Renzo Miguel | Se añadio el capitulo 2 |
+| 0.5 | 26/04/25 | Oscar | Se añadio el capitulo 5 |
 
 # Student OutCome
 
-| Criterio Específico | Acciones realizadas | Conclusiones |
-| -- | -- | -- |
-| 3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia | | |
-| 3.c2 Comunica por escrito con efectividad rangos de audiencia
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Criterio Específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        <strong>Renzo Miguel Llerena Delgado:</strong><br>
+        Comunique al equipo por mensajes de texto en Whatsapp sobre cómo se debería estructurar el landin page y las entrevistas del capítulo II para un mejor control de actividades para los siguientes avances<br><br>
+        <strong>Díaz Quispe Matías Sebastian:</strong><br>
+        Comunique al equipo por Whatssap con la creacion de un grupo para poder coordinar nuestras actividades, colaborar con la Landing Page y del capitulo 4<br><br>
+        <strong>Renzo Alonso Villafuerte Tapia:</strong><br>
+        Mediante el chat grupal de whatsapp comuniqué mi avance y buscaba apoyar a mis compañeros, haciendo el capitulo 1 y apoyando el el landing page.<br><br>
+        <strong>Oscar Javier Armas Sánchez:</strong><br>
+        Documenté y comuniqué de manera escrita mis aportes en el Sprint 1, la sección asignada del Landing Page, la elaboración del capítulo 5 del informe y la corrección de observaciones, asegurando que toda la información fuese precisa y accesible para el equipo.<br><br>
+        <strong>Torres Apolinario Giovany Smith:</strong><br>
+        Contribuí en la redacción de partes del informe, enfocándome en transmitir resultados de forma objetiva.
+      </td>
+      <td>
+        Se logró una comunicación escrita clara y efectiva que fortaleció la colaboración y la presentación organizada del proyecto.
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        <strong>Renzo Miguel Llerena Delgado:</strong><br>
+        Cumplí con comunicar las ideas para estructurar de manera más óptima los procesos que realizamos para la documentación del proyecto mediante las reuniones grupales<br><br>
+        <strong>Díaz Quispe Matías Sebastian:</strong><br>
+        Transmiti las ideas escenciales para la creación de la aplicación, a la par con mi grupo lo consideramos mejorar la comunicacion y el timepo<br><br>
+        <strong>Renzo Alonso Villafuerte Tapia:</strong><br>
+        Durante el desarrollo del proyecto, cumplí con comunicar oralmente mis ideas y resultados de manera objetiva a todos los integrantes del equipo. Expliqué el avance y los objetivos del proyecto en las reuniones grupales que se programaban.<br><br>
+        <strong>Oscar Javier Armas Sánchez:</strong><br>
+        Expuse en las reuniones grupales el avance del Sprint 1, la sección del Landing Page, el desarrollo del capítulo 5 y los ajustes realizados tras las observaciones, contribuyendo a la comprensión global del estado del proyecto por parte de todo el equipo.<br><br>
+        <strong>Torres Apolinario Giovany Smith:</strong><br>
+        Realicé intervenciones para resolver dudas y proponer soluciones.
+      </td>
+      <td>
+        La comunicación oral objetiva permitió un mejor entendimiento de ideas, facilitando la toma de decisiones y la coordinación efectiva del equipo.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Contenido
 
