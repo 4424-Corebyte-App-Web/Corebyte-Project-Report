@@ -2047,8 +2047,8 @@ A continuación, se muestra una tabla que contiene la información sobre los com
            <tr>
           <td>Corebyte/Corebyte-back-end-app</td>
           <td>feature/authentication</td>
-          <td></td>
-          <td></td>
+          <td>9d9fe8c392341f92f4cfc4efedbea31412ca5512</td>
+          <td>feat(user): add configuration login and register</td>
           <td>22/06/2025</td>
         </tr>
           <tr>
@@ -2747,7 +2747,57 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
     </tr>
   </tbody>
 </table>
-    
+
+# Authentication Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0"> 
+   <thead> 
+      <tr> 
+         <th align="left">Endpoint</th>
+         <th align="left">Acción</th> 
+         <th align="left">Verbo HTTP</th> 
+         <th align="left">Descripción</th> 
+         <th align="left">Ejemplo de Response</th> 
+      </tr> 
+   </thead> 
+   <tbody> 
+      <tr> 
+         <td>/api/auth/login</td> 
+         <td>Login de usuario</td> 
+         <td>POST</td>
+         <td>
+            Autenticar usuario con <code>username</code> y <code>password</code>; si las credenciales son válidas devuelve estado 200 OK.
+         </td> 
+         <td> 
+            <pre> 
+               {
+                 "username": "Juan",
+                 "password": "123456"
+               }
+            </pre>
+         </td> 
+      </tr> 
+      <tr> 
+         <td>/api/auth/register</td> 
+         <td>Registro de usuario</td> 
+         <td>POST</td> 
+         <td>
+            Crear nueva cuenta con <code>username</code>, <code>email</code>, <code>password</code> y <code>confirmPassword</code>; devuelve estado 200 OK al registrarse correctamente.
+         </td> 
+         <td> 
+            <pre> 
+               {
+                 "username": "Juan",
+                 "email": "Juan@yahoo.com",
+                  "password": "123456",
+                  "confirmPassword": "123456"
+               }
+            </pre> 
+         </td> 
+      </tr> 
+   </tbody> 
+</table>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
