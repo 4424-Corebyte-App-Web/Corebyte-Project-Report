@@ -2037,36 +2037,40 @@ En esta sección se realizarán entrevistas mediante las cuales buscamos recoger
 <thead>
             <tr>
                 <th>Entrevistado 1</th>
-                <th></th>
+                <th>JeanPiero Landa</th>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Renzo Miguel Llerena Delgado</th>
             </tr>
 </thead>        
 <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>19</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Chorrillos</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto 1"></td>
-                <td>[Link de la entrevista]()</td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto1"></td>
+                <td> 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy2PZCq7B5-T9RCKsB50ZpE47zIdOh3YAo5MghMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vpj1ph
+                </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>1:01</td>
             </tr>
             <tr>
                 <td>Duración</td>
-                <td></td>
+                <td>6:03</td>
             </tr>
             <tr>
                 <td>Resumen</td>
-                <td></td>
+                <td>JeanPiero Landa de 20, participo en la entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicacio. Durante el desarrollo de la entrevista, destaco el tema y la navegación es intuitiva y amigable, le agrada el como se maneja la información.
+                    En el apartado "Gestion de lotes" la navegacion le parece intutiva lo cual ayuda al usuario a guiarse y navegar por la aplicación. Se concluye la entrevista, complentado todos los User Goals, destacando la faclidad de la intefaz de usuario y agregando comentarios para la implementacion de mejora                     en la aplicacion para que se pueda ser más intuitivo y se vea más profesional.
+                </td>
             </tr>
 </tbody>
 </table>
@@ -2091,7 +2095,7 @@ En esta sección se realizarán entrevistas mediante las cuales buscamos recoger
                 <td></td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto 1"></td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista2" alt="foto2"></td>
                 <td>[Link de la entrevista]()</td>
             </tr>
             <tr>
@@ -2129,7 +2133,7 @@ En esta sección se realizarán entrevistas mediante las cuales buscamos recoger
                 <td></td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista1" alt="foto 1"></td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista3" alt="foto3"></td>
                 <td>[Link de la entrevista]()</td>
             </tr>
             <tr>
