@@ -2079,36 +2079,39 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy
 <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th></th>
+                <th>Farid Coronel</th>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Matias Diaz</th>
             </tr>
 </thead>        
 <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>19</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Villa el Salvador</td>
             </tr>
             <tr>
                 <td><img src="../assets/img/chapter-V/fotoEntrevista2" alt="foto2"></td>
-                <td>[Link de la entrevista]()</td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EShw7-fw6SpGlbFJCHGzfAQBhsaSN0lkr8SVOzABGs32pA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uIXueZ</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>0:10</td>
             </tr>
             <tr>
                 <td>Duración</td>
-                <td></td>
+                <td>4:00</td>
             </tr>
             <tr>
                 <td>Resumen</td>
-                <td></td>
+                <td>
+                    Farid Coronel de 19, participo en la entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicacio. Durante el desarrollo de la entrevista, destaco la navegación es intuitiva y amigable, le agrada el como se maneja la información.
+                    En el apartado "Alertas" debe mostar mas información. Se concluye la entrevista, complentado todos los User Goals, destacando la faclidad de la intefaz de usuario y agregando comentarios para la implementacion de mejora                     en la aplicacion para que se pueda ser más intuitivo y se vea más profesional.
+                </td>
             </tr>
 </tbody>
 </table>
