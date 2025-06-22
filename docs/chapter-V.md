@@ -742,7 +742,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
+Landing Page Deployed: [https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/](https://landingpage4424.web.app)
 
 #### 5.2.1.1. Sprint Planning 1.
 
@@ -1456,11 +1456,12 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 ### 5.2.2. Sprint 2 
 
-Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
+Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing Page Deployed: https://corebyte-landing.web.app/
+Landing page desployed: [Landing page](https://landingpage4424.web.app)
 
-Front-end application deployed: [Front-end application](https://vuetb2.web.app)
+Front-end application: [Front-end application](https://vuetb2.web.app)
+
 
 #### 5.2.2.1. Sprint Planning 2. 
 
@@ -1661,7 +1662,7 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: 
+Landing page desployed: [Landing page](https://landingpage4424.web.app)
 
 Front-end application: [Front-end application](https://vuetb2.web.app)
 
@@ -2872,36 +2873,39 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy
 <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th></th>
+                <th>Farid Coronel</th>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Matias Diaz</th>
             </tr>
 </thead>        
 <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>19</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>Villa el Salvador</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista2" alt="foto2"></td>
-                <td>[Link de la entrevista]()</td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista2.png" alt="foto2"></td>
+                <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EShw7-fw6SpGlbFJCHGzfAQBhsaSN0lkr8SVOzABGs32pA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uIXueZ</td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>0:10</td>
             </tr>
             <tr>
                 <td>Duración</td>
-                <td></td>
+                <td>4:00</td>
             </tr>
             <tr>
                 <td>Resumen</td>
-                <td></td>
+                <td>
+                    Farid Coronel de 19, participo en la entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicacio. Durante el desarrollo de la entrevista, destaco la navegación es intuitiva y amigable, le agrada el como se maneja la información.
+                    En el apartado "Alertas" debe mostar mas información. Se concluye la entrevista, complentado todos los User Goals, destacando la faclidad de la intefaz de usuario y agregando comentarios para la implementacion de mejora                     en la aplicacion para que se pueda ser más intuitivo y se vea más profesional.
+                </td>
             </tr>
 </tbody>
 </table>
@@ -2926,7 +2930,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy
                 <td></td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista3" alt="foto3"></td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista3.png" alt="foto3"></td>
                 <td>[Link de la entrevista]()</td>
             </tr>
             <tr>
@@ -3212,6 +3216,10 @@ En esta sección presentamos el video sobre nuestro producto, TraceWine. Este vi
 Link: [About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EYQmbu7U1KlFvSBYgfwbvWQB90KFfjBH24BjOisFt9XX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dHcaKB)
 
 Link: [About the product-Youtube](https://youtu.be/gWQWmZM0gGk)
+
+Link-Microsoft: [About Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/ESdlM4R4iWZAh2BOAUOEmVYBH-r87i6d78ocmxXYq8nPoA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MVSCJm)
+
+Link-Youtube: [About Team](https://youtu.be/hjzhRPdmc8c)
 
 ## 6. Conclusiones, Bibliografía y Anexos.
 
