@@ -17,7 +17,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 Repositorio: [https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page](https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page)
 
-Landing Page Deployed: https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
+Landing Page Deployed: [https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/](https://landingpage4424.web.app)
 
 #### 5.2.1.1. Sprint Planning 1.
 
@@ -667,6 +667,11 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 ### 5.2.2. Sprint 2 
 
+Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
+
+Landing page desployed: [Landing page](https://landingpage4424.web.app)
+
+Front-end application: [Front-end application](https://vuetb2.web.app)
 
 
 #### 5.2.2.1. Sprint Planning 2. 
@@ -868,7 +873,7 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: 
+Landing page desployed: [Landing page](https://landingpage4424.web.app)
 
 Front-end application: [Front-end application](https://vuetb2.web.app)
 
