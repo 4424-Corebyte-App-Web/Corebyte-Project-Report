@@ -2100,7 +2100,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy
                 <td>Villa el Salvador</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista2" alt="foto2"></td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista2.png" alt="foto2"></td>
                 <td>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EShw7-fw6SpGlbFJCHGzfAQBhsaSN0lkr8SVOzABGs32pA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uIXueZ</td>
             </tr>
             <tr>
@@ -2141,7 +2141,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy
                 <td></td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista3" alt="foto3"></td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista3.png" alt="foto3"></td>
                 <td>[Link de la entrevista]()</td>
             </tr>
             <tr>
