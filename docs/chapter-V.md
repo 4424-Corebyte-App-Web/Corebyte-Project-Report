@@ -1980,6 +1980,10 @@ El proyecto se realizo mediante repositorio en GitHub. Integrantes participantes
     
 Commits de los integrantes en el Back end application:
 
+<p align="center">
+  <img src="../assets/img/chapter-V/progress.png" 
+  alt="Progress"/>
+    
 Grafico de los push y merge realizados por el equipo:
 
 <p align="center">
