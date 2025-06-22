@@ -2964,36 +2964,40 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy
 <thead>
             <tr>
                 <th>Entrevistado 3</th>
-                <th></th>
+                <th>Jazzy Benites</th>
             <tr>
                 <th>Entrevistador </th>
-                <th></th>
+                <th>Oscar Javier Armas Sánchez</th>
             </tr>
 </thead>        
 <tbody>
             <tr>
                 <td>Edad</td>
-                <td></td>
+                <td>24</td>
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td></td>
+                <td>San Juan de Miraflores</td>
             </tr>
             <tr>
-                <td><img src="../assets/img/chapter-V/fotoEntrevista3.png" alt="foto3"></td>
-                <td>[Link de la entrevista]()</td>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1.png" alt="foto1"></td>
+                <td> 
+                   https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g192_upc_edu_pe/EXMBW2TrepZBn8gMNF0mmfUBoAtSlbZ13tYIMr6JBK1cGg?   e=5FNq5U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+                </td>
             </tr>
             <tr>
                 <td>Timing de la entrevista</td>
-                <td></td>
+                <td>2:05</td>
             </tr>
             <tr>
                 <td>Duración</td>
-                <td></td>
+                <td>4:00</td>
             </tr>
             <tr>
                 <td>Resumen</td>
-                <td></td>
+                <td>Jazzi Benites, de 20 años, participó en la entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicación. Durante el desarrollo de la entrevista, destacó que el tema y la navegación le resultan intuitivos y amigables, y expresó que le agrada cómo se presenta y organiza la información.
+En el apartado "Gestión de lotes", mencionó que la navegación es clara, lo cual facilita al usuario orientarse y desplazarse por la aplicación. La entrevista concluyó cumpliendo con todos los User Goals, resaltando la facilidad de uso de la interfaz y aportando comentarios para implementar mejoras que hagan la aplicación aún más intuitiva y con un aspecto más profesional.
+                </td>
             </tr>
 </tbody>
 </table>
