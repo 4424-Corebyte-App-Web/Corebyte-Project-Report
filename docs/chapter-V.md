@@ -1621,14 +1621,21 @@ El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el despliegue del front-end application
 
-- Primero se creo un repositorio para alojar el codigo del front-end application
-- Segundo, cada integrante del equipo creo una rama de cada funcion del front-end application
+- Primero, se creó un repositorio en GitHub para alojar el código fuente del Frontend, permitiendo así una gestión centralizada y control de versiones
+- Segundo, cada miembro del equipo creó una rama individual para desarrollar una función específica del Frontend, lo que permitió trabajar en paralelo de manera organizada.
 
 <p align="center">
   <img src="../assets/img/chapter-V/rama.png" 
   alt="Sprint goal y Stories del Sprint #2"/>
 
-- Tercero, se realizo el merge a develop para corregir errores
+- Tercero, se creó un proyecto en WebStorm y se conectó al repositorio remoto, facilitando la integración del código con el control de versiones desde el entorno de desarrollo.
+- Cuarto, se implementaron las diferentes funcionalidades asignadas y se realizaron los commits respectivos, siguiendo buenas prácticas para mantener un historial de cambios claro.
+- Quinto, una vez completado el desarrollo, se hizo merge de las ramas individuales a develop, donde se resolvieron conflictos y se corrigieron errores detectados en la integración.
+- Sexto, tras verificar el correcto funcionamiento en develop, se realizó el merge final hacia la rama master, consolidando una versión estable del proyecto.
+- Septimo, se configuró Firebase como herramienta de despliegue, preparando los archivos necesarios y definiendo el entorno adecuado.
+- Octavo, se realizó el despliegue del Frontend a través de Firebase. A continuación, se muestra la evidencia del despliegue:
+
+Link Front end: [Front-end application](https://vuetb2.web.app)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
@@ -1649,6 +1656,1562 @@ Grafico de los push y merge realizados por el equipo:
 <p align="center">
   <img src="../assets/img/chapter-V/push-merge.png" 
   alt="Sprint goal y Stories del Sprint #2"/>
+
+### 5.2.3. Sprint 3 
+
+Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
+
+Landing page desployed: 
+
+Front-end application: [Front-end application](https://vuetb2.web.app)
+
+Back-end application: [Back-end application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
+
+#### 5.2.3.1. Spring Planning 3. 
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <tbody>
+        <tr>
+          <th align="left">Sprint #</th>
+          <td>3</td>
+        </tr>
+        <tr>
+          <th align="left">Sprint planning Background</th>
+          <td>--</td>
+        </tr>
+        <tr>
+          <th align="left">Date</th>
+          <td>2025/06/02</td>
+        </tr>
+        <tr>
+          <th align="left">Time</th>
+          <td>18: 30 PM</td>
+        </tr>
+        <tr>
+          <th align="left">Location</th>
+          <td>Reunión virtual - Meet</td>
+        </tr>
+        <tr>
+          <th align="left">Prepared By</th>
+          <td>Oscar Armas</td>
+        </tr>
+        <tr>
+          <th align="left">Attendees</th>
+          <td>
+            Renzo Miguel Llerena Delagado / Diaz Quispe Matías Sebastian / Renzo
+            Alonso Villafuerte Tapia / Oscar Javier Armas Sánchez / Torres
+            Apolinario Giovany Smith
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 2 Review Summary</th>
+          <td>
+            En el sprint anterior, el equipo completó gran parte escencial del front-end application,
+            el cual implementa la seccion del usuario, el cual contiene la información del login registrado,
+            ademas de mostrar el plan actual que usa, tambien se agrego la parte de ordenes, reportes si el cliente
+            desea generara un pdf que muestre el historial de las ultimas semanas, por otro lado tenemos reabastecimiento,
+            batch-management y profile-management
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 2 Retrospective Summary</th>
+          <td>
+            El principal aspecto que el equipo debe mejorar es la comunicación
+            entre los miembros para que se mantengan al tanto del progreso de
+            cada uno. Ahora, el plan para el próximo sprint es trabajar de forma
+            más organizada para que cada miembro sepa qué hacer, a la vez que priorizaremos
+            los puntos a avanzar, lo cuales consideremos mas relevantes para el sprint.
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint Goal &amp; User Stories</th>
+          <td>--</td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 3 Goals</th>
+          <td>
+            Nuestro objetivo es implementar endpoints para la gestión de procesos. Como
+            modificar, ver detalle, agregar y eliminar los pedidos. Además, pensamos como equipo que
+            al implementar las funciones del back end, esto propoorciona operaciones más ágiles y una mejor experiencia de usuario a los productories y                        distribuidores.
+          </td>
+        </tr>
+        <tr>
+          <th align="left">Sprint 3 Velocity</th>
+          <td>130</td>
+        </tr>
+        <tr>
+          <th align="left">Sum of Story Points</th>
+          <td>100</td>
+        </tr>
+      </tbody>
+    </table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators. 
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este tercer sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el back-end. Para esto, hemos definido las siguientes secciones: 
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th align="left">Team Member</th>
+          <th align="left">GitHub Username</th>
+          <th align="left">Login</th>
+          <th align="left">Ordenes</th>
+          <th align="left">Historial y Estado</th>
+          <th align="left">Gestion de lotes</th>
+          <th align="left">Reabastecimiento</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Renzo Miguel Llerena Delagado</td>
+          <td>Renxoll</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>L</td>
+        </tr>
+        <tr>
+          <td>Diaz Quispe Matías Sebastian</td>
+          <td>equinox-1092</td>
+          <td></td>
+          <td></td>
+          <td>L</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Renzo Alonso Villafuerte Tapia</td>
+          <td>RenzoVi21</td>
+          <td>L</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Oscar Javier Armas Sánchez</td>
+          <td>Racso24k</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>L</td>
+        </tr>
+        <tr>
+          <td>Torres Apolinario Giovany Smith</td>
+          <td>Giovany7x</td>
+          <td></td>
+          <td>L</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+
+#### 5.2.3.3. Sprint Backlog 3. 
+
+Como se mencionó previamente en el planeamiento del sprint número 3, el objetivo del mismo es (OBJETIVO).
+
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
+
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+[Link de acceso al Sprint Backlog #3 en Trello](https://trello.com/invite/b/683cc46878ea32ade67856f9/ATTI23b0375a9ab9a22dc3fbfa6b725d78072F320565/corebyte-sprint-backlog-3)
+
+<p align="center">
+  <img src="../assets/img/chapter-V/Sprint3-backlog.png" 
+  alt="Sprint 3"/>
+    
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th colspan="2" align="left">Sprint 3</th>
+          <th colspan="6" align="left">Sprint Backlog 3</th>
+        </tr>
+        <tr>
+          <th colspan="2" align="left">User Stories</th>
+          <th colspan="6" align="left">Work Item/Task</th>
+        </tr>
+        <tr>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Description</th>
+          <th align="left">Estimation (Hours)</th>
+          <th align="left">Assigned to</th>
+          <th align="left">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>US-033</td>
+          <td>Buscar insumos en el inventario</td>
+          <td>US-033T001</td>
+          <td>Crear filtrado de búsqueda</td>
+          <td>Diseño e implementación del barra de búsqueda</td>
+          <td>5</td>
+          <td>Renzo Miguel</td>
+          <td>Done</td>
+        </tr>
+         <tr>
+          <td>US-025</td>
+          <td>Modificación de pedidos antes del envío</td>
+          <td>US-025T001</td>
+          <td>Crear boton de modificar</td>
+          <td>Diseño e implementacion de boton para modificar un pedio</td>
+          <td>4</td>
+          <td>Matias Diaz</td>
+          <td>Done</td>
+        </tr>
+         <tr>
+          <td>US-030</td>
+          <td>Asignación de insumos a diferentes fases de producción</td>
+          <td>US-030T001</td>
+          <td>Crear boton de agregado</td>
+          <td>Diseño e implementacion de boton para productos a diferentes estados(fermentación, etc.)</td>
+          <td>5</td>
+          <td>Renzo Miguel</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+    <td>US-019</td>
+    <td>Ver detalles de un cliente distribuidor</td>
+    <td>US-019T001</td>
+    <td>Implementar vista de detalles</td>
+    <td>Diseño e implementación de la pantalla de detalle de cliente distribuidor con todos los campos</td>
+    <td>5</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-021</td>
+    <td>Creación de pedidos de vinos</td>
+    <td>US-021T001</td>
+    <td>Implementar formulario de pedido</td>
+    <td>Diseño e implementación del formulario de selección de vinos y cantidades, y botón de envío</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-017</td>
+    <td>Editar un cliente distribuidor</td>
+    <td>US-017T001</td>
+    <td>Crear formulario de edición</td>
+    <td>Diseño e implementación de formulario para editar datos de cliente distribuidor</td>
+    <td>4</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-028</td>
+    <td>Actualización del stock de insumos en tiempo real</td>
+    <td>US-028T001</td>
+    <td>Implementar actualización de stock</td>
+    <td>Diseño e implementación de lógica de descontar y sumar stock en tiempo real al interactuar con insumos</td>
+    <td>5</td>
+    <td>Oscar Javier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-023</td>
+    <td>Confirmación de disponibilidad de stock</td>
+    <td>US-023T001</td>
+    <td>Verificar stock al crear pedido</td>
+    <td>Diseño e implementación de validación de stock antes de confirmar el envío del pedido</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-032</td>
+    <td>Filtrar insumos del inventario por categoría</td>
+    <td>US-032T001</td>
+    <td>Crear filtros de categoría</td>
+    <td>Diseño e implementación de dropdowns para filtrar insumos por Tipo, Proveedor, Unidad, etc.</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-018</td>
+    <td>Eliminar un cliente distribuidor</td>
+    <td>US-018T001</td>
+    <td>Implementar botón de eliminar</td>
+    <td>Diseño e implementación de botón y confirmación modal para eliminación de cliente distribuidor</td>
+    <td>5</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-024</td>
+    <td>Programación de entregas</td>
+    <td>US-024T001</td>
+    <td>Agregar selector de fecha</td>
+    <td>Diseño e implementación de calendario para seleccionar fecha de entrega</td>
+    <td>3</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+         <tr>
+    <td>TS-007</td>
+    <td>Eliminar un cliente distribuidor (API)</td>
+    <td>TS-007T001</td>
+    <td>Implementar endpoint DELETE</td>
+    <td>Desarrollo del endpoint DELETE /distributors/{id} que responda 204, 404 y 403 según el caso</td>
+    <td>3</td>
+    <td>Renzo Villafuerte</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-013</td>
+    <td>Seguimiento y Notificaciones del Estado del Pedido</td>
+    <td>TS-013T001</td>
+    <td>Implementar endpoint de seguimiento</td>
+    <td>Desarrollo del endpoint GET /orders/track y lógica de envío de notificaciones por cambio de estado</td>
+    <td>5</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-014</td>
+    <td>Ver detalles de un ítem del inventario</td>
+    <td>TS-014T001</td>
+    <td>Implementar endpoint GET</td>
+    <td>Desarrollo del endpoint GET /inventory/items/{id} que responda 200, 404 y 403 según el caso</td>
+    <td>3</td>
+    <td>Oscar Javier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-009</td>
+    <td>Registrar un pedido</td>
+    <td>TS-009T001</td>
+    <td>Implementar endpoint POST</td>
+    <td>Desarrollo del endpoint POST /orders que valide datos y responda 201, 400 y 403 según el caso</td>
+    <td>4</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-010</td>
+    <td>Ver detalles de un pedido</td>
+    <td>TS-010T001</td>
+    <td>Implementar endpoint GET</td>
+    <td>Desarrollo del endpoint GET /orders/{id} con manejo de errores 200, 400 e internos</td>
+    <td>3</td>
+    <td>Giovany Torres</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-016</td>
+    <td>Agregar nuevo ítem al inventario</td>
+    <td>TS-016T001</td>
+    <td>Implementar endpoint POST</td>
+    <td>Desarrollo del endpoint POST /inventory/items que valide campos y responda 201, 400 y 403</td>
+    <td>4</td>
+    <td>Matias Diaz</td>
+    <td>Done</td>
+  </tr>
+      </tbody>
+    </table>
+
+#### 5.2.3.4. Development Evidence for Sprint Review. 
+
+En esta sección, se describen los principales avances de implementación realizados en este segundo sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los commits hechos que contienen partes de las funcionalidades que debemos implementar para completar el primer sprint.
+
+<table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th align="left">Repository</th>
+          <th align="left">Branch</th>
+          <th align="left">Commit Id</th>
+          <th align="left">Commit Message</th>
+          <th align="left">Commited On</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>develop</td>
+          <td>90384d2c31027cb915299c2161c965f4133d820c</td>
+          <td>fix: configuration AppDbContext</td>
+          <td>22/06/2025</td>
+        </tr>
+           <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/authentication</td>
+          <td></td>
+          <td></td>
+          <td>22/06/2025</td>
+        </tr>
+          <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/history-status</td>
+          <td>f74ff15c21826775c4482afef1eedcd108bda337</td>
+          <td>fix(program): solution bug in db</td>
+          <td>22/06/2025</td>
+        </tr>
+          <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/batch-management</td>
+          <td>24e0d11ea5ff7160e0c0bec259e1b8b3ed2f8467</td>
+          <td>Initial import of Corebyte back-end application</td>
+          <td>22/06/2025</td>
+        </tr>
+          <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/replenishment</td>
+          <td>dc1eef36e0cadd7eaf1e6b994760d156f4bc255c</td>
+          <td>feat(replenishment): Created , update, delete , show all.</td>
+          <td>22/06/2025</td>
+        </tr>
+        <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/open-api</td>
+          <td>02a42a75d672a05ea2a057ba497b0cdd182038dc</td>
+          <td>feat(package): update package reference</td>
+          <td>22/06/2025</td>
+        </tr>
+        <tr>
+          <td>Corebyte/Corebyte-back-end-app</td>
+          <td>feature/orders</td>
+          <td>6b8ed13340ecb1aba0bc1bd063f726663cc7bbd7</td>
+          <td>feat(create): Create OrderResourceFromEntityAssembler</td>
+          <td>22/06/2025</td>
+        </tr>
+      </tbody>
+    </table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+El objetivo de este sprint fue realizar, en colaboracion con todo el equipo, la creacion del back-end
+
+**Update for web application**
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update1.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update2.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update3.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update4.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/update5.png" 
+  alt="web service"/>
+
+**Web Services Execution**
+
+<p align="center">
+  <img src="../assets/img/chapter-V/service1.png" 
+  alt="web service"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/service2.png" 
+  alt="web service"/>
+    
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+# Replenishment Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/replenishment/{ReplenishmentId}</td>
+      <td>Get Replenishment by ID</td>
+      <td>GET</td>
+      <td>Obtener un registro de replenishment por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 1,
+    "orderNumber": "12",
+    "name": "Vino",
+    "type": "Tinto",
+    "date": "2025-12-10",
+    "stockActual": 12,
+    "stockMinimo": 2,
+    "price": 120
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment</td>
+      <td>Create a Replenishment</td>
+      <td>POST</td>
+      <td>Crear un nuevo registro de replenishment</td>
+      <td>
+        <pre>
+{
+    "id": 4,
+    "orderNumber": "16",
+    "name": "Whisky",
+    "type": "Escocés",
+    "date": "2025-07-01",
+    "stockActual": 30,
+    "stockMinimo": 5,
+    "price": 200
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment</td>
+      <td>Get all Replenishments</td>
+      <td>GET</td>
+      <td>Listar todos los registros de replenishment</td>
+      <td>
+        <pre>
+    {
+        "id": 2,
+        "orderNumber": "14",
+        "name": "Vino",
+        "type": "Destilado",
+        "date": "2025-10-11",
+        "stockActual": 10,
+        "stockMinimo": 9,
+        "price": 100
+    },
+    {
+        "id": 3,
+        "orderNumber": "15",
+        "name": "Cerveza",
+        "type": "Rubia",
+        "date": "2025-11-05",
+        "stockActual": 50,
+        "stockMinimo": 20,
+        "price": 50
+    }
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment/{id}</td>
+      <td>Delete Replenishment</td>
+      <td>DELETE</td>
+      <td>Eliminar un registro de replenishment por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Replenishment with id 4 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/replenishment/{id}</td>
+      <td>Update Replenishment</td>
+      <td>PUT</td>
+      <td>Actualizar un registro de replenishment existente</td>
+      <td>
+        <pre>
+{
+    "id": 4,
+    "orderNumber": "16",
+    "name": "Whisky",
+    "type": "Escocés",
+    "date": "2025-07-01",
+    "stockActual": 40,
+    "stockMinimo": 5,
+    "price": 200
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Batch Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/batch-management</td>
+      <td>List all batches</td>
+      <td>GET</td>
+      <td>Obtener la lista completa de batches</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "name": "Lote A",
+        "createdDate": "2025-06-01",
+        "status": "OPEN"
+    },
+    {
+        "id": 2,
+        "name": "Lote B",
+        "createdDate": "2025-06-10",
+        "status": "CLOSED"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management</td>
+      <td>Create a new batch</td>
+      <td>POST</td>
+      <td>Crear un nuevo batch</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "name": "Lote C",
+    "createdDate": "2025-06-21",
+    "status": "OPEN"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management/{id}</td>
+      <td>Get batch by id</td>
+      <td>GET</td>
+      <td>Obtener un batch específico por ID</td>
+      <td>
+        <pre>
+{
+    "id": 2,
+    "name": "Lote B",
+    "createdDate": "2025-06-10",
+    "status": "CLOSED"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management/{id}</td>
+      <td>Update an existing batch</td>
+      <td>PUT</td>
+      <td>Actualizar datos de un batch existente</td>
+      <td>
+        <pre>
+{
+    "id": 2,
+    "name": "Lote B Modificado",
+    "createdDate": "2025-06-10",
+    "status": "OPEN"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/batch-management/{id}</td>
+      <td>Delete a batch</td>
+      <td>DELETE</td>
+      <td>Eliminar un batch por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Batch with id 2 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+    
+# Orders Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/order</td>
+      <td>Gets all orders</td>
+      <td>GET</td>
+      <td>Listar todas las órdenes</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customer": "Cliente A",
+        "items": 5,
+        "total": 250,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 2,
+        "customer": "Cliente B",
+        "items": 3,
+        "total": 120,
+        "date": "2025-06-20"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/order</td>
+      <td>Creates an order</td>
+      <td>POST</td>
+      <td>Crear una nueva orden</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "customer": "Cliente C",
+    "items": 2,
+    "total": 80,
+    "date": "2025-06-21"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/order/{id}</td>
+      <td>Deletes an order by ID</td>
+      <td>DELETE</td>
+      <td>Eliminar una orden por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Order with id 2 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/order/{id}</td>
+      <td>Gets an order by ID</td>
+      <td>GET</td>
+      <td>Obtener una orden específica por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 2,
+    "customer": "Cliente B",
+    "items": 3,
+    "total": 120,
+    "date": "2025-06-20"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+    
+# Records Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/record</td>
+      <td>Gets all records</td>
+      <td>GET</td>
+      <td>Listar todos los registros</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customerId": "12345",
+        "type": "Tinto",
+        "product": "Vino",
+        "stock": 12,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 2,
+        "customerId": "67890",
+        "type": "Rubia",
+        "product": "Cerveza",
+        "stock": 50,
+        "date": "2025-06-20"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record</td>
+      <td>Creates a record</td>
+      <td>POST</td>
+      <td>Crear un nuevo registro</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "customerId": "54321",
+    "type": "Escocés",
+    "product": "Whisky",
+    "stock": 30,
+    "date": "2025-06-21"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/customerid/{customerId}</td>
+      <td>Gets records by customer</td>
+      <td>GET</td>
+      <td>Obtener registros filtrados por ID de cliente</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customerId": "12345",
+        "type": "Tinto",
+        "product": "Vino",
+        "stock": 12,
+        "date": "2025-06-15"
+    },
+    {
+        "id": 4,
+        "customerId": "12345",
+        "type": "Rubia",
+        "product": "Cerveza",
+        "stock": 20,
+        "date": "2025-06-18"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/{id}</td>
+      <td>Deletes a record by ID</td>
+      <td>DELETE</td>
+      <td>Eliminar un registro por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "Record with id 2 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/{id}</td>
+      <td>Updates a record by ID</td>
+      <td>PUT</td>
+      <td>Actualizar un registro existente por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 3,
+    "customerId": "54321",
+    "type": "Escocés",
+    "product": "Whisky",
+    "stock": 35,
+    "date": "2025-06-21"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/{id}</td>
+      <td>Gets a record by id</td>
+      <td>GET</td>
+      <td>Obtener un registro específico por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 1,
+    "customerId": "12345",
+    "type": "Tinto",
+    "product": "Vino",
+    "stock": 12,
+    "date": "2025-06-15"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/stock/{stock}</td>
+      <td>Gets a record by stock</td>
+      <td>GET</td>
+      <td>Obtener registros con un nivel de stock específico</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 2,
+        "customerId": "67890",
+        "type": "Rubia",
+        "product": "Cerveza",
+        "stock": 50,
+        "date": "2025-06-20"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/record/type/{type}/product/{product}</td>
+      <td>Gets a record by type and product</td>
+      <td>GET</td>
+      <td>Obtener registros filtrados por tipo y producto</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 1,
+        "customerId": "12345",
+        "type": "Tinto",
+        "product": "Vino",
+        "stock": 12,
+        "date": "2025-06-15"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Report History Endpoint
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th align="left">Endpoint</th>
+      <th align="left">Acción</th>
+      <th align="left">Verbo HTTP</th>
+      <th align="left">Descripción</th>
+      <th align="left">Ejemplo de Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/history</td>
+      <td>Gets all history records</td>
+      <td>GET</td>
+      <td>Listar todos los registros de historial</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 5,
+        "customer": "12345",
+        "action": "Replenished stock",
+        "date": "2025-06-20",
+        "details": "Stock increased from 5 to 15"
+    },
+    {
+        "id": 6,
+        "customer": "67890",
+        "action": "Order created",
+        "date": "2025-06-21",
+        "details": "Order #3 for Cliente C"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history</td>
+      <td>Creates a report history</td>
+      <td>POST</td>
+      <td>Crear un nuevo registro de historial</td>
+      <td>
+        <pre>
+{
+    "id": 7,
+    "customer": "54321",
+    "action": "Batch created",
+    "date": "2025-06-21",
+    "details": "Batch C opened"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/customer/{customer}</td>
+      <td>Gets histories by customer</td>
+      <td>GET</td>
+      <td>Obtener todos los registros de historial de un cliente</td>
+      <td>
+        <pre>
+[
+    {
+        "id": 5,
+        "customer": "12345",
+        "action": "Replenished stock",
+        "date": "2025-06-20",
+        "details": "Stock increased from 5 to 15"
+    },
+    {
+        "id": 8,
+        "customer": "12345",
+        "action": "Order created",
+        "date": "2025-06-21",
+        "details": "Order #3 for Cliente C"
+    }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/{id}</td>
+      <td>Deletes history for a id</td>
+      <td>DELETE</td>
+      <td>Eliminar un registro de historial por su ID</td>
+      <td>
+        <pre>
+{
+    "message": "History record with id 6 deleted successfully"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/{id}</td>
+      <td>Updates an existing history record by ID</td>
+      <td>PUT</td>
+      <td>Actualizar un registro de historial existente</td>
+      <td>
+        <pre>
+{
+    "id": 5,
+    "customer": "12345",
+    "action": "Replenished stock",
+    "date": "2025-06-20",
+    "details": "Stock increased from 5 to 20"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/api/v1/history/{id}</td>
+      <td>Gets a history by id</td>
+      <td>GET</td>
+      <td>Obtener un registro de historial específico por su ID</td>
+      <td>
+        <pre>
+{
+    "id": 5,
+    "customer": "12345",
+    "action": "Replenished stock",
+    "date": "2025-06-20",
+    "details": "Stock increased from 5 to 15"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+    
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+La organizacion de nuestro codigo se realizo en un repositorio en GitHub. Para el desarrollo del back-end
+
+- Primero, se creó un repositorio en GitHub para alojar el código fuente del Backend, permitiendo así una gestión centralizada y control de versiones
+- Segundo, cada miembro del equipo creó una rama individual para desarrollar una función específica del Backend, lo que permitió trabajar en paralelo de manera organizada.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/back.png" 
+  alt="ramas back end"/>
+
+- Tercero, se creó un proyecto en Visual Studio Community 2022 y se conectó al repositorio remoto, facilitando la integración del código con el control de versiones desde el entorno de desarrollo.
+- Cuarto, se implementaron las diferentes funcionalidades asignadas y se realizaron los commits respectivos, siguiendo buenas prácticas para mantener un historial de cambios claro.
+- Quinto, una vez completado el desarrollo, se hizo merge de las ramas individuales a develop, donde se resolvieron conflictos y se corrigieron errores detectados en la integración.
+- Sexto, tras verificar el correcto funcionamiento en develop, se realizó el merge final hacia la rama master, consolidando una versión estable del proyecto.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+El proyecto se realizo mediante repositorio en GitHub. Integrantes participantes
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Sprint goal y Stories del Sprint #2"/>
+    
+Commits de los integrantes en el Back end application:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/progress.png" 
+  alt="Progress"/>
+    
+Grafico de los push y merge realizados por el equipo:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/grafica.png" 
+  alt="grafica back end"/>
+    
+## 5.3. Validation Interviews. 
+
+En esta sección se realizarán entrevistas mediante las cuales buscamos recoger opiniones y recomendaciones. Esto asegura que la aplicación web no solo cumpla con los requisitos técnicos, sino también con las expectativas de nuestros segmentos objetivos.
+
+### 5.3.1. Diseño de Entrevistas. 
+
+1. **User goal**: Landing Page
+
+- **User persona**: Vinicultores y Distribuidores
+
+- **User flow**: El usuario deberá ingresar a la landing page de la aplicación web. Una vez dentro, podrá desplazarse y visualizar información general sobre los servicios ofrecidos, así como los beneficios de utilizar la aplicación. Además, podrá cambiar el idioma a inglés o español a través de un botón. También, tendrá acceso directo a la aplicación web a través de un Call To Action situado en la vista principal de la landing page.
+
+2. **User goal**: Productores
+
+- Gestionar ordenes de pedido
+
+  - **User Goal**: Como productor, necesito poder registrar pedido y ver los detalles del pedido para controlar el stock
+  - **User Flow**: Los productores deberan ingresar a la sección de ordenes, esta puede realizar pedidos acorde a las necesidades del productor y permite un filtrado según la eleccion del mismo.
+
+- Gestionar reabastecimiento
+
+  - **User Goal**: Como productor, necesito poder reabastecer todos los productor de mi stock para tener un control sobre la cantidad de cada venta
+  - **User Flow**: Los productores deberan ingresar a la sección de replenishment, esta puede registrar los pedido a reabastecer y actualizar los pedidos según como este el estado .
+
+- Gestionar los lotes
+
+  - **User Goal**: Como productor, , necesito poder llevar un registro detallado de cada lote de vino en producción, incluyendo las fases de fermentación, clarificación, prensado, añejamiento y embotellado.
+  - **User Flow**: Desde la vista de batch management, deben crear y gestionar lotes en la aplicación, conforme el lote avanza, actualizan el estado de cada fase y pueden ingresar observaciones o ajustar los tiempos de cada una según el avance del lote.
+
+3. **User goal**: Distribuidores
+
+- Gestionar cliente de productores
+
+    - **User Goal**: Como distribuidor, quiero tener control sobre los usuarios productores guardados, para eliminar los contactos guardados
+    - **User Flow**: Desde la sección de cuenta, dependiendo del rol, en este caso como distribuidor podra eliminar y agregar contacto de productor
+
+- Gestionar el estado del producto
+
+    - **User Goal**: Como distribuidor, quiero ver el estado de entrega de cada pedido para tener mejor control sobre la fecha de entrega de los pedidos en estado pendiente
+    - **User Flow**: Desde la sección status, el distribuidor ingresa y podra visualizar cada producto con un estado pendiente y podra modificar los productos dentro de la tabla
+
+### 5.3.2. Registro de Entrevistas. 
+
+<table>
+<thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th>JeanPiero Landa</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Renzo Miguel Llerena Delgado</th>
+            </tr>
+</thead>        
+<tbody>
+            <tr>
+                <td>Edad</td>
+                <td>19</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Chorrillos</td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista1.png" alt="foto1"></td>
+                <td> 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9IDzDy2PZCq7B5-T9RCKsB50ZpE47zIdOh3YAo5MghMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vpj1ph
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>1:01</td>
+            </tr>
+            <tr>
+                <td>Duración</td>
+                <td>6:03</td>
+            </tr>
+            <tr>
+                <td>Resumen</td>
+                <td>JeanPiero Landa de 20, participo en la entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicacio. Durante el desarrollo de la entrevista, destaco el tema y la navegación es intuitiva y amigable, le agrada el como se maneja la información.
+                    En el apartado "Gestion de lotes" la navegacion le parece intutiva lo cual ayuda al usuario a guiarse y navegar por la aplicación. Se concluye la entrevista, complentado todos los User Goals, destacando la faclidad de la intefaz de usuario y agregando comentarios para la implementacion de mejora                     en la aplicacion para que se pueda ser más intuitivo y se vea más profesional.
+                </td>
+            </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+</thead>        
+<tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista2" alt="foto2"></td>
+                <td>[Link de la entrevista]()</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Duración</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Resumen</td>
+                <td></td>
+            </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th></th>
+            </tr>
+</thead>        
+<tbody>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="../assets/img/chapter-V/fotoEntrevista3" alt="foto3"></td>
+                <td>[Link de la entrevista]()</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Duración</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Resumen</td>
+                <td></td>
+            </tr>
+</tbody>
+</table>
+
+### 5.3.3. Evaluaciones según heurísticas. 
+
+__________________________________________________________________________________________
+
+<strong> <p style="text-align: center;"> UX Heuristics & Principles Evaluation </p> </strong> 
+<strong> <p style="text-align: center;"> Usability – Inclusive Design – Information Architecture</p> </strong> 
+
+**_CARRERA:_** Ingeniería de Software
+
+**_CURSO:_** Aplicaciones Web
+
+**_SECCIÓN:_** 4424
+
+**_PROFESOR:_** Oscar Ivan Villafuerte Bazan
+
+**_AUDITOR:_** Corebyte
+
+**_CLIENTE:_** Corebyte
+
+__________________________________________________________________________________________
+
+**SITE o APP A EVALUAR:** TraceWine
+
+**TAREAS A EVALUAR:**
+
+**_Landing Page: TraceWine:_**
+
+1. Información y descripción de la landing page y sus funcionalidades
+2. Visualización de planes de precio de la aplicación
+3. Interacción de la landing page con la aplicación
+
+**_Web Application: TraceWine:_**
+
+1. Acceso a la visualizacion de datos en el ordenes
+2. Mejora de diseño en la interfaz en la seccion "Productor"
+3. Optimización de la Interfaz de cliente
+4. Implementación de Nuevas Funcionalidades (alertas y analisis de venta)
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+<thead>
+  <tr>
+    <th> Nivel </th>
+    <th> Descripción </th>
+  </tr>
+</thead>
+<tbody>
+  <!--========================================= FILA 1 ======================================-->
+  <tr>
+    <td> 1 </td>
+    <td> 
+      Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+      frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo 
+    </td>
+  </tr>
+  <!--========================================= FILA 2 ======================================-->
+  <tr>
+    <td> 2 </td>
+    <td> 
+      Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+      superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+      reléase
+    </td>
+  </tr>
+  <!--========================================= FILA 3 ======================================-->
+  <tr>
+    <td> 3 </td>
+    <td> 
+      Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+      importante que sean corregidos y se les debe asignar una prioridad alta.
+    </td>
+  </tr>
+  <!--========================================= FILA 4 ======================================-->
+  <tr>
+    <td> 4 </td>
+    <td> 
+      Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+      la herramienta. Es imperativo que sea corregido antes del lanzamiento
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+**TABLA DE RESUMEN - LANDING PAGE:**
+
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violada(o)                     |
+|----|--------------------------------------------------------------------------|---------------------|-----------------------------------------------------|
+| 1  | Falta de acción al elegir un plan en la sección de "Planes"             | 2                   | Usability: Visibilidad del estado del sistema       |
+| 2  | Dificultades en la Navegación y Comprensión de la Propuesta de Valor en la Landing Page | 2                   | Usability: Visibilidad del estado del sistema       |
+| 3  | Diseño inconsistente en la sección de "Servicios"                       | 2                   | Inclusive Design: Estética y diseño minimalista     |
+| 4  | Call-to-Action poco destacado                                            | 3                   | Usability: Visibilidad del estado del sistema       |
+
+**_DESCRIPCIÓN DE PROBLEMAS - LANDING PAGE:_**
+
+**PROBLEMA #1:** Falta de acción al elegir un plan en la sección de "Planes" 
+
+**Severidad: 2**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**Problema:**  
+En la sección de "Planes" de la landing page, al seleccionar un plan, el sistema no despliega ninguna pestaña ni redirige al usuario a otra página para completar el proceso de elección. Esto puede generar confusión en el usuario, ya que no hay una acción clara o retroalimentación al seleccionar una opción. Esta problemática tiene una severidad de nivel 2, ya que no impide completamente el acceso a la aplicación, pero sí afecta la experiencia del usuario al hacer que el proceso de selección sea poco intuitivo.
+
+![problema1.png](../assets/img/chapter-V/problema1.png)
+
+**Recomendación:**  
+Se recomienda implementar una acción que guíe al usuario después de seleccionar un plan, como abrir una pestaña emergente con más detalles del plan o redirigir a una página de registro o pago. Esto facilitaría al usuario el proceso de completar su selección y mejoraría la experiencia de navegación al hacerlo más intuitivo y directo.
+
+**PROBLEMA #2:** Dificultades en la Navegación y Comprensión de la Propuesta de Valor en la Landing Page
+
+**Severidad: 2**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**Problema:**  
+Los usuarios encuentran dificultades para navegar en la landing page debido a la falta de claridad en la estructura de información y a un diseño visual poco intuitivo. Esto puede llevar a confusión y a una experiencia de usuario negativa, dificultando que los visitantes comprendan rápidamente la propuesta de valor del producto.
+
+![problema2.png](../assets/img/chapter-V/problema2.png)
+
+**Recomendación:**  
+Se sugiere realizar una revisión completa de la arquitectura de información de la landing page, asegurando que los elementos más importantes (como beneficios, características clave y llamados a la acción) sean fácilmente accesibles y visualmente destacados. Implementar un diseño más limpio y organizado, utilizando jerarquías visuales efectivas, permitirá guiar a los usuarios a través de la página de manera más fluida. Además, incluir etiquetas y descripciones claras para cada sección ayudará a los usuarios a entender mejor el contenido presentado.
+
+**PROBLEMA #3:** Diseño inconsistente en la sección de "Servicios"
+
+**Severidad: 2**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**Problema:**  
+La sección de "Servicios" carece de una jerarquía visual clara, lo que dificulta que los usuarios identifiquen rápidamente las características ofrecidas por la aplicación. Los textos descriptivos no están suficientemente destacados, y la falta de íconos o elementos visuales de apoyo hace que la información no sea fácilmente escaneable.
+
+![problema3.png](../assets/img/chapter-V/problema3.png)
+
+**Recomendación:**  
+Se sugiere rediseñar la sección utilizando una jerarquía visual clara que destaque títulos, descripciones e íconos representativos de cada servicio. Además, se recomienda mejorar el contraste y la organización del contenido para facilitar la lectura y comprensión rápida.
+
+**PROBLEMA #4:** Diseño inconsistente en la sección de "Servicios""
+
+**Severidad: 3**
+**Heurística violada: Usability: Inclusive Design: Estética y diseño minimalista**
+
+**Problema:**  
+Los botones de llamado a la acción ("Star now", "Contact") no tienen suficiente prominencia en el diseño de la página. Esto podría llevar a que los usuarios no los perciban como elementos interactivos importantes, afectando la conversión y el flujo de navegación.
+
+![problema4.png](../assets/img/chapter-V/problema4.png)
+
+**Recomendación:**  
+Se recomienda rediseñar los botones de CTA para que sean más visibles, utilizando colores llamativos que contrasten con el fondo, tamaños más grandes y ubicaciones estratégicas en la página. Incluir microinteracciones, como cambios de color al pasar el cursor, también puede aumentar la claridad de su función y atraer la atención del usuario.
+
+
+
+**TABLA DE RESUMEN - WEB APPLICATION:**
+<table>
+<thead>
+ <tr>
+  <th> # </th>
+  <th> Problema </th>
+  <th> Escala de severidad </th>
+  <th> Heurística/Principio violada(o) </th>
+</tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td> 1 </td>
+  <td> Falta de filtrado de historial </td>
+  <td> 3 </td>
+  <td> Usability: Control y libertad del usuario  </td>
+</tr>
+<!--========================================= FILA 2 ======================================-->
+<tr>
+  <td> 2 </td>
+  <td> Mejora de diseño en la interfaz en la seccion analisis de venta </td>
+  <td> 1 </td>
+  <td> Inclusive Design: Estética y diseño minimalista </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td> 3 </td>
+  <td> Mejora de diseño en la interfaz de navbar </td>
+  <td> 1 </td>
+  <td> Inclusive Design: Estética y diseño minimalista </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td> 4 </td>
+  <td> Falta la opcion de busqueda </td>
+  <td> 4  </td>
+  <td> Usability: Visibilidad del estado del sistema </td>
+</tr>
+</tbody>
+</table>
+
+
+**_DESCRIPCIÓN DE PROBLEMAS - WEB APPLICATION:_**
+
+**_PROBLEMA #1: Falta de filtrado de historial**
+
+**_Severidad: 3_**
+**Heurística violada: Usability: Control y libertad del usuario**
+
+**_Problema:_**
+La barra de busqueda en el apartado de "Records" no captura los datos correctamente, lo cual puede generar
+confusion al usuario al momento de navegar en el dicho apartado. Esta problemática es de un nivel 3 de severidad,
+ya que impide al usuario acceder a la aplicación y puede afectar negativamente
+su experiencia.
+
+![problema](../assets/img/chapter-V/problema5.png)
+
+**_Recomendación:_**
+Se recomienda realizar un cambio en la estrcutura del codigo en la seccion de "Inventario" para que pueda captar bien los datos que
+el usuario podra ir agregando. A partir de ello, el usuario ya podra visualizar correctamente los datos sin problema alguno.
+
+**_PROBLEMA #2: Mejora de diseño en la interfaz en la seccion analisis de venta**
+
+**_Severidad: 1_**
+**Heurística violada: Inclusive Design: Estética y diseño minimalista**
+
+**_Problema:_** 
+
+En el apartado de "Sales Analysis" el usuario se le dificulta un poco en el momento de comprender la grafica y la tabla de información que estan integradas en el dicho apartado
+ya que si cada vez que se actualiza la información sea mas detallado y simple para una mejor comprensión.
+
+![problema6](../assets/img/chapter-V/problema6.png)
+
+**_Recomendación:_**
+
+Se recomienda realizar una breve mejora en la estructura del codigo en el apartado css para que tenga una mayor visualizacion para asi para lograr una apariencia más
+cohesiva y profesional. 
+
+**_PROBLEMA #3: Falta la opcion de busqueda**
+
+**_Severidad: 4_**
+**Heurística violada: Usability: Visibilidad del estado del sistema**
+
+**_Problema:_**  
+En la sección de orders, cuando el usuario guarda un nuevo registro, no se visualiza una barra de busqueda lo que puede ser confuso para el usuario, esto debido al momento de tener varios pedidos registrado le dificultara al momento de organizar cada uno de estos.
+
+![problema7](../assets/img/chapter-V/problema7.png)
+
+**_Recomendación:_**  
+Implementar una notificación visual, como un mensaje de éxito o un icono de confirmación, que aparezca brevemente en la pantalla cada vez que se guarden los cambios en el inventario. Esto ayudará a mejorar la confianza del usuario en la funcionalidad y le permitirá continuar trabajando sin interrupciones o dudas sobre el resultado de sus acciones.
+
+**_PROBLEMA #4: Mejora de diseño en la interfaz de navbar**
+
+**_Severidad: 1_**
+**Heurística violada: Inclusive Design: Estética y diseño minimalista*
+
+**_Problema:_**
+
+En la seccion del navbar, cuando el usuario quiere navegar en los features, ocupa mucho espacio en la pantalla de navegacion lo que provoca dificultad en la nvegacion del usuario. Haciendo que constantemente tenga que ir a la ruta de "User" para seguir navegando nuevamente sin problema alguno.
+
+![problema8.png](../assets/img/chapter-V/problema8.png)
+
+**_Recomendación:_**
+
+Para mejorar la navegación en los features, se sugiere optimizar el menú agrupando los elementos en submenús o categorías desplegables, lo que reducirá el espacio ocupado en pantalla. Además, esto permitirá a los usuarios regresar fácilmente a secciones anteriores sin necesidad de volver al "Home". También se pueden ofrecer accesos directos a las secciones más utilizadas y realizar pruebas de usabilidad para identificar áreas de mejora.
+
+## 5.4. Video About-the-Product. 
+
+En esta sección presentamos el video sobre nuestro producto, TraceWine. Este video ofrece una perspectiva promocional, resumida en el modelo de nuestro negocio, que abarca las funcionalidades y beneficios de la plataforma. También incluye escenas de interacción con el sistema
+
+![Sistema](../assets/img/chapter-V/VistaVideo.png)
+
+Link: [About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EYQmbu7U1KlFvSBYgfwbvWQB90KFfjBH24BjOisFt9XX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dHcaKB)
+
+Link: [About the product-Youtube](https://youtu.be/gWQWmZM0gGk)
 
 ## 6. Conclusiones, Bibliografía y Anexos.
 
