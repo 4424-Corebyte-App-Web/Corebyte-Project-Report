@@ -868,9 +868,9 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Front-end application](https://vuetb2.web.app)
+Landing page desployed: 
 
-Front-end application:
+Front-end application: [Front-end application](https://vuetb2.web.app)
 
 Back-end application: [Back-end application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
 
