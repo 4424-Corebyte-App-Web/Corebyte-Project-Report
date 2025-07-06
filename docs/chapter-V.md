@@ -2836,6 +2836,14 @@ Grafico de los push y merge realizados por el equipo:
 
 ### 5.2.4. Sprint 4 
 
+Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
+
+Landing page desployed: [Landing page](https://landingpage4424.web.app)
+
+Front-end application: [Front-end application](https://vuetb2.web.app)
+
+Back-end application: [Back-end application]()
+
 #### 5.2.4.1. Sprint Planning 4.
 
 A continuación, se detalla, en la tabla siguiente, información sobre el planeamiento del último sprint del proyecto. Además, para este sprint se definió un objetivo para cubrir los aspectos de sitio web estático, aplicación front-end y aplicación back-end. Una sección del objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir mejoras para secciones para los videos acerca del producto y del equipo de desarrollo para los visitantes del sitio web. Por otro lado, el segundo objetivo se centra en la implementación de consumo de servicios de la aplicación backend para la aplicación front-end de Corebyte. Finalmente, el último objetivo del sprint se centra en la implementación de endpoints relacionados con filtrado de pedidos y autenticación de usuarios.
@@ -2986,8 +2994,8 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
      <tr>
-          <th colspan="2" align="left">Sprint 3</th>
-          <th colspan="6" align="left">Sprint Backlog 3</th>
+          <th colspan="2" align="left">Sprint 4</th>
+          <th colspan="6" align="left">Sprint Backlog 4</th>
         </tr>
         <tr>
           <th colspan="2" align="left">User Stories</th>
@@ -3150,24 +3158,172 @@ A continuación, se presenta la tabla con las tareas necesarias para completar s
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
+En esta sección, se describen los principales avances de implementación realizados en este último sprint.
 
+A continuación, se muestra una tabla que contiene la información sobre los commits hechos que contienen partes de las funcionalidades que debemos implementar para completar este sprint.
+
+Repositorio del sitio web estático: [Landing page](https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page)
+
+Repositorio de la aplicación Frontend: [Frontend application](https://github.com/4424-Corebyte-App-Web/corebyte-front-end-application)
+
+Repositorio de la aplicación Backend: [Backend application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commited On</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.4.5. Execution Evidence for Sprint Review. 
 
+En esta sección, se explica lo logrado en este sprint con pruebas de lo implementado. Primero, los logros de este sprint incluyen la implementación de una mejora en las secciones con dos videos para los visitantes del sitio web: uno que incluye información relacionada a las características y beneficios que ofrece la aplicación web, y otro que detalla información del equipo de desarrollo de la aplicación a lo largo del ciclo de vida del proyecto. También, los logros incluyen la implementación en la aplicación frontend de poder consumir servicios web de parte de la aplicación backend en todas las secciones implementadas previamente. Finalmente, también, se logró implementar unos cuantos endpoints en la aplicación backend relacionados con órdenes, autenticación, gestion de lotes, reabastecimiento, historial y estado del pedido
 
+A continuación, se muestran las capturas de pantalla de las secciones implementadas en la Landing Page, aplicación Front End y aplicación Backend. Estas imágenes reflejan el progreso realizado en el sprint y sirven como evidencia del trabajo completado.
+
+# Landing Page
+
+Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejecución del sitio web estático. El vídeo muestra el funcionamiento de cada sección del sitio web y cómo se ve en un navegador web.
+
+   - Sitio web estático desplegado: [Landing page](https://landingpage4424.web.app)
+   - Vídeo de ejecución:
+
+# Front End Application
+
+Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo se ve en un navegador web.
+
+   - Aplicación Frontend desplegada: [Front-end application](https://vuetb2.web.app)
+   - Vídeo de ejecución de la Aplicación Frontend:
+
+# Back End Application 
+
+Se adjuntan los enlaces para acceder a la aplicación backend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo fueron nombradas las rutas de los endpoints implementados.
+
+   - Aplicación Backend desplegada:
+   - Vídeo de ejecución de la Aplicación Backend:
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+En esta sección, se describe la evidencia de documentación de los endpoints que se han implementado en la aplicación backend de nuestro proyecto para este sprint. A continuación, se muestra la tabla que contiene una breve descripción de las acciones y requisitos de cada endpoint implementado.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Módulo</th>
+      <th>Endpoint</th>
+      <th>Acción</th>
+      <th>Verbo HTTP</th>
+      <th>Sintaxis</th>
+      <th>Parámetros principales</th>
+      <th>Enlace a Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>[Ver Link]()</td>
+    </tr>
+  </tbody>
+</table>
+
+# Ejemplo Detallado
 
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
+Para asegurar un desarrollo estructurado y un despliegue eficiente, se organizaron los componentes del proyecto en tres partes principales: la Landing Page, el Frontend y Backend funcional. Cada uno fue alojado en su propio repositorio de GitHub, con procesos de desarrollo independientes y métodos de despliegue distintos. A continuación, se detalla el flujo de trabajo seguido en cada caso, junto con evidencia visual del resultado final. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue del sitio web estático.
 
+- Despliegue del Landing Page
+
+Para el despliegue del sitio web estático, usamos Firebase por última vez. Esta es una herramienta que permite alojar sitios web estáticos directamente desde un servicio de google. A continuación, se detalla el proceso seguido para el despliegue del sitio web estático:
+
+Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing page](https://landingpage4424.web.app)
+
+- Despliegue de la Aplicación Frontend
+
+Para el despliegue de esta aplicación, se utilizó Firebase Hosting, una plataforma que permite alojar aplicaciones web de manera sencilla y eficiente. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Frontend:
+
+Se adjunta el enlace a la aplicación frontend desplegada: [Front-end application](https://vuetb2.web.app)
+
+- Despliegue del Back End
+
+Para el despliegue de esta aplicación, se utilizó Render, una plataforma que permite desplegar aplicaciones web de manera sencilla y eficiente que ayuda con el despliegue cada que se realizan cambios al repositorio. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Backend:
+
+Se adjunta el enlace a la aplicación backend desplegada:
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+En esta sección se detalla cómo se llevaron a cabo las actividades de implementación durante el sprint, así como un resumen de las labores realizadas por cada miembro del equipo para el cumplimiento completo de la entrega relacionada a este sprint.
 
-    
+El proyecto se realizó mediante un repositorio en GitHub con los siguientes integrantes participantes:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+A continuation, se detallará el trabajo que realizo cada integrante del equipo para cada producto avanzado en este sprint:
+
+- Landing Page
+  - El integrante Renzo Villafuerte formo parte de la grabación del ultimo video del equipo
+  - El integrante Giovany Torres formo parte de la grabación del ultimo video del equipo
+  - El integrante Renzo Miguel formo parte de la grabación del ultimo video del equipo
+  - El integrante Oscar Javier formo parte de la grabación del ultimo video del equipo
+  - El intregrante Matias Diaz mejoro el apartado del nosotros del landing page y formo parte de la grabación del ultimo video del equipo
+
+A continuación, se adjunta el gráfico con la cantidad de commits realizados por cada integrante del equipo durante este sprint para el desarrollo de la segundo versión del sitio web estático. Cada barra indica la cantidad de commits realizados en cada rama, reflejando el progreso del equipo en el desarrollo de las actualizaciones de las secciones del sitio web.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Commits"/>
+
+También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la Landing Page. En este gráfico se puede observar el flujo de desarrollo del sitio web estático, donde las ramas que se desarrollaron fueron las relacionadas a las secciones que contienen los vídeos acerca del equipo de desarrollo y del producto.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Desarrollo"/>
+
+- Aplicación Frontend
+
+  - El integrante Renzo Villafuerte fue responsable de implementar el consumo de servicios web para autenticación y perfil
+  - El integrante Giovany Torres fue responsable de implementar el consumo de servicios web para órdenes de los pedidos
+  - El integrante Renzo Miguel fue responsable de implementar el consumo de servicios web para gestion de lotes para cada proceso
+  - El integrante Oscar Javier fue responsable de implementar el consumo de servicios web para reabastecimientos de los productos
+  - El intregrante Matias Diaz fue responsable de implementar el consumo de servicios web para generación de reportes en formato pdf, estado de los pedidos, alertas y el análisis de venta
+
+A continuación, se muestra la cantidad de commits realizados por los integrantes para el avance de la última versión de la aplicación Frontend. Cada barra indica la cantidad de commits realizados en cada rama, reflejando el progreso del equipo en la implementación de los servicios web en todas las secciones de la aplicación.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Commits-Frontend"/>
+
+También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la aplicación front end. Este gráfico indica el flujo de desarrollo de la aplicación, donde cada rama representa una funcionalidad específica que se implementó durante el sprint para la aplicación frontend principalmente la implementación del consumo de servicios web y autenticación de usuarios.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Desarrollo-Frontend"/>
+
+- Aplicación Backend
+   
 ## 5.3. Validation Interviews. 
 
 En esta sección se realizarán entrevistas mediante las cuales buscamos recoger opiniones y recomendaciones. Esto asegura que la aplicación web no solo cumpla con los requisitos técnicos, sino también con las expectativas de nuestros segmentos objetivos.
