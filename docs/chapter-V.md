@@ -3282,6 +3282,7 @@ El proyecto se realizó mediante un repositorio en GitHub con los siguientes int
 A continuation, se detallará el trabajo que realizo cada integrante del equipo para cada producto avanzado en este sprint:
 
 - Landing Page
+
   - El integrante Renzo Villafuerte formo parte de la grabación del ultimo video del equipo
   - El integrante Giovany Torres formo parte de la grabación del ultimo video del equipo
   - El integrante Renzo Miguel formo parte de la grabación del ultimo video del equipo
@@ -3321,7 +3322,12 @@ También, se adjunta el gráfico del avance realizado por cada rama de funcional
   alt="Desarrollo-Frontend"/>
 
 - Aplicación Backend
-   -  El integrante Renzo Villafuerte realizó correcciones en los respectivos endpoints para authentication
+
+  - El integrante Renzo Villafuerte realizó correcciones en los respectivos endpoints para authentication
+  - El integrante Giovany Torres realizó correcciones en los respectivos endpoints para orders
+  - El integrante Renzo Miguel realizó correcciones en los respectivos endpoints para batch-management
+  - El integrante Oscar Javier realizó correcciones en los respectivos endpoints para replenishment
+  - El intregrante Matias Diaz realizó correcciones en los respectivos endpoints para history-status
 
 A continuación, se muestra el siguiente gráfico que detalla la cantidad de commits realizados por cada miembro durante este sprint. El gráfico detalla el aporte realizado por cada integrante del equipo para el avance de la última versión de la aplicación backend.
 
