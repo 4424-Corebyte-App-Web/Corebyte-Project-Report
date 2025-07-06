@@ -2836,19 +2836,317 @@ Grafico de los push y merge realizados por el equipo:
 
 ### 5.2.4. Sprint 4 
 
-
-
 #### 5.2.4.1. Sprint Planning 4.
 
+A continuación, se detalla, en la tabla siguiente, información sobre el planeamiento del último sprint del proyecto. Además, para este sprint se definió un objetivo para cubrir los aspectos de sitio web estático, aplicación front-end y aplicación back-end. Una sección del objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir mejoras para secciones para los videos acerca del producto y del equipo de desarrollo para los visitantes del sitio web. Por otro lado, el segundo objetivo se centra en la implementación de consumo de servicios de la aplicación backend para la aplicación front-end de Corebyte. Finalmente, el último objetivo del sprint se centra en la implementación de endpoints relacionados con filtrado de pedidos y autenticación de usuarios.
 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+     <tr>
+      <th>Sprint #</th>
+      <td>Sprint 4</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Sprint Planning Background</th>
+      <td>--</td>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <td>2025/06/20</td>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <td>13:00 PM</td>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <td> Reunión virtual - Meet </td>
+    </tr>
+    <tr>
+      <th>Prepared By</th>
+      <td>Oscar Armas</td>
+    </tr>
+    <tr>
+      <th>Attendees</th>
+      <td>Renzo Miguel Llerena Delagado / Diaz Quispe Matías Sebastian / Renzo Alonso Villafuerte Tapia / Oscar Javier Armas Sánchez / Torres Apolinario Giovany Smith</td>
+    </tr>
+    <tr>
+      <th>Sprint 3 Review Summary</th>
+      <td>
+        Durante el Sprint #3, el equipo realizó progresos significativos en la implementación de la gestión de inventarios, la administración de productos terminados, el manejo del proceso de vinificación por lotes de cosecha de uvas, así como en la gestión de reportes y estado de ordenes.
+      </td>
+    </tr>
+    <tr>
+      <th>Sprint 3 Retrospective Summary</th>
+      <td>
+        Durante este sprint, el equipo enfrentó desafíos significativos, especialmente debido a un tiempo reducido para completar las tareas asignadas. Esta limitación impactó la comunicación y la gestión de actividades, lo que generó dificultades en el flujo de trabajo. A pesar de estos obstáculos, logramos cumplir con los objetivos establecidos gracias al compromiso y la colaboración de los demás miembros del equipo.
+      </td>
+    </tr>
+    <tr>
+      <th>Sprint Goal &amp; User Stories</th>
+      <td>--</td>
+    </tr>
+    <tr>
+      <th>Sprint 4 Goal</th>
+      <td>
+        Nuestro sprint goal consite en mejorar la administración de las ordenes, el proceso de pedidos, la gestión del proceso de vinificación para vitivinivultores y la interacción de los usuarios con la plataforma TraceWine. Se implementarán nuevos puntos finales en el backend para permitir la integración de funciones de gestión de inventarios, pedidos clientes, autenticación y se realizarán mejoras en la aplicación web y la landing page de  TraceWine. Esto incluirá la posibilidad de buscar, editar y eliminar ítems en el inventario, proceso de vinificación, generar reportes y administar el estado de cada pedido con un filtrado de busqueda.
+      </td>
+    </tr>
+    <tr>
+      <th>Sprint 4 Velocity</th>
+      <td>130</td>
+    </tr>
+    <tr>
+      <th>Sum of Story Points</th>
+      <td>130</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este último sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application y en su contraparte para el Back-End Application. Para esto, hemos definido las siguientes secciones: Ordenes, Autenticación, Alertas, gestion de lote y sales and analytics
 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Ordenes</th>
+      <th>Autenticación</th>
+      <th>Alertas</th>
+      <th>Gestión de lotes</th>
+      <th>Sales and analytics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Renzo Miguel Llerena Delagado</td>
+      <td>Renxoll</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Diaz Quispe Matías Sebastian</td>
+      <td>equinox-1092</td>
+      <td></td>
+      <td></td>
+      <td>C</td>
+      <td></td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Renzo Alonso Villafuerte Tapia</td>
+      <td>RenzoVi21</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oscar Javier Armas Sánchez</td>
+      <td>Racso24k</td>
+      <td>C</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario Giovany Smith</td>
+      <td>Giovany7x</td>
+      <td>L</td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.4.3. Sprint Backlog 4.
 
+Como se mencionó previamente en el planeamiento de este sprint, el objetivo del mismo es concluir definitivamente con el sitio web estático integrando una mejora en las secciones que informen a los visitantes sobre los desarrolladores del producto y sobre el producto en sí; implementarle a la aplicación frontend la capacidad de consumir los servicios web que ofrece la aplicación backend e implementar endpoints en la aplicación backend necesarios para la implementación de características relacionadas a órdenes de compra y autenticación de usuarios
 
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. Para ello, se utilizó la aplicación Trello que nos ayuda a gestionar el progreso del sprint.
+[Link de acceso al Sprint Backlog #4 en Trello](https://trello.com/invite/b/685ec6c02c321e4413f954a9/ATTIca81f84e22bdf48b7a8b2441cb0182deA97EAEC6/corebyte-sprint-backlog-4)
+
+<p align="center">
+  <img src="../assets/img/chapter-V/Sprint4-backlog.png" 
+  alt="Sprint 4"/>
+
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este último sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+     <tr>
+          <th colspan="2" align="left">Sprint 3</th>
+          <th colspan="6" align="left">Sprint Backlog 3</th>
+        </tr>
+        <tr>
+          <th colspan="2" align="left">User Stories</th>
+          <th colspan="6" align="left">Work Item/Task</th>
+        </tr>
+    <tr>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Description</th>
+          <th align="left">Estimation (Hours)</th>
+          <th align="left">Assigned to</th>
+          <th align="left">Status</th>
+        </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>US020</td>
+      <td>Buscar clientes distribuidores por nombre</td>
+      <td>US-020T001</td>
+      <td>Implementar barra de busqueda</td>
+      <td>Desarrollo barra de busqueda con id del distribuidor para una busqueda mas rapida</td>
+      <td>2</td>
+      <td>Matias Diaz</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US026</td>
+      <td>Recepción de notificaciones sobre el estado del pedido</td>
+      <td>US-026T001</td>
+      <td>Implementar notificaciones</td>
+      <td>Desarrollo de notificaciones en plataforma y envío de correo al cambiar estado del pedido</td>
+      <td>3</td>
+      <td>Matias Diaz</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS018</td>
+      <td>Eliminar un pedido</td>
+      <td>TS-018T001</td>
+      <td>Implementar un endpoint DELETE</td>
+      <td>Desarrollo del endpoint DELETE /orders/{id} que responda 204 y 400 según el caso</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS017</td>
+      <td>Buscar y filtrar ítems en el inventario</td>
+      <td>TS-017T001</td>
+      <td>Implementar endpoint GET</td>
+      <td>Desarrollo del endpoint GET /inventory/search que responda 200 y 404 según el caso</td>
+      <td>3</td>
+      <td>Oscar Javier</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS012</td>
+      <td>Actualizar estado de un pedido</td>
+      <td>TS-012T001</td>
+      <td>Implementar endpoint PUT</td>
+      <td>Desarrollo del endpoint PUT /orders/{id}/status que responda 200 y 400 según el caso</td>
+      <td>5</td>
+      <td>Matias Diaz</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS003</td>
+      <td>Eliminar Datos de los Procesos de Vinificación</td>
+      <td>TS-003T001</td>
+      <td>Implementar endpoint DELETE</td>
+      <td>Desarrollo del endpoint DELETE /vinification que responda 204, 404 y 403 según el caso</td>
+      <td>6</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS004</td>
+      <td>Crear Datos de los Procesos de Vinificación</td>
+      <td>TS-004T001</td>
+      <td>Implementar endpoint POST</td>
+      <td>Desarrollo del endpoint POST /vinification que responda 201, 400 y 403 según el caso</td>
+      <td>3</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS015</td>
+      <td>Eliminar un ítem del inventario</td>
+      <td>TS-015T001</td>
+      <td>Implementar endpoint DELETE</td>
+      <td>Desarrollo del endpoint DELETE /inventory/{id} que responda 204, 404 y 403 según el caso</td>
+      <td>2</td>
+      <td>Oscar Javier</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS006</td>
+      <td>Editar los detalles de un cliente distribuidor</td>
+      <td>TS-006T001</td>
+      <td>Implementar endpoint PUT</td>
+      <td>Desarrollo del endpoint PUT /cliente-distribuidor que responda 200, 400 y 403 según el caso</td>
+      <td>3</td>
+      <td>Renzo Villafuerte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS011</td>
+      <td>Creación y Gestión de Pedidos de Vinos</td>
+      <td>TS-011T001</td>
+      <td>Implementar endpoints de pedidos</td>
+      <td>Desarrollo de endpoint POST /orders (201), GET /orders/stock (200) y PUT /orders/{id} (200)</td>
+      <td>4</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS005</td>
+      <td>Crear un cliente distribuidor</td>
+      <td>TS-005T001</td>
+      <td>Implementar endpoint POST</td>
+      <td>Desarrollo del endpoint POST /cliente-distribuidor que responda 201, 400 y 403 según el caso</td>
+      <td>4</td>
+      <td>Renzo Villafuerte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS008</td>
+      <td>Ver los detalles de un cliente distribuidor</td>
+      <td>TS-008T001</td>
+      <td>Implementar endpoint GET</td>
+      <td>Desarrollo del endpoint GET /cliente-distribuidor/{id} que responda 200, 404 y 403 según el caso</td>
+      <td>4</td>
+      <td>Renzo Villafuerte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS002</td>
+      <td>Editar Datos de los Procesos de Vinificación</td>
+      <td>TS-002T001</td>
+      <td>Implementar endpoint PUT</td>
+      <td>Desarrollo del endpoint PUT /vinification que responda 200, 404 y 400 según el caso</td>
+      <td>5</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS001</td>
+      <td>Obtener Datos de los procesos de vinificación</td>
+      <td>TS-001T001</td>
+      <td>Implementar endpoint GET</td>
+      <td>Desarrollo del endpoint GET /vinification que responda 200 y 400 según el caso</td>
+      <td>2</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
