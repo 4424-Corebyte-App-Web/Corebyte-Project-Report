@@ -2987,7 +2987,7 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
 
 <p align="center">
   <img src="../assets/img/chapter-V/Sprint4-backlog.png" 
-  alt="Sprint 4"/>
+  alt="Sprint4"/>
 
 A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este último sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 
@@ -3195,21 +3195,21 @@ En esta sección, se explica lo logrado en este sprint con pruebas de lo impleme
 
 A continuación, se muestran las capturas de pantalla de las secciones implementadas en la Landing Page, aplicación Front End y aplicación Backend. Estas imágenes reflejan el progreso realizado en el sprint y sirven como evidencia del trabajo completado.
 
-# Landing Page
+## **Landing Page**
 
 Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejecución del sitio web estático. El vídeo muestra el funcionamiento de cada sección del sitio web y cómo se ve en un navegador web.
 
    - Sitio web estático desplegado: [Landing page](https://landingpage4424.web.app)
    - Vídeo de ejecución:
 
-# Front End Application
+## **Front End Application**
 
 Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo se ve en un navegador web.
 
    - Aplicación Frontend desplegada: [Front-end application](https://vuetb2.web.app)
    - Vídeo de ejecución de la Aplicación Frontend:
 
-# Back End Application 
+## **Back End Application** 
 
 Se adjuntan los enlaces para acceder a la aplicación backend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo fueron nombradas las rutas de los endpoints implementados.
 
@@ -3229,6 +3229,7 @@ En esta sección, se describe la evidencia de documentación de los endpoints qu
       <th>Verbo HTTP</th>
       <th>Sintaxis</th>
       <th>Parámetros principales</th>
+      <th>	Ejemplo de Response</th>
       <th>Enlace a Swagger</th>
     </tr>
   </thead>
@@ -3240,14 +3241,11 @@ En esta sección, se describe la evidencia de documentación de los endpoints qu
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
       <td>[Ver Link]()</td>
     </tr>
   </tbody>
 </table>
-
-# Ejemplo Detallado
-
-
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 
@@ -3293,13 +3291,13 @@ A continuation, se detallará el trabajo que realizo cada integrante del equipo 
 A continuación, se adjunta el gráfico con la cantidad de commits realizados por cada integrante del equipo durante este sprint para el desarrollo de la segundo versión del sitio web estático. Cada barra indica la cantidad de commits realizados en cada rama, reflejando el progreso del equipo en el desarrollo de las actualizaciones de las secciones del sitio web.
 
 <p align="center">
-  <img src="../assets/img/chapter-V/people.png" 
+  <img src="../assets/img/chapter-V/comminpage.png" 
   alt="Commits"/>
 
 También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la Landing Page. En este gráfico se puede observar el flujo de desarrollo del sitio web estático, donde las ramas que se desarrollaron fueron las relacionadas a las secciones que contienen los vídeos acerca del equipo de desarrollo y del producto.
 
 <p align="center">
-  <img src="../assets/img/chapter-V/people.png" 
+  <img src="../assets/img/chapter-V/GraphicPage.png" 
   alt="Desarrollo"/>
 
 - Aplicación Frontend
@@ -3313,17 +3311,30 @@ También, se adjunta el gráfico del avance realizado por cada rama de funcional
 A continuación, se muestra la cantidad de commits realizados por los integrantes para el avance de la última versión de la aplicación Frontend. Cada barra indica la cantidad de commits realizados en cada rama, reflejando el progreso del equipo en la implementación de los servicios web en todas las secciones de la aplicación.
 
 <p align="center">
-  <img src="../assets/img/chapter-V/people.png" 
+  <img src="../assets/img/chapter-V/commitfront.png" 
   alt="Commits-Frontend"/>
 
 También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la aplicación front end. Este gráfico indica el flujo de desarrollo de la aplicación, donde cada rama representa una funcionalidad específica que se implementó durante el sprint para la aplicación frontend principalmente la implementación del consumo de servicios web y autenticación de usuarios.
 
 <p align="center">
-  <img src="../assets/img/chapter-V/people.png" 
+  <img src="../assets/img/chapter-V/GraphicFront.png" 
   alt="Desarrollo-Frontend"/>
 
 - Aplicación Backend
-   
+   -  El integrante Renzo Villafuerte realizó correcciones en los respectivos endpoints para authentication
+
+A continuación, se muestra el siguiente gráfico que detalla la cantidad de commits realizados por cada miembro durante este sprint. El gráfico detalla el aporte realizado por cada integrante del equipo para el avance de la última versión de la aplicación backend.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/commitback.png" 
+  alt="Commits-BackEnd"/>
+
+También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la aplicación backend. Este gráfico indica el flujo de desarrollo de la aplicación, donde cada rama representa una funcionalidad específica que se implementó durante el sprint para la aplicación backend, entre ellas se incluye endpoints para características como órdenes de compra, catálogos, perfiles, usuarios y suscripciones.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/GraphicBack.png" 
+  alt="Desarrollo-Frontend"/>
+
 ## 5.3. Validation Interviews. 
 
 En esta sección se realizarán entrevistas mediante las cuales buscamos recoger opiniones y recomendaciones. Esto asegura que la aplicación web no solo cumpla con los requisitos técnicos, sino también con las expectativas de nuestros segmentos objetivos.
