@@ -2986,7 +2986,7 @@ Luego de definir el objetivo del sprint, se identificaron las historias de usuar
 [Link de acceso al Sprint Backlog #4 en Trello](https://trello.com/invite/b/685ec6c02c321e4413f954a9/ATTIca81f84e22bdf48b7a8b2441cb0182deA97EAEC6/corebyte-sprint-backlog-4)
 
 <p align="center">
-  <img src="../assets/img/chapter-V/Sprint4-backlog.png" 
+  <img src="../assets/img/chapter-V/Sprint4.png" 
   alt="Sprint4"/>
 
 A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este último sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
