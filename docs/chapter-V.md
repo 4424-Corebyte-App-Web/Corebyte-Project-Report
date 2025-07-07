@@ -1460,7 +1460,7 @@ Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/reposit
 
 Landing page desployed: [Landing page](https://landingpage4424.web.app)
 
-Front-end application: [Front-end application](https://vuetb2.web.app)
+Front-end application: [Front-end application](https://tracewine-exp-app.web.app/)
 
 
 #### 5.2.2.1. Sprint Planning 2. 
@@ -1664,7 +1664,7 @@ Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/reposit
 
 Landing page desployed: [Landing page](https://landingpage4424.web.app)
 
-Front-end application: [Front-end application](https://vuetb2.web.app)
+Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
 
 Back-end application: [Back-end application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
 
@@ -2840,7 +2840,7 @@ Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/reposit
 
 Landing page desployed: [Landing page](https://landingpage4424.web.app)
 
-Front-end application: [Front-end application](https://vuetb2.web.app)
+Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
 
 Back-end application: [Back-end application]()
 
@@ -3206,7 +3206,7 @@ Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejec
 
 Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo se ve en un navegador web.
 
-   - Aplicación Frontend desplegada: [Front-end application](https://vuetb2.web.app)
+   - Aplicación Frontend desplegada: [Front-end application](https://tracewine-exp-app.web.app)
    - Vídeo de ejecución de la Aplicación Frontend:
 
 ## **Back End Application** 
@@ -3261,7 +3261,60 @@ Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing pa
 
 Para el despliegue de esta aplicación, se utilizó Firebase Hosting, una plataforma que permite alojar aplicaciones web de manera sencilla y eficiente. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Frontend:
 
-Se adjunta el enlace a la aplicación frontend desplegada: [Front-end application](https://vuetb2.web.app)
+Se adjunta el enlace a la aplicación frontend desplegada: [Front-end application](https://tracewine-exp-app.web.app)
+
+   - Partimos de la rama develop del repositorio de la aplicación frontend con todos los cambios realizados para el sprint actual.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso1.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, enviamos todos los cambios realizados en este tercer sprint desde la rama de desarrollo a una nueva rama de tipo release "release/front-end-app-v3.0". Desde esa rama, se realizará el tercer y último despliegue de la aplicación front-end.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso2.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, ejecutamos el comando npm run build en la consola de nuestro proyecto. Este comando actualizará la carpeta dist que había sido creada para el despliegue anterior.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso3.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso4.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, en la consola ingresamos el comando "firebase login" y decimos NO. Luego, nos solicitará que ingresemos con nuestra cuenta de Google con la que creamos el proyecto.
+   - A continuación, se nos muestra una pantalla de inicio de sesión exitoso, lo que significa que hemos realizado correcto el anterior paso.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso5.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - A continuación, ingresamos el comando firebase deploy, pero antes de eso ingresamos el comando npm run build para construir una nueva versión del proyecto con todos los últimos cambios.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso6.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, ingresamos con el enlace que nos proporciona y podremos visualizar el proyecto desplegado
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - En esta imagen se puede visualizar el despliegue realizado en firebase con la fecha y hora de la última actualización.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso8.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Finalmente, tras la ejecución del despliegue del Frontend a través de Firebase, se muestra la evidencia del despliegue:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
 
 - Despliegue del Back End
 
