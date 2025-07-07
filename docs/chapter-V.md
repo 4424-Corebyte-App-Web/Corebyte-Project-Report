@@ -742,7 +742,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing Page Deployed: [https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
 #### 5.2.1.1. Sprint Planning 1.
 
@@ -1458,9 +1458,9 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
-Front-end application: [Front-end application](https://tracewine-exp-app.web.app/)
+Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
 
 
 #### 5.2.2.1. Sprint Planning 2. 
@@ -1662,7 +1662,7 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
 Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
 
@@ -2838,7 +2838,7 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
 Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
 
@@ -3199,7 +3199,7 @@ A continuación, se muestran las capturas de pantalla de las secciones implement
 
 Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejecución del sitio web estático. El vídeo muestra el funcionamiento de cada sección del sitio web y cómo se ve en un navegador web.
 
-   - Sitio web estático desplegado: [Landing page](https://landingpage4424.web.app)
+   - Sitio web estático desplegado: [Landing page](https://landingpage4424v4.web.app/)
    - Vídeo de ejecución:
 
 ## **Front End Application**
@@ -3255,7 +3255,60 @@ Para asegurar un desarrollo estructurado y un despliegue eficiente, se organizar
 
 Para el despliegue del sitio web estático, usamos Firebase por última vez. Esta es una herramienta que permite alojar sitios web estáticos directamente desde un servicio de google. A continuación, se detalla el proceso seguido para el despliegue del sitio web estático:
 
-Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing page](https://landingpage4424.web.app)
+Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing page](https://landingpage4424v4.web.app/)
+
+   - Partimos de la rama develop del repositorio del sitio web estático con todos los cambios realizados para este sprint.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso1.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, enviamos todos los cambios realizados en este segundo sprint desde la rama de desarrollo a una nueva rama de tipo release "release/landing-page-v4.0". Desde esa rama, se realizará el último despliegue del sitio web estático.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso2.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, ejecutamos el comando cp index.html en la consola de nuestro proyecto. Este comando actualizará la carpeta dist que había sido creada para el despliegue anterior.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso3.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso4.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, en la consola ingresamos el comando "firebase login" y decimos NO. Luego, nos solicitará que ingresemos con nuestra cuenta de Google con la que creamos el proyecto.
+   - A continuación, se nos muestra una pantalla de inicio de sesión exitoso, lo que significa que hemos realizado correcto el anterior paso.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso5.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - A continuación, ingresamos el comando firebase deploy, pero antes de eso ingresamos el comando npm run build para construir una nueva versión del proyecto con todos los últimos cambios.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso6.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, ingresamos con el enlace que nos proporciona y podremos visualizar el proyecto desplegado
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - En esta imagen se puede visualizar el despliegue realizado en firebase con la fecha y hora de la última actualización.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso8.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Finalmente, tras la ejecución del despliegue del Frontend a través de Firebase, se muestra la evidencia del despliegue:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
 
 - Despliegue de la Aplicación Frontend
 
