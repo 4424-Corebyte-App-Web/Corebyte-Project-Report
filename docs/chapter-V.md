@@ -1460,7 +1460,7 @@ Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/reposit
 
 Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
-Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
+Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
 
 #### 5.2.2.1. Sprint Planning 2. 
@@ -1499,6 +1499,7 @@ Como se mencionó previamente en el planeamiento del sprint número 2, el objeti
 Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
 
 A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
 [Link de acceso al Sprint Backlog #2 en Trello](https://trello.com/invite/b/681cc645085eedc15240526c/ATTIe5d02782fd704438be9b7f155b65d2cc3DDD1D0A/corebyte-sprint-backlog-2)
 
 <p align="center">
@@ -1664,7 +1665,7 @@ Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/reposit
 
 Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
-Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
+Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
 Back-end application: [Back-end application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
 
@@ -2840,7 +2841,7 @@ Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/reposit
 
 Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
-Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
+Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
 Back-end application: [Back-end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
 
@@ -3206,7 +3207,7 @@ Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejec
 
 Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo se ve en un navegador web.
 
-   - Aplicación Frontend desplegada: [Front-end application](https://tracewine-exp-app.web.app)
+   - Aplicación Frontend desplegada: [Front-end application](https://tracewine-app.web.app/)
    - Vídeo de ejecución de la Aplicación Frontend:
 
 ## **Back End Application** 
@@ -3318,7 +3319,7 @@ Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing pa
 
 Para el despliegue de esta aplicación, se utilizó Firebase Hosting, una plataforma que permite alojar aplicaciones web de manera sencilla y eficiente. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Frontend:
 
-Se adjunta el enlace a la aplicación frontend desplegada: [Front-end application](https://tracewine-exp-app.web.app)
+Se adjunta el enlace a la aplicación frontend desplegada: [Front-end application](https://tracewine-app.web.app/)
 
    - Partimos de la rama develop del repositorio de la aplicación frontend con todos los cambios realizados para el sprint actual.
 
