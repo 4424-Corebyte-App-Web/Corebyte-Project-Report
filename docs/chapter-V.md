@@ -2842,7 +2842,7 @@ Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
 
 Front-end application: [Front-end application](https://tracewine-exp-app.web.app)
 
-Back-end application: [Back-end application]()
+Back-end application: [Back-end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
 
 #### 5.2.4.1. Sprint Planning 4.
 
@@ -3180,11 +3180,11 @@ Repositorio de la aplicación Backend: [Backend application](https://github.com/
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Co4424-Corebyte-App-Web/corebyte-back-end-application</td>
+      <td>feature/replenishment</td>
+      <td>c1dddf33398605dc6e022b81def0af93d20c8851</td>
+      <td>feat:update fron connection deploy</td>
+      <td>08/07/2025</td>
     </tr>
   </tbody>
 </table>
@@ -3213,7 +3213,7 @@ Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al v
 
 Se adjuntan los enlaces para acceder a la aplicación backend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo fueron nombradas las rutas de los endpoints implementados.
 
-   - Aplicación Backend desplegada:
+   - Aplicación Backend desplegada: [Back-end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
    - Vídeo de ejecución de la Aplicación Backend:
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
@@ -3227,22 +3227,26 @@ En esta sección, se describe la evidencia de documentación de los endpoints qu
       <th>Endpoint</th>
       <th>Acción</th>
       <th>Verbo HTTP</th>
-      <th>Sintaxis</th>
-      <th>Parámetros principales</th>
-      <th>	Ejemplo de Response</th>
+      <th>Parámetros</th>
       <th>Enlace a Swagger</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>[Ver Link]()</td>
+      <td>Authentication</td>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>Iniciar sesión</td>
+      <td>POST</td>
+      <td>Body: { username, password }</td>
+      <td>[Ver Link](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)</td>
+    </tr>
+   <tr>
+      <td>Orders</td>
+      <td>/api/v1/order</td>
+      <td>Listar todas las órdenes</td>
+      <td>GET</td>
+      <td>Ninguno</td>
+      <td>[Ver Link](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)</td>
     </tr>
   </tbody>
 </table>
@@ -3373,7 +3377,36 @@ Se adjunta el enlace a la aplicación frontend desplegada: [Front-end applicatio
 
 Para el despliegue de esta aplicación, se utilizó Render, una plataforma que permite desplegar aplicaciones web de manera sencilla y eficiente que ayuda con el despliegue cada que se realizan cambios al repositorio. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Backend:
 
-Se adjunta el enlace a la aplicación backend desplegada:
+Se adjunta el enlace a la aplicación backend desplegada: [Back end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
+
+- Partimos de la rama develop del repositorio de la aplicación frontend con todos los cambios realizados para el sprint actual.
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso1.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Ingresamos a nuestro rider, pasando al anticlich sobre le proyecto
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso2.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Al hacer click en publishing, ingresaremos en el nombre de nuestra app
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso3.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Despues de haber aplicado los cambios, se pasara a desplegar en la plataforma de Azure
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso4.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Una vez desplegado le agregaremos la siguiente linea "/swagger/index.html"
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso5.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
