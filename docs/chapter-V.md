@@ -742,7 +742,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
 #### 5.2.1.1. Sprint Planning 1.
 
@@ -1440,7 +1440,7 @@ En el primer Sprint el equipo de desarrollo de CoreByte ha diseñado, programado
 
 Para la implementación de nuestro sitio web, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "develop" que previamente se encontrba en la rama release-1.0.
 
-[Landing Page TraceWine](https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/) - https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/) - https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -1458,7 +1458,7 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
 Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
@@ -1663,7 +1663,7 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
 Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
@@ -2839,7 +2839,7 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424v4.web.app/)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
 Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
@@ -3200,7 +3200,7 @@ A continuación, se muestran las capturas de pantalla de las secciones implement
 
 Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejecución del sitio web estático. El vídeo muestra el funcionamiento de cada sección del sitio web y cómo se ve en un navegador web.
 
-   - Sitio web estático desplegado: [Landing page](https://landingpage4424v4.web.app/)
+   - Sitio web estático desplegado: [Landing page](https://landingpage-exp.web.app/)
    - Vídeo de ejecución:
 
 ## **Front End Application**
@@ -3260,7 +3260,7 @@ Para asegurar un desarrollo estructurado y un despliegue eficiente, se organizar
 
 Para el despliegue del sitio web estático, usamos Firebase por última vez. Esta es una herramienta que permite alojar sitios web estáticos directamente desde un servicio de google. A continuación, se detalla el proceso seguido para el despliegue del sitio web estático:
 
-Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing page](https://landingpage4424v4.web.app/)
+Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing page](https://landingpage-exp.web.app/)
 
    - Partimos de la rama develop del repositorio del sitio web estático con todos los cambios realizados para este sprint.
 
