@@ -1819,7 +1819,7 @@ Como se mencionó previamente en el planeamiento del sprint número 3, el objeti
 
 Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
 
-A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este tercer sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 [Link de acceso al Sprint Backlog #3 en Trello](https://trello.com/invite/b/683cc46878ea32ade67856f9/ATTI23b0375a9ab9a22dc3fbfa6b725d78072F320565/corebyte-sprint-backlog-3)
 
 <p align="center">
