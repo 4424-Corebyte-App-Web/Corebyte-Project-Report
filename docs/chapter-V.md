@@ -742,7 +742,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 Repositorio: [https://github.com/orgs/4424-Corebyte-App-Web/repositories](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing Page Deployed: [https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
 #### 5.2.1.1. Sprint Planning 1.
 
@@ -1440,7 +1440,7 @@ En el primer Sprint el equipo de desarrollo de CoreByte ha diseñado, programado
 
 Para la implementación de nuestro sitio web, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "develop" que previamente se encontrba en la rama release-1.0.
 
-[Landing Page TraceWine](https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/) - https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/) - https://4424-corebyte-app-web.github.io/Corebyte-Landing-Page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -1458,9 +1458,9 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
-Front-end application: [Front-end application](https://vuetb2.web.app)
+Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
 
 #### 5.2.2.1. Sprint Planning 2. 
@@ -1499,6 +1499,7 @@ Como se mencionó previamente en el planeamiento del sprint número 2, el objeti
 Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
 
 A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
 [Link de acceso al Sprint Backlog #2 en Trello](https://trello.com/invite/b/681cc645085eedc15240526c/ATTIe5d02782fd704438be9b7f155b65d2cc3DDD1D0A/corebyte-sprint-backlog-2)
 
 <p align="center">
@@ -1662,9 +1663,9 @@ Grafico de los push y merge realizados por el equipo:
 
 Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
 
-Landing page desployed: [Landing page](https://landingpage4424.web.app)
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
 
-Front-end application: [Front-end application](https://vuetb2.web.app)
+Front-end application: [Front-end application](https://tracewine-app.web.app/)
 
 Back-end application: [Back-end application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
 
@@ -1818,7 +1819,7 @@ Como se mencionó previamente en el planeamiento del sprint número 3, el objeti
 
 Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. 
 
-A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este segundo sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este tercer sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
 [Link de acceso al Sprint Backlog #3 en Trello](https://trello.com/invite/b/683cc46878ea32ade67856f9/ATTI23b0375a9ab9a22dc3fbfa6b725d78072F320565/corebyte-sprint-backlog-3)
 
 <p align="center">
@@ -2833,7 +2834,665 @@ Grafico de los push y merge realizados por el equipo:
 <p align="center">
   <img src="../assets/img/chapter-V/grafica.png" 
   alt="grafica back end"/>
-    
+
+### 5.2.4. Sprint 4 
+
+Repositorio: [Repositorio](https://github.com/orgs/4424-Corebyte-App-Web/repositories)
+
+Landing page desployed: [Landing page](https://landingpage-exp.web.app/)
+
+Front-end application: [Front-end application](https://tracewine-app.web.app/)
+
+Back-end application: [Back-end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
+
+#### 5.2.4.1. Sprint Planning 4.
+
+A continuación, se detalla, en la tabla siguiente, información sobre el planeamiento del último sprint del proyecto. Además, para este sprint se definió un objetivo para cubrir los aspectos de sitio web estático, aplicación front-end y aplicación back-end. Una sección del objetivo se centra en desarrollar una mejora visual para el sitio web estático y añadir mejoras para secciones para los videos acerca del producto y del equipo de desarrollo para los visitantes del sitio web. Por otro lado, el segundo objetivo se centra en la implementación de consumo de servicios de la aplicación backend para la aplicación front-end de Corebyte. Finalmente, el último objetivo del sprint se centra en la implementación de endpoints relacionados con filtrado de pedidos y autenticación de usuarios.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+     <tr>
+      <th>Sprint #</th>
+      <td>Sprint 4</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Sprint Planning Background</th>
+      <td>--</td>
+    </tr>
+    <tr>
+      <th>Date</th>
+      <td>2025/06/20</td>
+    </tr>
+    <tr>
+      <th>Time</th>
+      <td>13:00 PM</td>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <td> Reunión virtual - Meet </td>
+    </tr>
+    <tr>
+      <th>Prepared By</th>
+      <td>Oscar Armas</td>
+    </tr>
+    <tr>
+      <th>Attendees</th>
+      <td>Renzo Miguel Llerena Delagado / Diaz Quispe Matías Sebastian / Renzo Alonso Villafuerte Tapia / Oscar Javier Armas Sánchez / Torres Apolinario Giovany Smith</td>
+    </tr>
+    <tr>
+      <th>Sprint 3 Review Summary</th>
+      <td>
+        Durante el Sprint #3, el equipo realizó progresos significativos en la implementación de la gestión de inventarios, la administración de productos terminados, el manejo del proceso de vinificación por lotes de cosecha de uvas, así como en la gestión de reportes y estado de ordenes.
+      </td>
+    </tr>
+    <tr>
+      <th>Sprint 3 Retrospective Summary</th>
+      <td>
+        Durante este sprint, el equipo enfrentó desafíos significativos, especialmente debido a un tiempo reducido para completar las tareas asignadas. Esta limitación impactó la comunicación y la gestión de actividades, lo que generó dificultades en el flujo de trabajo. A pesar de estos obstáculos, logramos cumplir con los objetivos establecidos gracias al compromiso y la colaboración de los demás miembros del equipo.
+      </td>
+    </tr>
+    <tr>
+      <th>Sprint Goal &amp; User Stories</th>
+      <td>--</td>
+    </tr>
+    <tr>
+      <th>Sprint 4 Goal</th>
+      <td>
+        Nuestro sprint goal consite en mejorar la administración de las ordenes, el proceso de pedidos, la gestión del proceso de vinificación para vitivinivultores y la interacción de los usuarios con la plataforma TraceWine. Se implementarán nuevos puntos finales en el backend para permitir la integración de funciones de gestión de inventarios, pedidos clientes, autenticación y se realizarán mejoras en la aplicación web y la landing page de  TraceWine. Esto incluirá la posibilidad de buscar, editar y eliminar ítems en el inventario, proceso de vinificación, generar reportes y administar el estado de cada pedido con un filtrado de busqueda.
+      </td>
+    </tr>
+    <tr>
+      <th>Sprint 4 Velocity</th>
+      <td>130</td>
+    </tr>
+    <tr>
+      <th>Sum of Story Points</th>
+      <td>130</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+En esta sección, se incluye la matriz de liderazgo y colaboración desarrollada para este último sprint. Los principales aspectos que se toman en cuenta en este sprint se centran en cada las principales secciones que presenta el Front-End Web Application y en su contraparte para el Back-End Application. Para esto, hemos definido las siguientes secciones: Ordenes, Autenticación, Alertas, gestion de lote y sales and analytics
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Ordenes</th>
+      <th>Autenticación</th>
+      <th>Alertas</th>
+      <th>Gestión de lotes</th>
+      <th>Sales and analytics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Renzo Miguel Llerena Delagado</td>
+      <td>Renxoll</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Diaz Quispe Matías Sebastian</td>
+      <td>equinox-1092</td>
+      <td></td>
+      <td></td>
+      <td>C</td>
+      <td></td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Renzo Alonso Villafuerte Tapia</td>
+      <td>RenzoVi21</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Oscar Javier Armas Sánchez</td>
+      <td>Racso24k</td>
+      <td>C</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Torres Apolinario Giovany Smith</td>
+      <td>Giovany7x</td>
+      <td>L</td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4.
+
+Como se mencionó previamente en el planeamiento de este sprint, el objetivo del mismo es concluir definitivamente con el sitio web estático integrando una mejora en las secciones que informen a los visitantes sobre los desarrolladores del producto y sobre el producto en sí; implementarle a la aplicación frontend la capacidad de consumir los servicios web que ofrece la aplicación backend e implementar endpoints en la aplicación backend necesarios para la implementación de características relacionadas a órdenes de compra y autenticación de usuarios
+
+Luego de definir el objetivo del sprint, se identificaron las historias de usuario útiles para este sprint. A continuación, se dividió cada historia de usuario en tareas relacionadas a la implementación y cumplimiento de dicha historia. Para ello, se utilizó la aplicación Trello que nos ayuda a gestionar el progreso del sprint.
+[Link de acceso al Sprint Backlog #4 en Trello](https://trello.com/invite/b/685ec6c02c321e4413f954a9/ATTIca81f84e22bdf48b7a8b2441cb0182deA97EAEC6/corebyte-sprint-backlog-4)
+
+<p align="center">
+  <img src="../assets/img/chapter-V/Sprint4.png" 
+  alt="Sprint4"/>
+
+A continuación, se presenta la tabla con las tareas necesarias para completar satisfactoriamente este último sprint. Además, se asignó un miembro del equipo a cada tarea a desarrollar y el estado de cada tarea.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+     <tr>
+          <th colspan="2" align="left">Sprint 4</th>
+          <th colspan="6" align="left">Sprint Backlog 4</th>
+        </tr>
+        <tr>
+          <th colspan="2" align="left">User Stories</th>
+          <th colspan="6" align="left">Work Item/Task</th>
+        </tr>
+    <tr>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Id</th>
+          <th align="left">Title</th>
+          <th align="left">Description</th>
+          <th align="left">Estimation (Hours)</th>
+          <th align="left">Assigned to</th>
+          <th align="left">Status</th>
+        </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>US020</td>
+      <td>Buscar clientes distribuidores por nombre</td>
+      <td>US-020T001</td>
+      <td>Implementar barra de busqueda</td>
+      <td>Desarrollo barra de busqueda con id del distribuidor para una busqueda mas rapida</td>
+      <td>2</td>
+      <td>Matias Diaz</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US026</td>
+      <td>Recepción de notificaciones sobre el estado del pedido</td>
+      <td>US-026T001</td>
+      <td>Implementar notificaciones</td>
+      <td>Desarrollo de notificaciones en plataforma y envío de correo al cambiar estado del pedido</td>
+      <td>3</td>
+      <td>Matias Diaz</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS018</td>
+      <td>Eliminar un pedido</td>
+      <td>TS-018T001</td>
+      <td>Implementar un endpoint DELETE</td>
+      <td>Desarrollo del endpoint DELETE /orders/{id} que responda 204 y 400 según el caso</td>
+      <td>3</td>
+      <td>Giovany Torres</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS017</td>
+      <td>Buscar y filtrar ítems en el inventario</td>
+      <td>TS-017T001</td>
+      <td>Implementar endpoint GET</td>
+      <td>Desarrollo del endpoint GET /inventory/search que responda 200 y 404 según el caso</td>
+      <td>3</td>
+      <td>Oscar Javier</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS012</td>
+      <td>Actualizar estado de un pedido</td>
+      <td>TS-012T001</td>
+      <td>Implementar endpoint PUT</td>
+      <td>Desarrollo del endpoint PUT /orders/{id}/status que responda 200 y 400 según el caso</td>
+      <td>5</td>
+      <td>Matias Diaz</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS003</td>
+      <td>Eliminar Datos de los Procesos de Vinificación</td>
+      <td>TS-003T001</td>
+      <td>Implementar endpoint DELETE</td>
+      <td>Desarrollo del endpoint DELETE /vinification que responda 204, 404 y 403 según el caso</td>
+      <td>6</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS004</td>
+      <td>Crear Datos de los Procesos de Vinificación</td>
+      <td>TS-004T001</td>
+      <td>Implementar endpoint POST</td>
+      <td>Desarrollo del endpoint POST /vinification que responda 201, 400 y 403 según el caso</td>
+      <td>3</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS015</td>
+      <td>Eliminar un ítem del inventario</td>
+      <td>TS-015T001</td>
+      <td>Implementar endpoint DELETE</td>
+      <td>Desarrollo del endpoint DELETE /inventory/{id} que responda 204, 404 y 403 según el caso</td>
+      <td>2</td>
+      <td>Oscar Javier</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS006</td>
+      <td>Editar los detalles de un cliente distribuidor</td>
+      <td>TS-006T001</td>
+      <td>Implementar endpoint PUT</td>
+      <td>Desarrollo del endpoint PUT /cliente-distribuidor que responda 200, 400 y 403 según el caso</td>
+      <td>3</td>
+      <td>Renzo Villafuerte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS011</td>
+      <td>Creación y Gestión de Pedidos de Vinos</td>
+      <td>TS-011T001</td>
+      <td>Implementar endpoints de pedidos</td>
+      <td>Desarrollo de endpoint POST /orders (201), GET /orders/stock (200) y PUT /orders/{id} (200)</td>
+      <td>4</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS005</td>
+      <td>Crear un cliente distribuidor</td>
+      <td>TS-005T001</td>
+      <td>Implementar endpoint POST</td>
+      <td>Desarrollo del endpoint POST /cliente-distribuidor que responda 201, 400 y 403 según el caso</td>
+      <td>4</td>
+      <td>Renzo Villafuerte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS008</td>
+      <td>Ver los detalles de un cliente distribuidor</td>
+      <td>TS-008T001</td>
+      <td>Implementar endpoint GET</td>
+      <td>Desarrollo del endpoint GET /cliente-distribuidor/{id} que responda 200, 404 y 403 según el caso</td>
+      <td>4</td>
+      <td>Renzo Villafuerte</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS002</td>
+      <td>Editar Datos de los Procesos de Vinificación</td>
+      <td>TS-002T001</td>
+      <td>Implementar endpoint PUT</td>
+      <td>Desarrollo del endpoint PUT /vinification que responda 200, 404 y 400 según el caso</td>
+      <td>5</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS001</td>
+      <td>Obtener Datos de los procesos de vinificación</td>
+      <td>TS-001T001</td>
+      <td>Implementar endpoint GET</td>
+      <td>Desarrollo del endpoint GET /vinification que responda 200 y 400 según el caso</td>
+      <td>2</td>
+      <td>Renzo Miguel</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección, se describen los principales avances de implementación realizados en este último sprint.
+
+A continuación, se muestra una tabla que contiene la información sobre los commits hechos que contienen partes de las funcionalidades que debemos implementar para completar este sprint.
+
+Repositorio del sitio web estático: [Landing page](https://github.com/4424-Corebyte-App-Web/Corebyte-Landing-Page)
+
+Repositorio de la aplicación Frontend: [Frontend application](https://github.com/4424-Corebyte-App-Web/corebyte-front-end-application)
+
+Repositorio de la aplicación Backend: [Backend application](https://github.com/4424-Corebyte-App-Web/corebyte-back-end-application)
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commited On</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Co4424-Corebyte-App-Web/corebyte-back-end-application</td>
+      <td>feature/replenishment</td>
+      <td>c1dddf33398605dc6e022b81def0af93d20c8851</td>
+      <td>feat:update fron connection deploy</td>
+      <td>08/07/2025</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review. 
+
+En esta sección, se explica lo logrado en este sprint con pruebas de lo implementado. Primero, los logros de este sprint incluyen la implementación de una mejora en las secciones con dos videos para los visitantes del sitio web: uno que incluye información relacionada a las características y beneficios que ofrece la aplicación web, y otro que detalla información del equipo de desarrollo de la aplicación a lo largo del ciclo de vida del proyecto. También, los logros incluyen la implementación en la aplicación frontend de poder consumir servicios web de parte de la aplicación backend en todas las secciones implementadas previamente. Finalmente, también, se logró implementar unos cuantos endpoints en la aplicación backend relacionados con órdenes, autenticación, gestion de lotes, reabastecimiento, historial y estado del pedido
+
+A continuación, se muestran las capturas de pantalla de las secciones implementadas en la Landing Page, aplicación Front End y aplicación Backend. Estas imágenes reflejan el progreso realizado en el sprint y sirven como evidencia del trabajo completado.
+
+## **Landing Page**
+
+Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejecución del sitio web estático. El vídeo muestra el funcionamiento de cada sección del sitio web y cómo se ve en un navegador web.
+
+   - Sitio web estático desplegado: [Landing page](https://landingpage-exp.web.app/)
+   - Vídeo de ejecución: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9XMUV8puZDjeUXhEqU1XgB1fidHSwnkwI7wogm_0i-EQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=I2M556)
+
+     <p align="center">
+  <img src="../assets/img/chapter-V/landingpageexplicacion.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+## **Front End Application**
+
+Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo se ve en un navegador web.
+
+   - Aplicación Frontend desplegada: [Front-end application](https://tracewine-app.web.app/)
+   - Vídeo de ejecución de la Aplicación Frontend: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EVgDzZ6FZgJJoK_nl3xtMsoBmo6A_0U9hh7i8UUrDoy1UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bUSdp1)
+
+     <p align="center">
+  <img src="../assets/img/chapter-V/frontendphotoexplicacion.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+## **Back End Application** 
+
+Se adjuntan los enlaces para acceder a la aplicación backend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo fueron nombradas las rutas de los endpoints implementados.
+
+   - Aplicación Backend desplegada: [Back-end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
+   - Vídeo de ejecución de la Aplicación Backend: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EcjPMVKidRBFoCtB0znRUa4BcemGnwwpw0IMQc42gFAlkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sDCysW)
+
+     <p align="center">
+  <img src="../assets/img/chapter-V/backendphotoexplicacion.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+En esta sección, se describe la evidencia de documentación de los endpoints que se han implementado en la aplicación backend de nuestro proyecto para este sprint. A continuación, se muestra la tabla que contiene una breve descripción de las acciones y requisitos de cada endpoint implementado.
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Módulo</th>
+      <th>Endpoint</th>
+      <th>Acción</th>
+      <th>Verbo HTTP</th>
+      <th>Parámetros</th>
+      <th>Enlace a Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Authentication</td>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>Iniciar sesión</td>
+      <td>POST</td>
+      <td>Body: { username, password }</td>
+      <td>[Ver Link](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)</td>
+    </tr>
+   <tr>
+      <td>Orders</td>
+      <td>/api/v1/order</td>
+      <td>Listar todas las órdenes</td>
+      <td>GET</td>
+      <td>Ninguno</td>
+      <td>[Ver Link](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+
+Para asegurar un desarrollo estructurado y un despliegue eficiente, se organizaron los componentes del proyecto en tres partes principales: la Landing Page, el Frontend y Backend funcional. Cada uno fue alojado en su propio repositorio de GitHub, con procesos de desarrollo independientes y métodos de despliegue distintos. A continuación, se detalla el flujo de trabajo seguido en cada caso, junto con evidencia visual del resultado final. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue del sitio web estático.
+
+- Despliegue del Landing Page
+
+Para el despliegue del sitio web estático, usamos Firebase por última vez. Esta es una herramienta que permite alojar sitios web estáticos directamente desde un servicio de google. A continuación, se detalla el proceso seguido para el despliegue del sitio web estático:
+
+Se adjunta el enlace para acceder al sitio web estático desplegado: [Landing page](https://landingpage-exp.web.app/)
+
+   - Partimos de la rama develop del repositorio del sitio web estático con todos los cambios realizados para este sprint.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso1.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, enviamos todos los cambios realizados en este segundo sprint desde la rama de desarrollo a una nueva rama de tipo release "release/landing-page-v4.0". Desde esa rama, se realizará el último despliegue del sitio web estático.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso2.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, ejecutamos el comando cp index.html en la consola de nuestro proyecto. Este comando actualizará la carpeta dist que había sido creada para el despliegue anterior.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso3.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso4.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, en la consola ingresamos el comando "firebase login" y decimos NO. Luego, nos solicitará que ingresemos con nuestra cuenta de Google con la que creamos el proyecto.
+   - A continuación, se nos muestra una pantalla de inicio de sesión exitoso, lo que significa que hemos realizado correcto el anterior paso.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso5.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - A continuación, ingresamos el comando firebase deploy, pero antes de eso ingresamos el comando npm run build para construir una nueva versión del proyecto con todos los últimos cambios.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso6.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, ingresamos con el enlace que nos proporciona y podremos visualizar el proyecto desplegado
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - En esta imagen se puede visualizar el despliegue realizado en firebase con la fecha y hora de la última actualización.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso8.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Finalmente, tras la ejecución del despliegue del Frontend a través de Firebase, se muestra la evidencia del despliegue:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/landingpaso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Despliegue de la Aplicación Frontend
+
+Para el despliegue de esta aplicación, se utilizó Firebase Hosting, una plataforma que permite alojar aplicaciones web de manera sencilla y eficiente. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Frontend:
+
+Se adjunta el enlace a la aplicación frontend desplegada: [Front-end application](https://tracewine-app.web.app/)
+
+   - Partimos de la rama develop del repositorio de la aplicación frontend con todos los cambios realizados para el sprint actual.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso1.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, enviamos todos los cambios realizados en este tercer sprint desde la rama de desarrollo a una nueva rama de tipo release "release/front-end-app-v3.0". Desde esa rama, se realizará el tercer y último despliegue de la aplicación front-end.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso2.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, ejecutamos el comando npm run build en la consola de nuestro proyecto. Este comando actualizará la carpeta dist que había sido creada para el despliegue anterior.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso3.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso4.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Luego, en la consola ingresamos el comando "firebase login" y decimos NO. Luego, nos solicitará que ingresemos con nuestra cuenta de Google con la que creamos el proyecto.
+   - A continuación, se nos muestra una pantalla de inicio de sesión exitoso, lo que significa que hemos realizado correcto el anterior paso.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso5.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - A continuación, ingresamos el comando firebase deploy, pero antes de eso ingresamos el comando npm run build para construir una nueva versión del proyecto con todos los últimos cambios.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso6.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+   - Luego, ingresamos con el enlace que nos proporciona y podremos visualizar el proyecto desplegado
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - En esta imagen se puede visualizar el despliegue realizado en firebase con la fecha y hora de la última actualización.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso8.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+   
+   - Finalmente, tras la ejecución del despliegue del Frontend a través de Firebase, se muestra la evidencia del despliegue:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/paso7.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Despliegue del Back End
+
+Para el despliegue de esta aplicación, se utilizó Render, una plataforma que permite desplegar aplicaciones web de manera sencilla y eficiente que ayuda con el despliegue cada que se realizan cambios al repositorio. Para el paso inicial, nos basamos en la configuración inicial de los repositorios de los productos a desarrollar (Sección 5.1.4.). A continuación, se explica del proceso de despliegue de la aplicación Backend:
+
+Se adjunta el enlace a la aplicación backend desplegada: [Back end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
+
+- Partimos de la rama develop del repositorio de la aplicación frontend con todos los cambios realizados para el sprint actual.
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso1.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Ingresamos a nuestro rider, pasando al anticlich sobre le proyecto
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso2.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Al hacer click en publishing, ingresaremos en el nombre de nuestra app
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso3.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Despues de haber aplicado los cambios, se pasara a desplegar en la plataforma de Azure
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso4.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+- Una vez desplegado le agregaremos la siguiente linea "/swagger/index.html"
+
+<p align="center">
+  <img src="../assets/img/chapter-V/backendpaso5.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+En esta sección se detalla cómo se llevaron a cabo las actividades de implementación durante el sprint, así como un resumen de las labores realizadas por cada miembro del equipo para el cumplimiento completo de la entrega relacionada a este sprint.
+
+El proyecto se realizó mediante un repositorio en GitHub con los siguientes integrantes participantes:
+
+<p align="center">
+  <img src="../assets/img/chapter-V/people.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
+
+A continuation, se detallará el trabajo que realizo cada integrante del equipo para cada producto avanzado en este sprint:
+
+- Landing Page
+
+  - El integrante Renzo Villafuerte formo parte de la grabación del ultimo video del equipo
+  - El integrante Giovany Torres formo parte de la grabación del ultimo video del equipo
+  - El integrante Renzo Miguel formo parte de la grabación del ultimo video del equipo
+  - El integrante Oscar Javier formo parte de la grabación del ultimo video del equipo
+  - El intregrante Matias Diaz mejoro el apartado del nosotros del landing page y formo parte de la grabación del ultimo video del equipo
+
+A continuación, se adjunta el gráfico con la cantidad de commits realizados por cada integrante del equipo durante este sprint para el desarrollo de la segundo versión del sitio web estático. Cada barra indica la cantidad de commits realizados en cada rama, reflejando el progreso del equipo en el desarrollo de las actualizaciones de las secciones del sitio web.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/comminpage.png" 
+  alt="Commits"/>
+
+También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la Landing Page. En este gráfico se puede observar el flujo de desarrollo del sitio web estático, donde las ramas que se desarrollaron fueron las relacionadas a las secciones que contienen los vídeos acerca del equipo de desarrollo y del producto.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/GraphicPage.png" 
+  alt="Desarrollo"/>
+
+- Aplicación Frontend
+
+  - El integrante Renzo Villafuerte fue responsable de implementar el consumo de servicios web para autenticación y perfil
+  - El integrante Giovany Torres fue responsable de implementar el consumo de servicios web para órdenes de los pedidos
+  - El integrante Renzo Miguel fue responsable de implementar el consumo de servicios web para gestion de lotes para cada proceso
+  - El integrante Oscar Javier fue responsable de implementar el consumo de servicios web para reabastecimientos de los productos
+  - El intregrante Matias Diaz fue responsable de implementar el consumo de servicios web para generación de reportes en formato pdf, estado de los pedidos, alertas y el análisis de venta
+
+A continuación, se muestra la cantidad de commits realizados por los integrantes para el avance de la última versión de la aplicación Frontend. Cada barra indica la cantidad de commits realizados en cada rama, reflejando el progreso del equipo en la implementación de los servicios web en todas las secciones de la aplicación.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/commitfront.png" 
+  alt="Commits-Frontend"/>
+
+También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la aplicación front end. Este gráfico indica el flujo de desarrollo de la aplicación, donde cada rama representa una funcionalidad específica que se implementó durante el sprint para la aplicación frontend principalmente la implementación del consumo de servicios web y autenticación de usuarios.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/GraphicFront.png" 
+  alt="Desarrollo-Frontend"/>
+
+- Aplicación Backend
+
+  - El integrante Renzo Villafuerte realizó correcciones en los respectivos endpoints para authentication
+  - El integrante Giovany Torres realizó correcciones en los respectivos endpoints para orders
+  - El integrante Renzo Miguel realizó correcciones en los respectivos endpoints para batch-management
+  - El integrante Oscar Javier realizó correcciones en los respectivos endpoints para replenishment
+  - El intregrante Matias Diaz realizó correcciones en los respectivos endpoints para history-status
+
+A continuación, se muestra el siguiente gráfico que detalla la cantidad de commits realizados por cada miembro durante este sprint. El gráfico detalla el aporte realizado por cada integrante del equipo para el avance de la última versión de la aplicación backend.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/commitback.png" 
+  alt="Commits-BackEnd"/>
+
+También, se adjunta el gráfico del avance realizado por cada rama de funcionalidades por el equipo en la aplicación backend. Este gráfico indica el flujo de desarrollo de la aplicación, donde cada rama representa una funcionalidad específica que se implementó durante el sprint para la aplicación backend, entre ellas se incluye endpoints para características como órdenes de compra, catálogos, perfiles, usuarios y suscripciones.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/GraphicBack.png" 
+  alt="Desarrollo-Frontend"/>
+
 ## 5.3. Validation Interviews. 
 
 En esta sección se realizarán entrevistas mediante las cuales buscamos recoger opiniones y recomendaciones. Esto asegura que la aplicación web no solo cumpla con los requisitos técnicos, sino también con las expectativas de nuestros segmentos objetivos.
