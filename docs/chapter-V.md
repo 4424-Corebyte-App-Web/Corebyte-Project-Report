@@ -3201,21 +3201,33 @@ A continuación, se muestran las capturas de pantalla de las secciones implement
 Se adjuntan los enlaces para acceder al sitio web desplegado y al vídeo de ejecución del sitio web estático. El vídeo muestra el funcionamiento de cada sección del sitio web y cómo se ve en un navegador web.
 
    - Sitio web estático desplegado: [Landing page](https://landingpage-exp.web.app/)
-   - Vídeo de ejecución:
+   - Vídeo de ejecución: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EZ9XMUV8puZDjeUXhEqU1XgB1fidHSwnkwI7wogm_0i-EQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=I2M556)
+
+     <p align="center">
+  <img src="../assets/img/chapter-V/landingpageexplicacion.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
 
 ## **Front End Application**
 
 Se adjuntan los enlaces para acceder a la aplicación frontend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo se ve en un navegador web.
 
    - Aplicación Frontend desplegada: [Front-end application](https://tracewine-app.web.app/)
-   - Vídeo de ejecución de la Aplicación Frontend:
+   - Vídeo de ejecución de la Aplicación Frontend: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EVgDzZ6FZgJJoK_nl3xtMsoBmo6A_0U9hh7i8UUrDoy1UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bUSdp1)
+
+     <p align="center">
+  <img src="../assets/img/chapter-V/frontendphotoexplicacion.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
 
 ## **Back End Application** 
 
 Se adjuntan los enlaces para acceder a la aplicación backend desplegada y al vídeo de ejecución de la misma. El vídeo muestra el funcionamiento de cada sección implementada y cómo fueron nombradas las rutas de los endpoints implementados.
 
    - Aplicación Backend desplegada: [Back-end application](https://corebyte-backendapplication.azurewebsites.net/swagger/index.html)
-   - Vídeo de ejecución de la Aplicación Backend:
+   - Vídeo de ejecución de la Aplicación Backend: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311938_upc_edu_pe/EcjPMVKidRBFoCtB0znRUa4BcemGnwwpw0IMQc42gFAlkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sDCysW)
+
+     <p align="center">
+  <img src="../assets/img/chapter-V/backendphotoexplicacion.png" 
+  alt="Sprint goal y Stories del Sprint #4"/>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
 
